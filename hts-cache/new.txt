@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:30:41	46670/46670	---MCZ	200	added ('OK')	text/html	date:Thu,%2013%20Jan%202022%2013:30:39%20GMT	https://sites.google.com/ku.edu.tr/bkullukcu/about-me	C:/My%20Web%20Sites/Personal%20Website/sites.google.com/ku.edu.tr/bkullukcu/about-me.html	(from )
+16:30:41	67/67	---MCZ	200	added ('OK')	text/plain	date:Thu,%2013%20Jan%202022%2013:30:39%20GMT	https://sites.google.com/robots.txt		(from )
+16:30:42	12982/12982	---MC-	200	added ('OK')	application/javascript	date:Thu,%2013%20Jan%202022%2013:30:40%20GMT	https://apis.google.com/js/client.js?onload=gapiLoaded	C:/My%20Web%20Sites/Personal%20Website/apis.google.com/js/clientc932.js	(from https://sites.google.com/ku.edu.tr/bkullukcu/about-me)
+16:30:43	2766301/2766301	---M--	200	added ('OK')	image/png	date:Thu,%2003%20Oct%202019%2010:15:00%20GMT	https://ssl.gstatic.com/atari/images/impression-header.png	C:/My%20Web%20Sites/Personal%20Website/ssl.gstatic.com/atari/images/impression-header.png	(from https://sites.google.com/ku.edu.tr/bkullukcu/about-me)
