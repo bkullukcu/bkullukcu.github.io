@@ -149,7 +149,8 @@ a:hover {
 */
 
 #tmPortfolio {
-  padding-top: 80px;
+  width: 50%;
+  margin: 0 auto;
   border: 0.1pt solid #ccc;
 }
 
