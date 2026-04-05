@@ -2,11 +2,12 @@
   "site": {
     "title": "Volkan Aydingul",
     "description": "Volkan Aydingul's personal website",
+    "logo": "./logo192.png",
     "logoAlt": "VA Logo",
     "copyright": "Volkan Aydingul"
   },
   "home": {
-    "greeting": "Hi, there!",
+    "greeting": "Hi, there you bitch!",
     "subtitle": "Engineer, programmer, researcher, and a dreamer.",
     "highlights": [
       {
@@ -115,20 +116,10 @@
         "description": "Exchange of ideas and questions that push the boundaries of our understanding",
         "image": "projects/maybe-one-day.png",
         "links": [
-          {
-            "url": "https://github.com/vaydingul/maybeoneday-public",
-            "label": "GitHub"
-          },
-          {
-            "url": "https://www.maybe-one-day.com",
-            "label": "Website"
-          }
+          { "url": "https://github.com/vaydingul/maybeoneday-public", "label": "GitHub" },
+          { "url": "https://www.maybe-one-day.com", "label": "Website" }
         ],
-        "tags": [
-          "AI",
-          "Chatbot",
-          "LLM"
-        ]
+        "tags": ["AI", "Chatbot", "LLM"]
       },
       {
         "title": "Paper Digest",
@@ -136,16 +127,9 @@
         "description": "Automated paper retrieval and natural language summarization pipelines",
         "image": "projects/paperdigest.png",
         "links": [
-          {
-            "url": "https://paperdigest.xyz",
-            "label": "Website"
-          }
+          { "url": "https://paperdigest.xyz", "label": "Website" }
         ],
-        "tags": [
-          "AI",
-          "Arxiv",
-          "Summarization"
-        ]
+        "tags": ["AI", "Arxiv", "Summarization"]
       },
       {
         "title": "CARLA Environment",
@@ -153,16 +137,9 @@
         "description": "A customizable environment for autonomous driving using CARLA simulator.",
         "image": "projects/carla.jpeg",
         "links": [
-          {
-            "url": "https://github.com/vaydingul/carla_env",
-            "label": "GitHub"
-          }
+          { "url": "https://github.com/vaydingul/carla_env", "label": "GitHub" }
         ],
-        "tags": [
-          "CARLA",
-          "Autonomous Driving",
-          "Simulation"
-        ]
+        "tags": ["CARLA", "Autonomous Driving", "Simulation"]
       },
       {
         "title": "Actor-Critic Model Predictive Control",
@@ -170,16 +147,9 @@
         "description": "A model predictive control framework that uses Actor-Critic model to predict the future state of the system.",
         "image": "projects/actor-critic.png",
         "links": [
-          {
-            "url": "https://github.com/vaydingul/actor-critic-mpc",
-            "label": "GitHub"
-          }
+          { "url": "https://github.com/vaydingul/actor-critic-mpc", "label": "GitHub" }
         ],
-        "tags": [
-          "RL",
-          "MPC",
-          "Control Systems"
-        ]
+        "tags": ["RL", "MPC", "Control Systems"]
       },
       {
         "title": "Haptics",
@@ -187,21 +157,10 @@
         "description": "Projects focused on controlling experimental setups in the Robotics and Mechatronics Laboratory. Includes Surface Haptics Setup control and TacTX - a framework for DAQ device control in MATLAB.",
         "image": "projects/finger.jpg",
         "links": [
-          {
-            "url": "https://github.com/vaydingul/Surface_Haptics_Setup",
-            "label": "Surface Haptics Setup"
-          },
-          {
-            "url": "https://github.com/vaydingul/TacTX",
-            "label": "TacTX"
-          }
+          { "url": "https://github.com/vaydingul/Surface_Haptics_Setup", "label": "Surface Haptics Setup" },
+          { "url": "https://github.com/vaydingul/TacTX", "label": "TacTX" }
         ],
-        "tags": [
-          "MATLAB",
-          "DAQ",
-          "Haptics",
-          "Control Systems"
-        ]
+        "tags": ["MATLAB", "DAQ", "Haptics", "Control Systems"]
       },
       {
         "title": "Deep Learning in Julia",
@@ -209,25 +168,11 @@
         "description": "A collection of deep learning implementations in Julia using Knet framework, including HapticFCN, FCN library, and data handling utilities.",
         "image": "projects/julia_dl.png",
         "links": [
-          {
-            "url": "https://github.com/vaydingul/HapticFCN.jl",
-            "label": "HapticFCN"
-          },
-          {
-            "url": "https://github.com/vaydingul/FCN.jl",
-            "label": "FCN"
-          },
-          {
-            "url": "https://github.com/vaydingul/GDH.jl",
-            "label": "GDH"
-          }
+          { "url": "https://github.com/vaydingul/HapticFCN.jl", "label": "HapticFCN" },
+          { "url": "https://github.com/vaydingul/FCN.jl", "label": "FCN" },
+          { "url": "https://github.com/vaydingul/GDH.jl", "label": "GDH" }
         ],
-        "tags": [
-          "Julia",
-          "Deep Learning",
-          "CNN",
-          "Knet"
-        ]
+        "tags": ["Julia", "Deep Learning", "CNN", "Knet"]
       },
       {
         "title": "TensorLib",
@@ -235,16 +180,9 @@
         "description": "A tensor library for basic operations, created for a deep-learning-from-scratch project. Supports arbitrary dimensions and various mathematical operations.",
         "image": "projects/tensor.png",
         "links": [
-          {
-            "url": "https://github.com/vaydingul/TensorLib",
-            "label": "GitHub"
-          }
+          { "url": "https://github.com/vaydingul/TensorLib", "label": "GitHub" }
         ],
-        "tags": [
-          "C++",
-          "Tensor Operations",
-          "Mathematics"
-        ]
+        "tags": ["C++", "Tensor Operations", "Mathematics"]
       },
       {
         "title": "Computational Physics",
@@ -252,20 +190,10 @@
         "description": "Collection of computational physics projects, including analysis of White Dwarf data and various physics simulations.",
         "image": "projects/physics.jpg",
         "links": [
-          {
-            "url": "https://github.com/vaydingul/PHYS514-Problem_Sets",
-            "label": "Course Projects"
-          },
-          {
-            "url": "https://github.com/vaydingul/PHYS514_Project",
-            "label": "White Dwarf Analysis"
-          }
+          { "url": "https://github.com/vaydingul/PHYS514-Problem_Sets", "label": "Course Projects" },
+          { "url": "https://github.com/vaydingul/PHYS514_Project", "label": "White Dwarf Analysis" }
         ],
-        "tags": [
-          "Physics",
-          "Data Analysis",
-          "Simulation"
-        ]
+        "tags": ["Physics", "Data Analysis", "Simulation"]
       },
       {
         "title": "Robot Motion Planning",
@@ -273,20 +201,10 @@
         "description": "Implementation of a motion planning algorithm using Potential Field Method for a 2-linked robotic arm.",
         "image": "projects/robot.jpg",
         "links": [
-          {
-            "url": "https://github.com/vaydingul/robot-motion-planning",
-            "label": "GitHub"
-          },
-          {
-            "url": "https://colab.research.google.com/drive/1bQN3pF2ijRC-mpllqRBaNvI67GU2RvTo?usp=sharing",
-            "label": "Colab"
-          }
+          { "url": "https://github.com/vaydingul/robot-motion-planning", "label": "GitHub" },
+          { "url": "https://colab.research.google.com/drive/1bQN3pF2ijRC-mpllqRBaNvI67GU2RvTo?usp=sharing", "label": "Colab" }
         ],
-        "tags": [
-          "Python",
-          "Robotics",
-          "Motion Planning"
-        ]
+        "tags": ["Python", "Robotics", "Motion Planning"]
       },
       {
         "title": "Swarm Algorithm",
@@ -294,16 +212,9 @@
         "description": "Light-weight implementation of swarm intelligence algorithms in C++.",
         "image": "projects/swarm.jpg",
         "links": [
-          {
-            "url": "https://github.com/vaydingul/SwarmAlgorithm",
-            "label": "GitHub"
-          }
+          { "url": "https://github.com/vaydingul/SwarmAlgorithm", "label": "GitHub" }
         ],
-        "tags": [
-          "C++",
-          "Swarm Intelligence",
-          "Simulation"
-        ]
+        "tags": ["C++", "Swarm Intelligence", "Simulation"]
       }
     ]
   },
