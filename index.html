@@ -8,8 +8,18 @@
     <meta name="description" content="Volkan Aydingul's personal website" />
     <link rel="apple-touch-icon" href="./logo192.png" />
     <link rel="manifest" href="./manifest.json" />
-    <title>Volkan Aydingul</title>
-    <script type="module" crossorigin src="./assets/index-BC_P8epX.js"></script>
+    <title>Loading...</title>
+    <script>
+      fetch("./config.json")
+        .then(function(r) { return r.json(); })
+        .then(function(c) {
+          document.title = c.site.title;
+          var desc = document.querySelector('meta[name="description"]');
+          if (desc) desc.setAttribute("content", c.site.description);
+        })
+        .catch(function() {});
+    </script>
+    <script type="module" crossorigin src="./assets/index-hrzC4VMN.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/index-CIfVvUo9.css">
   </head>
   <body>
