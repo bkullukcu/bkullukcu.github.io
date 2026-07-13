@@ -1,0 +1,367 @@
+{
+  "site": {
+    "title": "Berkay Kullukçu",
+    "description": "Portfolio von Berkay Kullukçu, Akustikforscher und Maschinenbauingenieur mit Schwerpunkten in Fahrzeugakustik, Psychoakustik, vibroakustischer Diagnostik, Signalverarbeitung und experimentellen Methoden.",
+    "logo": "./logo192.png",
+    "logoAlt": "BK-Monogramm",
+    "copyright": "Berkay Kullukçu"
+  },
+  "home": {
+    "greeting": "Hallo, ich bin Berkay",
+    "subtitle": "Akustikforscher und Maschinenbauingenieur mit Spezialisierung auf Fahrzeugakustik, Psychoakustik, vibroakustische Diagnostik und experimentelle Methoden.",
+    "highlights": [
+      {
+        "icon": "SchoolIcon",
+        "title": "Akustik & Psychoakustik",
+        "description": "Forschung zu Fahrzeugakustik, AVAS-Sounddesign, Klangqualität, semantischer Bewertung, psychoakustischen Kenngrößen und Hörversuchen."
+      },
+      {
+        "icon": "BuildIcon",
+        "title": "Vibroakustische Diagnostik",
+        "description": "Zustandsüberwachung von Schienenfahrzeugkomponenten und Schraubverbindungen anhand akustischer, schwingungstechnischer und nichtlinearer Antwortmessungen."
+      },
+      {
+        "icon": "CodeIcon",
+        "title": "Engineering & Datenanalyse",
+        "description": "Signalverarbeitung, Statistik, Data Science, FEM-Simulation, Messautomatisierung und Entwicklung experimenteller Systeme."
+      }
+    ],
+    "exploreCards": [
+      {
+        "icon": "TimelineIcon",
+        "title": "Erfahrung",
+        "description": "Mein akademischer, wissenschaftlicher und industrieller Werdegang",
+        "buttonText": "Zeitleiste ansehen",
+        "path": "/timeline"
+      },
+      {
+        "icon": "WorkIcon",
+        "title": "Forschungsportfolio",
+        "description": "Ausgewählte Projekte aus Akustik, Sensorik und Engineering",
+        "buttonText": "Projekte ansehen",
+        "path": "/projects"
+      },
+      {
+        "icon": "SchoolIcon",
+        "title": "Publikationen",
+        "description": "Alle Zeitschriftenartikel, Konferenzbeiträge und meine Masterarbeit",
+        "buttonText": "Publikationen ansehen",
+        "path": "/resume"
+      },
+      {
+        "icon": "PersonIcon",
+        "title": "Über mich",
+        "description": "Mehr über mein Forschungsprofil, meine Methoden und meinen technischen Hintergrund",
+        "buttonText": "Über mich",
+        "path": "/about"
+      },
+      {
+        "icon": "ContactMailIcon",
+        "title": "Kontakt",
+        "description": "Kontakt für Forschung, Engineering oder berufliche Möglichkeiten",
+        "buttonText": "Kontakt aufnehmen",
+        "path": "/contact"
+      }
+    ]
+  },
+  "about": {
+    "title": "Über mich",
+    "sections": [
+      {
+        "title": "Aktuelle Forschung",
+        "paragraphs": [
+          "Ich bin wissenschaftlicher Mitarbeiter im <a href=\"https://www.th-wildau.de/forschung-transfer/forschung/forschungsfelder-schwerpunkte/forschungsfeld-nachhaltige-werteschoepfung/maschinendynamik-und-akustik\" target=\"_blank\" rel=\"noopener\">Fachgebiet Maschinendynamik und Akustik der TH Wildau</a>. Meine aktuelle Arbeit untersucht die akustik- und schwingungsbasierte Zustandsüberwachung von Schienenfahrzeugkomponenten, insbesondere gelockerte Schraubverbindungen und strukturelle Defekte. Zu den zugehörigen Veröffentlichungen gehören das <a href=\"https://arxiv.org/pdf/2605.29950\" target=\"_blank\" rel=\"noopener\">Forum-Acusticum-Preprint</a> und der <a href=\"https://opus4.kobv.de/opus4-th-wildau/files/2191/180.pdf\" target=\"_blank\" rel=\"noopener\">DAGA-Beitrag zu SIAMIS</a>.",
+          "Parallel dazu promoviere ich an der <a href=\"https://tu-dresden.de/ing/elektrotechnik/ias/aha\" target=\"_blank\" rel=\"noopener\">Professur für Akustik und Haptik der TU Dresden</a>. Im Mittelpunkt meiner Dissertation stehen akustische Fahrzeugwarnsysteme für elektrische Lkw. Wichtige Ergebnisse sind der <a href=\"https://aes2.org/publications/elibrary-page/?id=22813\" target=\"_blank\" rel=\"noopener\">JAES-Zeitschriftenartikel</a>, die <a href=\"https://pub.dega-akustik.de/DAS-DAGA_2025/files/upload/paper/30.pdf\" target=\"_blank\" rel=\"noopener\">Untersuchung der Maskierung in Elektro-Lkw</a> sowie Konferenzbeiträge zur <a href=\"https://dael.euracoustics.org/confs/landing_pages/fa2025/000714.html\" target=\"_blank\" rel=\"noopener\">semantischen AVAS-Modellierung</a>, zum <a href=\"https://www.ingentaconnect.com/contentone/ince/incecp/2024/00000270/00000010/art00002;jsessionid=bfo7l3dbtpl8b.x-ic-live-02\" target=\"_blank\" rel=\"noopener\">Design von Warnsignalen</a> und zu <a href=\"https://pub.dega-akustik.de/DAGA_2024/files/upload/paper/121.pdf\" target=\"_blank\" rel=\"noopener\">Anforderungen an AVAS für elektrische Lkw</a>."
+        ]
+      },
+      {
+        "title": "Technischer Hintergrund",
+        "paragraphs": [
+          "Mein Profil verbindet wissenschaftliche Forschung mit produktorientiertem Engineering. Ich war in der Auslegung von Turbowellen- und Turboproptriebwerken bei GE Aerospace, in der Entwicklung flexibler elektronischer Sensoren bei Kordsa, in Krankenhausmonitoring und IoT-Systemen als Start-up-Mitgründer sowie in der Softwareentwicklung für die Automobil- und Luftfahrtindustrie tätig.",
+          "Im <a href=\"https://microdevices.ku.edu.tr\" target=\"_blank\" rel=\"noopener\">Bio-Integrated Microdevices Laboratory der Koç University</a> arbeitete ich an flexiblen piezoelektrischen Energy Harvestern und der Modellierung von Ultraschallwandlern. Daraus entstanden ein <a href=\"https://www.tandfonline.com/doi/abs/10.1080/10584587.2023.2239101\" target=\"_blank\" rel=\"noopener\">Artikel in Integrated Ferroelectrics</a>, ein <a href=\"https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=3987&context=elektrik\" target=\"_blank\" rel=\"noopener\">Artikel zu einem Windenergie-Harvester</a>, meine <a href=\"https://tudresdende-my.sharepoint.com/:b:/g/personal/beku950f_tu-dresden_de/EWER16YvHqJHlGmLyOz-0tABgOVJwgsC3MRQgTAos7PdEw?e=PqwBAm\" target=\"_blank\" rel=\"noopener\">Masterarbeit</a> und ein <a href=\"https://ieeexplore.ieee.org/document/9251723\" target=\"_blank\" rel=\"noopener\">IEEE-IUS-Beitrag</a>."
+        ]
+      },
+      {
+        "title": "Forschungsansatz",
+        "paragraphs": [
+          "Ich arbeite von der Messung bis zur Interpretation: Zunächst definiere ich die technische Fragestellung, entwickle ein kontrolliertes Experiment, erfasse reproduzierbare Daten, wende statistische oder signalverarbeitende Modelle an und überführe die Ergebnisse in konkrete Design- oder Diagnoseentscheidungen.",
+          "Dieser Ansatz führte zu begutachteten Arbeiten in den Bereichen Akustik, Schwingungswahrnehmung, Energy Harvesting und Ultraschallwandler. Ein Beispiel ist mein <a href=\"https://www.nature.com/articles/s41598-026-40033-4\" target=\"_blank\" rel=\"noopener\">Scientific-Reports-Artikel zur Wahrnehmung von Ganzkörperschwingungen</a>. Die vollständige Publikationsliste finden Sie auf der Seite Publikationen & CV sowie bei <a href=\"https://scholar.google.com/citations?user=1P4pBzQAAAAJ&hl=tr\" target=\"_blank\" rel=\"noopener\">Google Scholar</a>."
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "aboutText": "Akustikforscher und Maschinenbauingenieur mit Schwerpunkten in Psychoakustik, Fahrzeugakustik, vibroakustischer Diagnostik, Sensorik und experimentellem Engineering.",
+    "email": "berkay.kullukcu@tu-dresden.de",
+    "location": "Berlin, Deutschland",
+    "socialLinks": [
+      {
+        "icon": "LinkedInIcon",
+        "url": "https://www.linkedin.com/in/bkullukcu",
+        "label": "LinkedIn"
+      },
+      {
+        "icon": "GitHubIcon",
+        "url": "https://github.com/bkullukcu",
+        "label": "GitHub"
+      },
+      {
+        "icon": "SchoolIcon",
+        "url": "https://scholar.google.com/citations?user=1P4pBzQAAAAJ&hl=tr",
+        "label": "Google Scholar"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Ausgewählte Forschungs- und Engineeringarbeiten",
+    "subtitle": "Projekte aus Psychoakustik, Zustandsüberwachung, Sensorik und technischer Entwicklung",
+    "items": [
+      {
+        "title": "AVAS-Sounddesign für elektrische Lkw",
+        "subtitle": "Nutzerzentrierte psychoakustische Entwicklung von Warnsignalen",
+        "description": "Entwicklung und Bewertung akustischer Fahrzeugwarnsysteme für elektrische Lkw mittels semantischer Profilierung, psychoakustischer Hörversuche, binauraler Synthese und Klangqualitätsanalyse.",
+        "image": "projects/avas.png",
+        "links": [
+          {
+            "url": "https://aes2.org/publications/elibrary-page/?id=22813",
+            "label": "JAES-Zeitschriftenartikel"
+          },
+          {
+            "url": "https://pub.dega-akustik.de/DAGA_2024/files/upload/paper/121.pdf",
+            "label": "DAGA-2024-Beitrag"
+          },
+          {
+            "url": "https://www.ingentaconnect.com/contentone/ince/incecp/2024/00000270/00000010/art00002;jsessionid=bfo7l3dbtpl8b.x-ic-live-02",
+            "label": "INTER-NOISE-2024-Beitrag"
+          }
+        ],
+        "tags": [
+          "AVAS",
+          "Psychoakustik",
+          "Klangqualität",
+          "Binaurales Audio"
+        ]
+      },
+      {
+        "title": "Psychoakustische Modellierung von Fahrzeuggeräuschen",
+        "subtitle": "Verknüpfung von Signalmerkmalen und semantischer Wahrnehmung",
+        "description": "Entwicklung nutzerorientierter semantischer Attribute und Wahrnehmungsmodelle für Elektrofahrzeuggeräusche auf Grundlage von Hörversuchsdaten, psychoakustischen Kenngrößen, Statistik und multivariater Analyse.",
+        "image": "projects/psychoacoustics.png",
+        "links": [
+          {
+            "url": "https://www.nature.com/articles/s41598-026-40033-4",
+            "label": "Scientific-Reports-Artikel"
+          },
+          {
+            "url": "https://dael.euracoustics.org/confs/landing_pages/fa2025/000714.html",
+            "label": "Forum-Acusticum-2025-Beitrag"
+          }
+        ],
+        "tags": [
+          "Statistik",
+          "Wahrnehmungsmodellierung",
+          "Rauigkeit",
+          "Tonalität"
+        ]
+      },
+      {
+        "title": "Maskierungsschwellen in elektrischen Lkw",
+        "subtitle": "Hörbarkeitsgrenzen in realistischen Fahrzeuginnenräumen",
+        "description": "Experimentelle Bestimmung auditiver Maskierungsschwellen im Innenraumgeräusch elektrischer Lkw als Grundlage für hörbare, aber nicht aufdringliche Warn- und Informationssignale.",
+        "image": "projects/masking.png",
+        "links": [
+          {
+            "url": "https://pub.dega-akustik.de/DAS-DAGA_2025/files/upload/paper/30.pdf",
+            "label": "DAGA-2025-Beitrag"
+          }
+        ],
+        "tags": [
+          "Hörversuche",
+          "Maskierung",
+          "Fahrzeuginnenraum",
+          "Versuchsplanung"
+        ]
+      },
+      {
+        "title": "Zustandsüberwachung von Schraubverbindungen",
+        "subtitle": "Vibroakustische Erkennung von Lockerung und nichtlinearem Verhalten",
+        "description": "Untersuchung des Einflusses von Anziehdrehmoment und gelockerten Verbindungen auf akustische und schwingungstechnische Antworten, einschließlich Einzelfrequenz- und frequenzmodulierter Anregung für die Diagnose von Schienenfahrzeugkomponenten.",
+        "image": "projects/bolted-joint.png",
+        "links": [
+          {
+            "url": "https://arxiv.org/pdf/2605.29950",
+            "label": "Forum-Acusticum-2026-Preprint"
+          },
+          {
+            "url": "https://opus4.kobv.de/opus4-th-wildau/files/2191/180.pdf",
+            "label": "DAGA-2026-Beitrag"
+          }
+        ],
+        "tags": [
+          "Zustandsüberwachung",
+          "Schwingungen",
+          "Nichtlinearität",
+          "Schienensysteme"
+        ]
+      },
+      {
+        "title": "Flexible piezoelektrische Energy Harvester",
+        "subtitle": "PVDF-TrFE-Systeme für Structural Health Monitoring",
+        "description": "Auslegung, Modellierung, Fertigung und experimentelle Prüfung flexibler Polymer-Energy-Harvester unter Kombination akustischer Ersatzschaltbilder, Finite-Elemente-Simulation sowie Mikro- und Nanofabrikation.",
+        "image": "projects/piezo.png",
+        "links": [
+          {
+            "url": "https://www.tandfonline.com/doi/abs/10.1080/10584587.2023.2239101",
+            "label": "SHM-Zeitschriftenartikel"
+          },
+          {
+            "url": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=3987&context=elektrik",
+            "label": "Artikel zum Windenergie-Harvester"
+          },
+          {
+            "url": "https://tudresdende-my.sharepoint.com/:b:/g/personal/beku950f_tu-dresden_de/EWER16YvHqJHlGmLyOz-0tABgOVJwgsC3MRQgTAos7PdEw?e=PqwBAm",
+            "label": "Masterarbeit"
+          },
+          {
+            "url": "https://ieeexplore.ieee.org/document/9251723",
+            "label": "IEEE-IUS-Beitrag"
+          }
+        ],
+        "tags": [
+          "PVDF-TrFE",
+          "FEM",
+          "Mikrofabrikation",
+          "Structural Health Monitoring"
+        ]
+      },
+      {
+        "title": "Medizinisches IoT und patentierte Monitoringsysteme",
+        "subtitle": "Vernetzte Geräte für sicherere Krankenhausprozesse",
+        "description": "Mitgründung eines Start-ups zur Krankenhausdigitalisierung und Entwicklung von Sensor- und Kommunikationskonzepten für Infusionspumpen, invasive Geräte, Beatmungsmonitoring und nasogastrale Sondensysteme.",
+        "image": "projects/medical-iot.png",
+        "links": [
+          {
+            "url": "https://patents.google.com/patent/TR2022001302A1/en?q=(kullukcu)&oq=kullukcu",
+            "label": "Patent zur nasogastralen Sonde"
+          },
+          {
+            "url": "https://patents.google.com/patent/TR2022007637Y/en?q=(kullukcu)&oq=kullukcu",
+            "label": "Patent zur Infusionspumpe"
+          }
+        ],
+        "tags": [
+          "IoT",
+          "Medizintechnik",
+          "Sensoren",
+          "Patente"
+        ]
+      }
+    ]
+  },
+  "timeline": {
+    "title": "Beruflicher und akademischer Werdegang",
+    "items": [
+      {
+        "title": "TH Wildau – Wissenschaftlicher Mitarbeiter",
+        "date": "Oktober 2025 – heute",
+        "description": "Forschung zur akustik- und schwingungsbasierten Zustandsüberwachung von Schienenfahrzeugkomponenten mit Schwerpunkt auf gelockerten Schraubverbindungen und strukturellen Defekten.",
+        "image": "timeline/th-wildau.png"
+      },
+      {
+        "title": "TU Dresden – Doktorand",
+        "date": "April 2023 – heute",
+        "description": "Promotionsforschung zum AVAS-Sounddesign für elektrische Lkw, zu psychoakustischen Versuchen, semantischer Bewertung, Hörbarkeit von Warnsignalen und binauraler Klangsynthese.",
+        "image": "timeline/tu-dresden.png"
+      },
+      {
+        "title": "GE Aerospace – Entwicklungsingenieur",
+        "date": "November 2022 – März 2023",
+        "description": "Entwicklungsarbeit an den Turbowellen- und Turboproptriebwerksprogrammen CT7/T700.",
+        "image": "timeline/ge-aerospace.png"
+      },
+      {
+        "title": "TEDAVEM Information Systems – Mitgründer",
+        "date": "Juni 2021 – Januar 2023",
+        "description": "Mitgründung eines Start-ups zur Krankenhausdigitalisierung; Entwicklung von IoT-Monitoringkonzepten und integrierter Kommunikationselektronik für medizinische Geräte.",
+        "image": "timeline/tedavem.png"
+      },
+      {
+        "title": "Kordsa – Forscher für flexible Elektronik",
+        "date": "März 2022 – September 2022",
+        "description": "Arbeit an Dünnschichten und flexiblen elektronischen Sensoren sowie Entwicklung von LabVIEW-Software für experimentelle Prüfungen.",
+        "image": "timeline/kordsa.png"
+      },
+      {
+        "title": "Koç University – MSc Maschinenbau",
+        "date": "2020 – 2022",
+        "description": "Forschung zu flexiblen Polymer-Energy-Harvestern, PMUTs, Mikro-/Nanofabrikation und akustischen Ersatzschaltbildmodellen.",
+        "image": "timeline/koc-msc.png"
+      },
+      {
+        "title": "Renault Group – Praktikant Automotive R&D",
+        "date": "Juni 2019 – August 2019",
+        "description": "Entwicklung eines CATIA-Automatisierungswerkzeugs mit mehr als 20.000 Codezeilen zur Bearbeitung von 3D-Bauteilen in F&E-Prozessen.",
+        "image": "timeline/renault.png"
+      },
+      {
+        "title": "Koç University – BSc Maschinenbau",
+        "date": "2015 – 2020",
+        "description": "Bachelorstudium im Maschinenbau und Mitarbeit an einem tragbaren Sensorsystem zur Erkennung einer venösen Nadeldislokation.",
+        "image": "timeline/koc-bsc.png"
+      }
+    ]
+  },
+  "resume": {
+    "source": "./resume-de.json"
+  },
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "subtitle": "Ich bin offen für Positionen und Kooperationen in Akustik, NVH, Signalverarbeitung, experimenteller F&E und Research Engineering.",
+    "contactInfo": [
+      {
+        "icon": "EmailIcon",
+        "label": "E-Mail",
+        "value": "berkay.kullukcu@tu-dresden.de",
+        "description": "Bevorzugter Kontaktweg"
+      },
+      {
+        "icon": "LocationOnIcon",
+        "label": "Standort",
+        "value": "Berlin, Deutschland",
+        "description": "Aktueller Wohnort"
+      },
+      {
+        "icon": "WorkIcon",
+        "label": "Aktuelle Position",
+        "value": "Wissenschaftlicher Mitarbeiter, TH Wildau",
+        "description": "Maschinendynamik und Akustik"
+      },
+      {
+        "icon": "SchoolIcon",
+        "label": "Promotion",
+        "value": "Dr.-Ing.-Doktorand, TU Dresden",
+        "description": "Elektrotechnik – Akustik und Haptik"
+      }
+    ],
+    "socialLinks": [
+      {
+        "icon": "LinkedInIcon",
+        "url": "https://www.linkedin.com/in/bkullukcu",
+        "label": "LinkedIn",
+        "description": "Berufliches Profil und Erfahrung"
+      },
+      {
+        "icon": "GitHubIcon",
+        "url": "https://github.com/bkullukcu",
+        "label": "GitHub",
+        "description": "Code und technische Projekte"
+      },
+      {
+        "icon": "SchoolIcon",
+        "url": "https://scholar.google.com/citations?user=1P4pBzQAAAAJ&hl=tr",
+        "label": "Google Scholar",
+        "description": "Vollständige Publikations- und Zitationsübersicht"
+      }
+    ]
+  }
+}

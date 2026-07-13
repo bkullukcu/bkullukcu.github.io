@@ -34600,7 +34600,14 @@ const gR = w.createContext(null),
                         ],
                       }),
                       E.jsx(Wj, {
-                        sx: { p: 2, pt: 0 },
+                        sx: {
+                          p: 2,
+                          pt: 0,
+                          display: "flex",
+                          flexDirection: "column",
+                          alignItems: "stretch",
+                          gap: 0.5,
+                        },
                         children: s.links.map((u, f) =>
                           E.jsx(
                             To,
@@ -34614,8 +34621,24 @@ const gR = w.createContext(null),
                                   ? E.jsx(w0, {})
                                   : E.jsx(r7, {}),
                               sx: {
+                                width: "100%",
+                                justifyContent: "flex-start",
+                                textAlign: "left",
+                                whiteSpace: "normal",
+                                lineHeight: 1.35,
+                                py: 0.75,
+                                px: 1,
                                 color: "text.secondary",
-                                "&:hover": { color: "primary.main" },
+                                borderRadius: 1,
+                                "&:hover": {
+                                  color: "primary.main",
+                                  backgroundColor: "rgba(33, 150, 243, 0.08)",
+                                },
+                                "& .MuiButton-startIcon": {
+                                  flexShrink: 0,
+                                  alignSelf: "flex-start",
+                                  mt: "2px",
+                                },
                               },
                               children: u.label,
                             },
