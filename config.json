@@ -42,6 +42,13 @@
         "path": "/projects"
       },
       {
+        "icon": "SchoolIcon",
+        "title": "Publications",
+        "description": "Browse all journal articles, conference papers, and my master's thesis",
+        "buttonText": "View Publications",
+        "path": "/resume"
+      },
+      {
         "icon": "PersonIcon",
         "title": "About",
         "description": "Learn about my research profile, methods, and technical background",
@@ -63,22 +70,22 @@
       {
         "title": "Current Research",
         "paragraphs": [
-          "I am a scientific employee in the <a href=\"https://www.th-wildau.de/forschung-transfer/forschung/forschungsfelder-schwerpunkte/forschungsfeld-nachhaltige-werteschoepfung/maschinendynamik-und-akustik\" target=\"_blank\" rel=\"noopener\">Department of Machine Dynamics and Acoustics at TH Wildau</a>. My current work investigates acoustic and vibration-based condition monitoring of rail-vehicle components, with emphasis on loose bolted joints and structural defects.",
-          "In parallel, I conduct doctoral research at the <a href=\"https://tu-dresden.de/ing/elektrotechnik/ias/aha\" target=\"_blank\" rel=\"noopener\">Chair of Acoustics and Haptics at TU Dresden</a>. My PhD work focuses on acoustic vehicle alerting systems for electric trucks, combining psychoacoustic listening tests, semantic sound evaluation, signal analysis, and binaural sound synthesis."
+          "I am a scientific employee in the <a href=\"https://www.th-wildau.de/forschung-transfer/forschung/forschungsfelder-schwerpunkte/forschungsfeld-nachhaltige-werteschoepfung/maschinendynamik-und-akustik\" target=\"_blank\" rel=\"noopener\">Department of Machine Dynamics and Acoustics at TH Wildau</a>. My current work investigates acoustic and vibration-based condition monitoring of rail-vehicle components, with emphasis on loose bolted joints and structural defects. Related outputs include the <a href=\"https://arxiv.org/pdf/2605.29950\" target=\"_blank\" rel=\"noopener\">Forum Acusticum preprint</a> and the <a href=\"https://opus4.kobv.de/opus4-th-wildau/files/2191/180.pdf\" target=\"_blank\" rel=\"noopener\">DAGA SIAMIS paper</a>.",
+          "In parallel, I conduct doctoral research at the <a href=\"https://tu-dresden.de/ing/elektrotechnik/ias/aha\" target=\"_blank\" rel=\"noopener\">Chair of Acoustics and Haptics at TU Dresden</a>. My PhD work focuses on acoustic vehicle alerting systems for electric trucks. Key outputs include the <a href=\"https://aes2.org/publications/elibrary-page/?id=22813\" target=\"_blank\" rel=\"noopener\">JAES journal article</a>, the <a href=\"https://pub.dega-akustik.de/DAS-DAGA_2025/files/upload/paper/30.pdf\" target=\"_blank\" rel=\"noopener\">electric-truck masking study</a>, and conference papers on <a href=\"https://dael.euracoustics.org/confs/landing_pages/fa2025/000714.html\" target=\"_blank\" rel=\"noopener\">semantic AVAS modeling</a>, <a href=\"https://www.ingentaconnect.com/contentone/ince/incecp/2024/00000270/00000010/art00002;jsessionid=bfo7l3dbtpl8b.x-ic-live-02\" target=\"_blank\" rel=\"noopener\">warning-sound design</a>, and <a href=\"https://pub.dega-akustik.de/DAGA_2024/files/upload/paper/121.pdf\" target=\"_blank\" rel=\"noopener\">electric-truck AVAS requirements</a>."
         ]
       },
       {
         "title": "Engineering Background",
         "paragraphs": [
           "My background bridges research and product-oriented engineering. I have worked on turboshaft and turboprop engine design at GE Aerospace, flexible electronic sensors at Kordsa, hospital-monitoring and IoT systems as a start-up co-founder, and engineering software development in the automotive and aerospace sectors.",
-          "Across these roles, I have used MATLAB, Python, SQL, COMSOL FEM, Artemis Suite, LabVIEW, CATIA, and Patran. My experimental work includes free-field and binaural microphones, accelerometers, Squadriga II/III acquisition systems, listening tests, and perceptual modeling."
+          "At the <a href=\"https://microdevices.ku.edu.tr\" target=\"_blank\" rel=\"noopener\">Bio-Integrated Microdevices Laboratory at Koç University</a>, I worked on flexible piezoelectric energy harvesters and ultrasonic transducer modeling. The resulting outputs include an <a href=\"https://www.tandfonline.com/doi/abs/10.1080/10584587.2023.2239101\" target=\"_blank\" rel=\"noopener\">Integrated Ferroelectrics article</a>, a <a href=\"https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=3987&context=elektrik\" target=\"_blank\" rel=\"noopener\">wind-energy harvester article</a>, my <a href=\"https://tudresdende-my.sharepoint.com/:b:/g/personal/beku950f_tu-dresden_de/EWER16YvHqJHlGmLyOz-0tABgOVJwgsC3MRQgTAos7PdEw?e=PqwBAm\" target=\"_blank\" rel=\"noopener\">master's thesis</a>, and an <a href=\"https://ieeexplore.ieee.org/document/9251723\" target=\"_blank\" rel=\"noopener\">IEEE IUS paper</a>."
         ]
       },
       {
         "title": "Research Approach",
         "paragraphs": [
           "I work from measurement to interpretation: define the engineering question, design a controlled experiment, acquire reproducible data, apply statistical or signal-processing models, and translate the result into a design or diagnostic decision.",
-          "This approach has led to peer-reviewed publications in acoustics, vibration perception, piezoelectric energy harvesting, and ultrasonic transducer modeling, as well as three medical-device patents."
+          "This approach has led to peer-reviewed work across acoustics, vibration perception, energy harvesting, and ultrasonic transducers. My <a href=\"https://www.nature.com/articles/s41598-026-40033-4\" target=\"_blank\" rel=\"noopener\">Scientific Reports article on whole-body vibration perception</a> is one example. The complete publication list is available on the Publications & CV page and on <a href=\"https://scholar.google.com/citations?user=1P4pBzQAAAAJ&hl=tr\" target=\"_blank\" rel=\"noopener\">Google Scholar</a>."
         ]
       }
     ]
@@ -117,11 +124,15 @@
         "links": [
           {
             "url": "https://aes2.org/publications/elibrary-page/?id=22813",
-            "label": "Journal Article"
+            "label": "JAES Journal Article"
           },
           {
             "url": "https://pub.dega-akustik.de/DAGA_2024/files/upload/paper/121.pdf",
-            "label": "Requirements Study"
+            "label": "DAGA 2024 Paper"
+          },
+          {
+            "url": "https://www.ingentaconnect.com/contentone/ince/incecp/2024/00000270/00000010/art00002;jsessionid=bfo7l3dbtpl8b.x-ic-live-02",
+            "label": "INTER-NOISE 2024 Paper"
           }
         ],
         "tags": [
@@ -138,12 +149,12 @@
         "image": "projects/psychoacoustics.png",
         "links": [
           {
-            "url": "https://dael.euracoustics.org/confs/landing_pages/fa2025/000714.html",
-            "label": "Conference Paper"
+            "url": "https://www.nature.com/articles/s41598-026-40033-4",
+            "label": "Scientific Reports Article"
           },
           {
-            "url": "https://arxiv.org/pdf/2605.29950",
-            "label": "Multi-Source AVAS Study"
+            "url": "https://dael.euracoustics.org/confs/landing_pages/fa2025/000714.html",
+            "label": "Forum Acusticum 2025 Paper"
           }
         ],
         "tags": [
@@ -161,7 +172,7 @@
         "links": [
           {
             "url": "https://pub.dega-akustik.de/DAS-DAGA_2025/files/upload/paper/30.pdf",
-            "label": "DAGA Paper"
+            "label": "DAGA 2025 Paper"
           }
         ],
         "tags": [
@@ -178,8 +189,12 @@
         "image": "projects/bolted-joint.png",
         "links": [
           {
+            "url": "https://arxiv.org/pdf/2605.29950",
+            "label": "Forum Acusticum 2026 Preprint"
+          },
+          {
             "url": "https://opus4.kobv.de/opus4-th-wildau/files/2191/180.pdf",
-            "label": "Research Paper"
+            "label": "DAGA 2026 Paper"
           }
         ],
         "tags": [
@@ -197,15 +212,19 @@
         "links": [
           {
             "url": "https://www.tandfonline.com/doi/abs/10.1080/10584587.2023.2239101",
-            "label": "SHM Article"
+            "label": "SHM Journal Article"
           },
           {
             "url": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=3987&context=elektrik",
             "label": "Wind Harvester Article"
           },
           {
+            "url": "https://tudresdende-my.sharepoint.com/:b:/g/personal/beku950f_tu-dresden_de/EWER16YvHqJHlGmLyOz-0tABgOVJwgsC3MRQgTAos7PdEw?e=PqwBAm",
+            "label": "Master's Thesis"
+          },
+          {
             "url": "https://ieeexplore.ieee.org/document/9251723",
-            "label": "Ultrasound Modeling"
+            "label": "IEEE IUS Paper"
           }
         ],
         "tags": [
@@ -341,7 +360,7 @@
         "icon": "SchoolIcon",
         "url": "https://scholar.google.com/citations?user=1P4pBzQAAAAJ&hl=tr",
         "label": "Google Scholar",
-        "description": "Peer-reviewed publications and citation profile"
+        "description": "Complete publication record and citation profile"
       }
     ]
   }

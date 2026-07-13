@@ -16,7 +16,11 @@
     {
       "degree": "MSc in Mechanical Engineering",
       "dates": "2020 - 2022",
-      "institution": "Koç University, College of Engineering"
+      "institution": "Koç University, College of Engineering",
+      "thesis": {
+        "title": "Piezoelectric PVDF-TrFE/PET Energy Harvesters for Structural Health Monitoring Applications in Wind Turbines",
+        "url": "https://tudresdende-my.sharepoint.com/:b:/g/personal/beku950f_tu-dresden_de/EWER16YvHqJHlGmLyOz-0tABgOVJwgsC3MRQgTAos7PdEw?e=PqwBAm"
+      }
     },
     {
       "degree": "BSc in Mechanical Engineering",
@@ -86,38 +90,115 @@
       "authors": "B. Kullukçu, J. Krautwurm, S. Merchel, R. Rosenkranz, M. E. Altinsoy",
       "venue": "Scientific Reports",
       "year": "2026",
-      "doi": "10.1038/s41598-026-40033-4"
+      "type": "Journal article",
+      "url": "https://www.nature.com/articles/s41598-026-40033-4",
+      "linkLabel": "Article"
+    },
+    {
+      "title": "Perceived Annoyance in Multi-Source Electric Vehicle AVAS Environments",
+      "authors": "B. Kullukçu, S. Atamer, J. Krautwurm, M. E. Altinsoy",
+      "venue": "32nd International Conference on Sound and Vibration (ICSV32), Istanbul, Turkey - Accepted",
+      "year": "2026",
+      "type": "Conference paper"
+    },
+    {
+      "title": "Frequency-Modulated and Single-Tone Excitation to Reveal Vibro-Acoustic Nonlinearities in Loosened Bolted Joints",
+      "authors": "B. Kullukçu, R. Pianowski, D. Hannebauer",
+      "venue": "Forum Acusticum, Graz, Austria - Accepted",
+      "year": "2026",
+      "type": "Conference paper",
+      "url": "https://arxiv.org/pdf/2605.29950",
+      "linkLabel": "Preprint"
+    },
+    {
+      "title": "SIAMIS: Experimental Study on the Acoustic Behavior of Bolted Joints Under Varying Tightening Torques",
+      "authors": "B. Kullukçu, R. Kamenzky, D. Hannebauer",
+      "venue": "DAGA, Dresden, Germany",
+      "year": "2026",
+      "type": "Conference paper",
+      "url": "https://opus4.kobv.de/opus4-th-wildau/files/2191/180.pdf",
+      "linkLabel": "Paper"
     },
     {
       "title": "Electric Truck Sound Design: A User-Centered Psychoacoustic Approach to AVAS",
       "authors": "B. Kullukçu, R. Rosenkranz, M. E. Altinsoy",
       "venue": "Journal of the Audio Engineering Society",
-      "year": "2025"
-    },
-    {
-      "title": "Piezoelectric PVDF-TrFE/PET Energy Harvesters for Structural Health Monitoring Applications",
-      "authors": "B. Kullukçu et al.",
-      "venue": "Integrated Ferroelectrics",
-      "year": "2023",
-      "doi": "10.1080/10584587.2023.2239101"
-    },
-    {
-      "title": "Design and Modeling of a PVDF-TrFE Flexible Wind Energy Harvester",
-      "authors": "B. Kullukçu, L. Beker",
-      "venue": "Turkish Journal of Electrical Engineering and Computer Sciences",
-      "year": "2023"
+      "year": "2025",
+      "type": "Journal article",
+      "url": "https://aes2.org/publications/elibrary-page/?id=22813",
+      "linkLabel": "Article"
     },
     {
       "title": "Psychoacoustic Modelling of AVAS Sounds: Consumer-Centric Semantic Attribute Development for Electric Vehicles",
       "authors": "B. Kullukçu, M. Engel, S. Atamer, M. E. Altinsoy",
-      "venue": "Forum Acusticum",
-      "year": "2025"
+      "venue": "Forum Acusticum, Málaga, Spain",
+      "year": "2025",
+      "type": "Conference paper",
+      "url": "https://dael.euracoustics.org/confs/landing_pages/fa2025/000714.html",
+      "linkLabel": "Paper"
     },
     {
       "title": "Experimental Determination of the Masking Threshold in Electric Trucks",
       "authors": "B. Kullukçu, O. Zeidler, S. Atamer, M. E. Altinsoy",
-      "venue": "DAGA",
-      "year": "2025"
+      "venue": "DAGA, Copenhagen, Denmark",
+      "year": "2025",
+      "type": "Conference paper",
+      "url": "https://pub.dega-akustik.de/DAS-DAGA_2025/files/upload/paper/30.pdf",
+      "linkLabel": "Paper"
+    },
+    {
+      "title": "Designing Effective Warning Sounds: Psychoacoustical Considerations",
+      "authors": "B. Kullukçu, J. W. Lee, S. Atamer, M. E. Altinsoy",
+      "venue": "INTER-NOISE, Nantes, France",
+      "year": "2024",
+      "type": "Conference paper",
+      "url": "https://www.ingentaconnect.com/contentone/ince/incecp/2024/00000270/00000010/art00002;jsessionid=bfo7l3dbtpl8b.x-ic-live-02",
+      "linkLabel": "Paper"
+    },
+    {
+      "title": "Acoustic Vehicle Alerting Systems (AVAS) for Electric Trucks: Initial Thoughts for the Requirements",
+      "authors": "B. Kullukçu, R. Rosenkranz, M. E. Altinsoy",
+      "venue": "DAGA, Hannover, Germany",
+      "year": "2024",
+      "type": "Conference paper",
+      "url": "https://pub.dega-akustik.de/DAGA_2024/files/upload/paper/121.pdf",
+      "linkLabel": "Paper"
+    },
+    {
+      "title": "Piezoelectric PVDF-TrFE/PET Energy Harvesters for Structural Health Monitoring (SHM) Applications",
+      "authors": "B. Kullukçu et al.",
+      "venue": "Integrated Ferroelectrics",
+      "year": "2023",
+      "type": "Journal article",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/10584587.2023.2239101",
+      "linkLabel": "Article"
+    },
+    {
+      "title": "Design and Modeling of a PVDF-TrFE Flexible Wind Energy Harvester",
+      "authors": "B. Kullukçu, L. Beker",
+      "venue": "Turkish Journal of Electrical Engineering & Computer Sciences",
+      "year": "2023",
+      "type": "Journal article",
+      "url": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=3987&context=elektrik",
+      "linkLabel": "Article"
+    },
+    {
+      "title": "Piezoelectric PVDF-TrFE/PET Energy Harvesters for Structural Health Monitoring (SHM) Applications in Wind Turbines",
+      "authors": "B. Kullukçu",
+      "venue": "Master's thesis, Koç University",
+      "year": "2023",
+      "type": "Master's thesis",
+      "url": "https://tudresdende-my.sharepoint.com/:b:/g/personal/beku950f_tu-dresden_de/EWER16YvHqJHlGmLyOz-0tABgOVJwgsC3MRQgTAos7PdEw?e=PqwBAm",
+      "linkLabel": "Thesis"
+    },
+    {
+      "title": "Modeling miniaturized piezoelectric ultrasound transducers: comparison of lumped and finite element models",
+      "authors": "P. T. Ziarati, B. Kullukçu, L. Beker",
+      "venue": "2020 IEEE International Ultrasonics Symposium (IUS), Las Vegas, NV, USA",
+      "year": "2020",
+      "type": "Conference paper",
+      "url": "https://ieeexplore.ieee.org/document/9251723",
+      "linkLabel": "Paper"
     }
   ],
   "projects": [
@@ -132,7 +213,7 @@
     },
     {
       "name": "Bolted-Joint Vibro-Acoustic Diagnostics",
-      "url": "https://opus4.kobv.de/opus4-th-wildau/files/2191/180.pdf",
+      "url": "https://arxiv.org/pdf/2605.29950",
       "dates": "2025 - Present",
       "bullets": [
         "Experimental characterization of bolted joints under varying tightening torque.",

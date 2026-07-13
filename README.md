@@ -21,8 +21,13 @@ Then open `http://localhost:8000`.
 ## Main editable files
 
 - `config.json`: home, about, projects, timeline, footer, and contact content.
-- `resume.json`: structured resume page content.
+- `resume.json`: structured resume page content, including all journal articles, conference papers, and the master's thesis.
 - `Berkay_Kullukcu_CV.pdf`: downloadable CV.
 - `projects/` and `timeline/`: portfolio images.
 
 The displayed web pages use only city-level location and omit the phone number and postal code. The downloadable CV is the original supplied PDF and therefore retains its full contact details.
+
+
+## Publications and links
+
+The Publications section contains all 13 journal articles, conference papers, and the master's thesis listed in the supplied CV. Publication titles and their action chips are clickable. Exact publication URLs embedded in the CV were transferred to `resume.json` and reused on the About and Projects pages. The ICSV32 2026 paper is listed without a link because the supplied CV does not contain a hyperlink for that entry.
