@@ -12,12 +12,6 @@ python -m http.server 8000
 
 Then open `http://localhost:8000`.
 
-## GitHub Pages deployment
-
-1. Replace the files in your `bkullukcu.github.io` repository with the contents of this folder.
-2. Commit and push to the default branch.
-3. In GitHub repository settings, enable Pages from the repository root if it is not already enabled.
-
 ## Main editable files
 
 - `config.json`: home, about, projects, timeline, footer, and contact content.
@@ -26,6 +20,7 @@ Then open `http://localhost:8000`.
 - `projects/` and `timeline/`: portfolio images.
 
 The displayed web pages use only city-level location and omit the phone number and postal code. The downloadable CV is the original supplied PDF and therefore retains its full contact details.
+<<<<<<< HEAD
 
 
 ## Publications and links
@@ -36,3 +31,5 @@ The Publications section contains all 13 journal articles, conference papers, an
 ## Bilingual website
 
 English is the default language. Visitors can switch between English and German using the EN/DE button in the navigation bar. The choice is stored locally in the browser. German content is stored in `config-de.json` and `resume-de.json`; publication URLs remain identical in both language versions.
+=======
+>>>>>>> 9f1c58a172e32f55bf5316a8c28b9accf15212e1
