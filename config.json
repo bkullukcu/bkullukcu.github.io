@@ -1,57 +1,57 @@
 {
   "site": {
-    "title": "Volkan Aydingul",
-    "description": "Volkan Aydingul's personal website",
+    "title": "Berkay Kullukçu",
+    "description": "Portfolio of Berkay Kullukçu, an acoustics researcher and mechanical engineer working on vehicle sound, psychoacoustics, vibro-acoustic diagnostics, signal processing, and experimental methods.",
     "logo": "./logo192.png",
-    "logoAlt": "VA Logo",
-    "copyright": "Volkan Aydingul"
+    "logoAlt": "BK monogram",
+    "copyright": "Berkay Kullukçu"
   },
   "home": {
-    "greeting": "Hi, there you bitch!",
-    "subtitle": "Engineer, programmer, researcher, and a dreamer.",
+    "greeting": "Hi, I'm Berkay Kullukçu.",
+    "subtitle": "Acoustics researcher and mechanical engineer specializing in vehicle sound, psychoacoustics, vibro-acoustic diagnostics, and experimental methods.",
     "highlights": [
       {
-        "icon": "CodeIcon",
-        "title": "Software Development",
-        "description": "Passionate about creating efficient and elegant solutions using modern technologies."
-      },
-      {
         "icon": "SchoolIcon",
-        "title": "Research",
-        "description": "Focused on generative AI, computer vision, robotics, and control systems."
+        "title": "Acoustics & Psychoacoustics",
+        "description": "Research on vehicle acoustics, AVAS sound design, sound quality, semantic evaluation, psychoacoustic metrics, and listening experiments."
       },
       {
         "icon": "BuildIcon",
-        "title": "Engineering",
-        "description": "Experienced in robotics, control systems, and systems engineering."
+        "title": "Vibro-Acoustic Diagnostics",
+        "description": "Condition monitoring of rail-vehicle components and bolted joints using acoustic, vibration, and nonlinear response measurements."
+      },
+      {
+        "icon": "CodeIcon",
+        "title": "Engineering & Data Analysis",
+        "description": "Signal processing, statistics, data science, FEM simulation, measurement automation, and experimental system development."
       }
     ],
     "exploreCards": [
       {
         "icon": "TimelineIcon",
-        "title": "Timeline",
-        "description": "Journey through my academic and professional experiences",
+        "title": "Experience",
+        "description": "Follow my academic, research, and industrial experience",
         "buttonText": "View Timeline",
         "path": "/timeline"
       },
       {
         "icon": "WorkIcon",
-        "title": "Projects",
-        "description": "Explore my portfolio of innovative projects and contributions",
+        "title": "Research Portfolio",
+        "description": "Explore selected acoustics, sensing, and engineering projects",
         "buttonText": "View Projects",
         "path": "/projects"
       },
       {
         "icon": "PersonIcon",
         "title": "About",
-        "description": "Learn more about my background and expertise",
+        "description": "Learn about my research profile, methods, and technical background",
         "buttonText": "About Me",
         "path": "/about"
       },
       {
         "icon": "ContactMailIcon",
         "title": "Contact",
-        "description": "Get in touch with me for collaborations and opportunities",
+        "description": "Get in touch regarding research, engineering, or job opportunities",
         "buttonText": "Contact Me",
         "path": "/contact"
       }
@@ -61,278 +61,287 @@
     "title": "About Me",
     "sections": [
       {
-        "title": "Work",
+        "title": "Current Research",
         "paragraphs": [
-          "I currently work as an AI Research Engineer at <a href=\"https://www.codeway.co\" target=\"_blank\" rel=\"noopener\">Codeway Studios</a>, where I focus on developing cutting-edge audio-visual generative models. This role allows me to explore the fascinating intersection of artificial intelligence and multimedia content generation.",
-          "Prior to this, I gained valuable experience at the Autonomous Vision Group, where I worked on model-based policy learning for urban driving, and at KUIS AI Laboratory, where I conducted research in artificial intelligence applications."
+          "I am a scientific employee in the <a href=\"https://www.th-wildau.de/forschung-transfer/forschung/forschungsfelder-schwerpunkte/forschungsfeld-nachhaltige-werteschoepfung/maschinendynamik-und-akustik\" target=\"_blank\" rel=\"noopener\">Department of Machine Dynamics and Acoustics at TH Wildau</a>. My current work investigates acoustic and vibration-based condition monitoring of rail-vehicle components, with emphasis on loose bolted joints and structural defects.",
+          "In parallel, I conduct doctoral research at the <a href=\"https://tu-dresden.de/ing/elektrotechnik/ias/aha\" target=\"_blank\" rel=\"noopener\">Chair of Acoustics and Haptics at TU Dresden</a>. My PhD work focuses on acoustic vehicle alerting systems for electric trucks, combining psychoacoustic listening tests, semantic sound evaluation, signal analysis, and binaural sound synthesis."
         ]
       },
       {
-        "title": "Education",
+        "title": "Engineering Background",
         "paragraphs": [
-          "I took my BSc. degree from <a href=\"https://www.metu.edu.tr/\" target=\"_blank\" rel=\"noopener\">Middle East Technical University (METU)</a> in <a href=\"http://ae.metu.edu.tr/\" target=\"_blank\" rel=\"noopener\">Aerospace Engineering</a>. I specialized in control, dynamic modelling, and simulation during my undergraduate studies.",
-          "Later, I conducted my graduate studies in <strong>Computational Science and Engineering</strong> department at <a href=\"https://www.ku.edu.tr/\" target=\"_blank\" rel=\"noopener\">Koc University</a>. In Koc University, I am also awarded with <a href=\"https://ai.ku.edu.tr/\" target=\"_blank\" rel=\"noopener\">Koc University Is Bank (KUIS) Artificial Intelligence Fellowship</a>.",
-          "Initially, I worked in <a href=\"https://rml.ku.edu.tr/\" target=\"_blank\" rel=\"noopener\">Robotics and Mechatronics Laboratory (RML)</a> with <a href=\"http://home.ku.edu.tr/~cbasdogan/\" target=\"_blank\" rel=\"noopener\">Prof. Dr. Cagatay Basdogan</a>. My work in RML mainly focused on the generation of proper signals to convey tactile feeling to high-end consumer electronics with touch screen (i.e., <a href=\"https://robotics.northwestern.edu/research/topics/surface-haptic-technology-development/index.html\" target=\"_blank\" rel=\"noopener\">surface haptics</a>).",
-          "Eventually, I worked as a computer vision researcher supervised by <a href=\"https://mysite.ku.edu.tr/fguney/\" target=\"_blank\" rel=\"noopener\">Asst. Prof. Fatma Guney</a> in <strong>Autonomous Vision Group (AVG)</strong> and co-supervised by <a href=\"https://mysite.ku.edu.tr/baakgun/\" target=\"_blank\" rel=\"noopener\">Asst. Prof. Baris Akgun</a>. I worked on the <strong>model-based policy learning for urban driving</strong>.",
-          "I was especially interested in generating a framework that allows reasoning about the optimal action by predicting the future (i.e., world models)."
+          "My background bridges research and product-oriented engineering. I have worked on turboshaft and turboprop engine design at GE Aerospace, flexible electronic sensors at Kordsa, hospital-monitoring and IoT systems as a start-up co-founder, and engineering software development in the automotive and aerospace sectors.",
+          "Across these roles, I have used MATLAB, Python, SQL, COMSOL FEM, Artemis Suite, LabVIEW, CATIA, and Patran. My experimental work includes free-field and binaural microphones, accelerometers, Squadriga II/III acquisition systems, listening tests, and perceptual modeling."
+        ]
+      },
+      {
+        "title": "Research Approach",
+        "paragraphs": [
+          "I work from measurement to interpretation: define the engineering question, design a controlled experiment, acquire reproducible data, apply statistical or signal-processing models, and translate the result into a design or diagnostic decision.",
+          "This approach has led to peer-reviewed publications in acoustics, vibration perception, piezoelectric energy harvesting, and ultrasonic transducer modeling, as well as three medical-device patents."
         ]
       }
     ]
   },
   "footer": {
-    "aboutText": "Engineer, programmer, researcher, and a dreamer passionate about technology and innovation.",
-    "email": "volkanaydingul@gmail.com",
-    "location": "Frankfurt am Main, Germany",
+    "aboutText": "Acoustics researcher and mechanical engineer working on psychoacoustics, vehicle sound, vibro-acoustic diagnostics, sensing, and experimental engineering.",
+    "email": "berkay.kullukcu@tu-dresden.de",
+    "location": "Berlin, Germany",
     "socialLinks": [
       {
-        "icon": "TwitterIcon",
-        "url": "https://twitter.com/vaydingul",
-        "label": "Twitter"
-      },
-      {
         "icon": "LinkedInIcon",
-        "url": "https://www.linkedin.com/in/volkan-ayding%C3%BCl-5a516117a/",
+        "url": "https://www.linkedin.com/in/bkullukcu",
         "label": "LinkedIn"
       },
       {
         "icon": "GitHubIcon",
-        "url": "https://github.com/vaydingul",
+        "url": "https://github.com/bkullukcu",
         "label": "GitHub"
       },
       {
-        "icon": "InstagramIcon",
-        "url": "https://www.instagram.com/vaydingul/",
-        "label": "Instagram"
+        "icon": "SchoolIcon",
+        "url": "https://scholar.google.com/citations?user=1P4pBzQAAAAJ&hl=tr",
+        "label": "Google Scholar"
       }
     ]
   },
   "projects": {
-    "title": "My Projects",
-    "subtitle": "A collection of my work and contributions",
+    "title": "Selected Research & Engineering Work",
+    "subtitle": "Projects spanning psychoacoustics, condition monitoring, sensing, and engineering development",
     "items": [
       {
-        "title": "Maybe One Day...",
-        "subtitle": "Philosophical exploration of reality through AI entities",
-        "description": "Exchange of ideas and questions that push the boundaries of our understanding",
-        "image": "projects/maybe-one-day.png",
+        "title": "Electric Truck AVAS Sound Design",
+        "subtitle": "User-centered psychoacoustic development of warning sounds",
+        "description": "Designed and evaluated acoustic vehicle alerting systems for electric trucks using semantic profiling, psychoacoustic listening tests, binaural synthesis, and sound-quality analysis.",
+        "image": "projects/avas.png",
         "links": [
-          { "url": "https://github.com/vaydingul/maybeoneday-public", "label": "GitHub" },
-          { "url": "https://www.maybe-one-day.com", "label": "Website" }
+          {
+            "url": "https://aes2.org/publications/elibrary-page/?id=22813",
+            "label": "Journal Article"
+          },
+          {
+            "url": "https://pub.dega-akustik.de/DAGA_2024/files/upload/paper/121.pdf",
+            "label": "Requirements Study"
+          }
         ],
-        "tags": ["AI", "Chatbot", "LLM"]
+        "tags": [
+          "AVAS",
+          "Psychoacoustics",
+          "Sound Quality",
+          "Binaural Audio"
+        ]
       },
       {
-        "title": "Paper Digest",
-        "subtitle": "AI-powered research companion",
-        "description": "Automated paper retrieval and natural language summarization pipelines",
-        "image": "projects/paperdigest.png",
+        "title": "Psychoacoustic Modeling of Vehicle Sounds",
+        "subtitle": "Connecting signal metrics with semantic perception",
+        "description": "Developed consumer-centered semantic attributes and perceptual models for electric-vehicle sounds using listening-test data, psychoacoustic metrics, statistics, and multivariate analysis.",
+        "image": "projects/psychoacoustics.png",
         "links": [
-          { "url": "https://paperdigest.xyz", "label": "Website" }
+          {
+            "url": "https://dael.euracoustics.org/confs/landing_pages/fa2025/000714.html",
+            "label": "Conference Paper"
+          },
+          {
+            "url": "https://arxiv.org/pdf/2605.29950",
+            "label": "Multi-Source AVAS Study"
+          }
         ],
-        "tags": ["AI", "Arxiv", "Summarization"]
+        "tags": [
+          "Statistics",
+          "Perceptual Modeling",
+          "Roughness",
+          "Tonality"
+        ]
       },
       {
-        "title": "CARLA Environment",
-        "subtitle": "A customizable environment for autonomous driving",
-        "description": "A customizable environment for autonomous driving using CARLA simulator.",
-        "image": "projects/carla.jpeg",
+        "title": "Electric-Truck Masking Thresholds",
+        "subtitle": "Audibility limits in realistic vehicle interiors",
+        "description": "Experimentally determined auditory masking thresholds in electric-truck cabin noise to support the design of audible yet non-intrusive warning and information sounds.",
+        "image": "projects/masking.png",
         "links": [
-          { "url": "https://github.com/vaydingul/carla_env", "label": "GitHub" }
+          {
+            "url": "https://pub.dega-akustik.de/DAS-DAGA_2025/files/upload/paper/30.pdf",
+            "label": "DAGA Paper"
+          }
         ],
-        "tags": ["CARLA", "Autonomous Driving", "Simulation"]
+        "tags": [
+          "Listening Tests",
+          "Masking",
+          "Vehicle Interior",
+          "Experimental Design"
+        ]
       },
       {
-        "title": "Actor-Critic Model Predictive Control",
-        "subtitle": "An interplay between RL and MPC",
-        "description": "A model predictive control framework that uses Actor-Critic model to predict the future state of the system.",
-        "image": "projects/actor-critic.png",
+        "title": "Bolted-Joint Condition Monitoring",
+        "subtitle": "Vibro-acoustic detection of looseness and nonlinear behavior",
+        "description": "Investigated how tightening torque and loosened joints affect acoustic and vibration responses, including single-tone and frequency-modulated excitation for rail-component diagnostics.",
+        "image": "projects/bolted-joint.png",
         "links": [
-          { "url": "https://github.com/vaydingul/actor-critic-mpc", "label": "GitHub" }
+          {
+            "url": "https://opus4.kobv.de/opus4-th-wildau/files/2191/180.pdf",
+            "label": "Research Paper"
+          }
         ],
-        "tags": ["RL", "MPC", "Control Systems"]
+        "tags": [
+          "Condition Monitoring",
+          "Vibration",
+          "Nonlinearity",
+          "Rail Systems"
+        ]
       },
       {
-        "title": "Haptics",
-        "subtitle": "Electromechanical device control unit",
-        "description": "Projects focused on controlling experimental setups in the Robotics and Mechatronics Laboratory. Includes Surface Haptics Setup control and TacTX - a framework for DAQ device control in MATLAB.",
-        "image": "projects/finger.jpg",
+        "title": "Flexible Piezoelectric Energy Harvesters",
+        "subtitle": "PVDF-TrFE devices for structural-health monitoring",
+        "description": "Designed, modeled, fabricated, and tested flexible polymer energy harvesters, combining acoustic-equivalent circuits, finite-element simulation, and micro/nanofabrication.",
+        "image": "projects/piezo.png",
         "links": [
-          { "url": "https://github.com/vaydingul/Surface_Haptics_Setup", "label": "Surface Haptics Setup" },
-          { "url": "https://github.com/vaydingul/TacTX", "label": "TacTX" }
+          {
+            "url": "https://www.tandfonline.com/doi/abs/10.1080/10584587.2023.2239101",
+            "label": "SHM Article"
+          },
+          {
+            "url": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=3987&context=elektrik",
+            "label": "Wind Harvester Article"
+          },
+          {
+            "url": "https://ieeexplore.ieee.org/document/9251723",
+            "label": "Ultrasound Modeling"
+          }
         ],
-        "tags": ["MATLAB", "DAQ", "Haptics", "Control Systems"]
+        "tags": [
+          "PVDF-TrFE",
+          "FEM",
+          "Microfabrication",
+          "Structural Health Monitoring"
+        ]
       },
       {
-        "title": "Deep Learning in Julia",
-        "subtitle": "Various ML-related projects in Julia",
-        "description": "A collection of deep learning implementations in Julia using Knet framework, including HapticFCN, FCN library, and data handling utilities.",
-        "image": "projects/julia_dl.png",
+        "title": "Medical IoT & Patented Monitoring Systems",
+        "subtitle": "Connected devices for safer hospital workflows",
+        "description": "Co-founded a hospital-digitalization start-up and developed sensing and communication concepts for infusion pumps, invasive devices, ventilation monitoring, and nasogastric-tube systems.",
+        "image": "projects/medical-iot.png",
         "links": [
-          { "url": "https://github.com/vaydingul/HapticFCN.jl", "label": "HapticFCN" },
-          { "url": "https://github.com/vaydingul/FCN.jl", "label": "FCN" },
-          { "url": "https://github.com/vaydingul/GDH.jl", "label": "GDH" }
+          {
+            "url": "https://patents.google.com/patent/TR2022001302A1/en?q=(kullukcu)&oq=kullukcu",
+            "label": "Nasogastric Tube Patent"
+          },
+          {
+            "url": "https://patents.google.com/patent/TR2022007637Y/en?q=(kullukcu)&oq=kullukcu",
+            "label": "Infusion-Pump Patent"
+          }
         ],
-        "tags": ["Julia", "Deep Learning", "CNN", "Knet"]
-      },
-      {
-        "title": "TensorLib",
-        "subtitle": "A minimalist tensor library written in C++",
-        "description": "A tensor library for basic operations, created for a deep-learning-from-scratch project. Supports arbitrary dimensions and various mathematical operations.",
-        "image": "projects/tensor.png",
-        "links": [
-          { "url": "https://github.com/vaydingul/TensorLib", "label": "GitHub" }
-        ],
-        "tags": ["C++", "Tensor Operations", "Mathematics"]
-      },
-      {
-        "title": "Computational Physics",
-        "subtitle": "A general look on computational physics",
-        "description": "Collection of computational physics projects, including analysis of White Dwarf data and various physics simulations.",
-        "image": "projects/physics.jpg",
-        "links": [
-          { "url": "https://github.com/vaydingul/PHYS514-Problem_Sets", "label": "Course Projects" },
-          { "url": "https://github.com/vaydingul/PHYS514_Project", "label": "White Dwarf Analysis" }
-        ],
-        "tags": ["Physics", "Data Analysis", "Simulation"]
-      },
-      {
-        "title": "Robot Motion Planning",
-        "subtitle": "Motion planning for 2-linked robotic arm",
-        "description": "Implementation of a motion planning algorithm using Potential Field Method for a 2-linked robotic arm.",
-        "image": "projects/robot.jpg",
-        "links": [
-          { "url": "https://github.com/vaydingul/robot-motion-planning", "label": "GitHub" },
-          { "url": "https://colab.research.google.com/drive/1bQN3pF2ijRC-mpllqRBaNvI67GU2RvTo?usp=sharing", "label": "Colab" }
-        ],
-        "tags": ["Python", "Robotics", "Motion Planning"]
-      },
-      {
-        "title": "Swarm Algorithm",
-        "subtitle": "A simple swarm algorithm simulation",
-        "description": "Light-weight implementation of swarm intelligence algorithms in C++.",
-        "image": "projects/swarm.jpg",
-        "links": [
-          { "url": "https://github.com/vaydingul/SwarmAlgorithm", "label": "GitHub" }
-        ],
-        "tags": ["C++", "Swarm Intelligence", "Simulation"]
+        "tags": [
+          "IoT",
+          "Medical Devices",
+          "Sensors",
+          "Patents"
+        ]
       }
     ]
   },
   "timeline": {
-    "title": "Professional Timeline",
+    "title": "Experience Timeline",
     "items": [
       {
-        "title": "Codeway Studios",
-        "date": "October 2023 - Present",
-        "description": "Working as an AI research Engineer at Codeway Studios. Working on audio-visual generative models.",
-        "image": "timeline/codeway.jpeg"
+        "title": "TH Wildau - Scientific Employee",
+        "date": "October 2025 - Present",
+        "description": "Research in acoustic and vibration-based condition monitoring of rail-vehicle components, focusing on loose bolted joints and structural defects.",
+        "image": "timeline/th-wildau.png"
       },
       {
-        "title": "Autonomous Vision Group",
-        "date": "June 2022 - September 2023",
-        "description": "Working as a computer vision researcher at Autonomous Vision Group. Working on the model-based policy learning for urban driving.",
-        "image": "timeline/vision.jpg"
+        "title": "TU Dresden - Doctoral Researcher",
+        "date": "April 2023 - Present",
+        "description": "Doctoral research on electric-truck AVAS sound design, psychoacoustic testing, semantic evaluation, warning-sound audibility, and binaural sound synthesis.",
+        "image": "timeline/tu-dresden.png"
       },
       {
-        "title": "KUIS AI Laboratory",
-        "date": "June 2021 - September 2023",
-        "description": "Working as an AI researcher at KUIS AI Laboratory.",
-        "image": "timeline/kuis.jpg"
+        "title": "GE Aerospace - Design Engineer",
+        "date": "November 2022 - March 2023",
+        "description": "Design engineering work on CT7/T700 turboshaft and turboprop engine programs.",
+        "image": "timeline/ge-aerospace.png"
       },
       {
-        "title": "Robotics and Mechatronics Laboratory",
-        "date": "September 2020 - June 2022",
-        "description": "Worked as a research assistant at RML. Worked on the generation of proper signals to convey tactile feeling to high-end consumer electronics with touch screen (i.e., surface haptics).",
-        "image": "timeline/robot.jpg"
+        "title": "TEDAVEM Information Systems - Co-Founder",
+        "date": "June 2021 - January 2023",
+        "description": "Co-founded a hospital-digitalization start-up developing IoT monitoring concepts and integrated communication electronics for medical equipment.",
+        "image": "timeline/tedavem.png"
       },
       {
-        "title": "Koc University",
-        "date": "September 2020 - September 2023",
-        "description": "Studying Computational Science and Engineering at KU.",
-        "image": "timeline/ku.jpg"
+        "title": "Kordsa - Flexible Electronics Researcher",
+        "date": "March 2022 - September 2022",
+        "description": "Worked in thin films and flexible electronic sensors; developed LabVIEW software for experimental testing.",
+        "image": "timeline/kordsa.png"
       },
       {
-        "title": "HAVELSAN Inc.",
-        "date": "March 2020 - September 2020",
-        "description": "Worked as a Candidate Systems Engineer at HAVELSAN Inc. Worked on the development of simulation technologies.",
-        "image": "timeline/simulation.jpg"
+        "title": "Koç University - MSc Mechanical Engineering",
+        "date": "2020 - 2022",
+        "description": "Research in flexible polymer energy harvesters, PMUTs, micro/nanofabrication, and acoustic equivalent-circuit modeling.",
+        "image": "timeline/koc-msc.png"
       },
       {
-        "title": "TUBITAK UZAY",
-        "date": "August 2019",
-        "description": "Did internship at TUBITAK UZAY. Worked on systems engineering practices applied on the production of a CubeSat.",
-        "image": "timeline/satellite.jpg"
+        "title": "Renault Group - Automotive R&D Intern",
+        "date": "June 2019 - August 2019",
+        "description": "Developed a CATIA automation tool exceeding 20,000 lines of code to support manipulation of 3D parts in R&D workflows.",
+        "image": "timeline/renault.png"
       },
       {
-        "title": "TUBITAK SAGE",
-        "date": "June 2019",
-        "description": "Did internship at TUBITAK SAGE. Worked on flight mechanics, navigational systems and motion planning.",
-        "image": "timeline/missile.png"
-      },
-      {
-        "title": "Middle East Technical University",
-        "date": "September 2015 - August 2020",
-        "description": "Studied Aerospace Engineering at METU.",
-        "image": "timeline/odtu.png"
+        "title": "Koç University - BSc Mechanical Engineering",
+        "date": "2015 - 2020",
+        "description": "Completed undergraduate mechanical engineering studies and contributed to wearable sensor-system research for venous dislodgement detection.",
+        "image": "timeline/koc-bsc.png"
       }
     ]
   },
   "resume": {
-    "gistId": "b6c5fe8ff6d030d42aebaf1814e17c96"
+    "source": "./resume.json"
   },
   "contact": {
-    "title": "Let's Connect!",
-    "subtitle": "I'm always interested in new opportunities, collaborations, and connecting with fellow researchers and engineers.",
+    "title": "Let's Connect",
+    "subtitle": "I am open to acoustics, NVH, signal-processing, experimental R&D, and research-engineering opportunities.",
     "contactInfo": [
       {
         "icon": "EmailIcon",
         "label": "Email",
-        "value": "volkanaydingul@gmail.com",
-        "description": "Best way to reach me"
+        "value": "berkay.kullukcu@tu-dresden.de",
+        "description": "Preferred contact method"
       },
       {
         "icon": "LocationOnIcon",
         "label": "Location",
-        "value": "Frankfurt am Main, Germany",
+        "value": "Berlin, Germany",
         "description": "Current location"
       },
       {
         "icon": "WorkIcon",
-        "label": "Work",
-        "value": "Research Engineer",
-        "description": "Current position"
+        "label": "Current Role",
+        "value": "Scientific Employee, TH Wildau",
+        "description": "Machine Dynamics and Acoustics"
       },
       {
         "icon": "SchoolIcon",
-        "label": "Education",
-        "value": "MSc Computational Science",
-        "description": "Current academic status"
+        "label": "Doctorate",
+        "value": "Dr.-Ing. candidate, TU Dresden",
+        "description": "Electrical Engineering - Acoustics and Haptics"
       }
     ],
     "socialLinks": [
       {
         "icon": "LinkedInIcon",
-        "url": "https://www.linkedin.com/in/volkan-ayding%C3%BCl-5a516117a/",
+        "url": "https://www.linkedin.com/in/bkullukcu",
         "label": "LinkedIn",
-        "description": "Connect with me professionally"
+        "description": "Professional profile and experience"
       },
       {
         "icon": "GitHubIcon",
-        "url": "https://github.com/vaydingul",
+        "url": "https://github.com/bkullukcu",
         "label": "GitHub",
-        "description": "Check out my code repositories"
+        "description": "Code and technical projects"
       },
       {
-        "icon": "TwitterIcon",
-        "url": "https://twitter.com/vaydingul",
-        "label": "Twitter",
-        "description": "Follow me for updates"
-      },
-      {
-        "icon": "InstagramIcon",
-        "url": "https://www.instagram.com/vaydingul/",
-        "label": "Instagram",
-        "description": "Follow my personal journey"
+        "icon": "SchoolIcon",
+        "url": "https://scholar.google.com/citations?user=1P4pBzQAAAAJ&hl=tr",
+        "label": "Google Scholar",
+        "description": "Peer-reviewed publications and citation profile"
       }
     ]
   }

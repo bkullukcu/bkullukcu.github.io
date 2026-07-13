@@ -1,0 +1,305 @@
+{
+  "name": "Berkay Kullukçu",
+  "contact": {
+    "email": "berkay.kullukcu@tu-dresden.de",
+    "linkedin": "https://www.linkedin.com/in/bkullukcu",
+    "github": "https://github.com/bkullukcu",
+    "website": "./Berkay_Kullukcu_CV.pdf"
+  },
+  "summary": "Acoustics researcher and mechanical engineer with experience in vehicle sound, psychoacoustics, vibro-acoustic condition monitoring, signal processing, experimental design, finite-element simulation, flexible sensors, and product-oriented R&D.",
+  "education": [
+    {
+      "degree": "Doctor of Engineering (Dr.-Ing.) in Electrical Engineering",
+      "dates": "2023 - Present",
+      "institution": "Technische Universität Dresden, Chair of Acoustics and Haptics"
+    },
+    {
+      "degree": "MSc in Mechanical Engineering",
+      "dates": "2020 - 2022",
+      "institution": "Koç University, College of Engineering"
+    },
+    {
+      "degree": "BSc in Mechanical Engineering",
+      "dates": "2015 - 2020",
+      "institution": "Koç University, College of Engineering"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Scientific Employee",
+      "company": "Department of Machine Dynamics and Acoustics, TH Wildau",
+      "dates": "Oct 2025 - Present",
+      "bullets": [
+        "Conduct research on acoustic and vibration-based condition monitoring of rail-vehicle components.",
+        "Investigate loose bolted joints, structural defects, tightening torque, and vibro-acoustic nonlinearities."
+      ]
+    },
+    {
+      "title": "Doctoral Researcher",
+      "company": "Chair of Acoustics and Haptics, TU Dresden",
+      "dates": "Apr 2023 - Present",
+      "bullets": [
+        "Develop and evaluate AVAS concepts for electric trucks using psychoacoustic testing and semantic sound evaluation.",
+        "Design listening experiments for comfort, annoyance, urgency, masking, and perceptual discrimination.",
+        "Use binaural synthesis, signal analysis, statistics, and psychoacoustic metrics to translate perception into design guidance."
+      ]
+    },
+    {
+      "title": "Design Engineer",
+      "company": "GE Aerospace",
+      "dates": "Nov 2022 - Mar 2023",
+      "bullets": [
+        "Worked on CT7/T700 turboshaft and turboprop engine design."
+      ]
+    },
+    {
+      "title": "Co-Founder",
+      "company": "TEDAVEM Information Systems",
+      "dates": "Jun 2021 - Jan 2023",
+      "bullets": [
+        "Developed hospital-digitalization and IoT monitoring concepts for ventilation and infusion equipment.",
+        "Worked on integrated-circuit and device-communication solutions; contributed to patented medical-device systems."
+      ]
+    },
+    {
+      "title": "Flexible Electronics Researcher",
+      "company": "Kordsa R&D",
+      "dates": "Mar 2022 - Sep 2022",
+      "bullets": [
+        "Worked in thin films and flexible electronic sensors.",
+        "Developed LabVIEW software for experimental testing."
+      ]
+    },
+    {
+      "title": "Researcher",
+      "company": "Bio-Integrated Microdevices Laboratory, Koç University",
+      "dates": "Jan 2020 - Sep 2022",
+      "bullets": [
+        "Researched flexible polymer energy harvesters, PMUTs, micro/nanofabrication, and acoustic equivalent-circuit models.",
+        "Developed a wearable sensor-system concept for venous dislodgement detection."
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Investigating perceptual discrimination thresholds for attributes of whole-body vibration",
+      "authors": "B. Kullukçu, J. Krautwurm, S. Merchel, R. Rosenkranz, M. E. Altinsoy",
+      "venue": "Scientific Reports",
+      "year": "2026",
+      "doi": "10.1038/s41598-026-40033-4"
+    },
+    {
+      "title": "Electric Truck Sound Design: A User-Centered Psychoacoustic Approach to AVAS",
+      "authors": "B. Kullukçu, R. Rosenkranz, M. E. Altinsoy",
+      "venue": "Journal of the Audio Engineering Society",
+      "year": "2025"
+    },
+    {
+      "title": "Piezoelectric PVDF-TrFE/PET Energy Harvesters for Structural Health Monitoring Applications",
+      "authors": "B. Kullukçu et al.",
+      "venue": "Integrated Ferroelectrics",
+      "year": "2023",
+      "doi": "10.1080/10584587.2023.2239101"
+    },
+    {
+      "title": "Design and Modeling of a PVDF-TrFE Flexible Wind Energy Harvester",
+      "authors": "B. Kullukçu, L. Beker",
+      "venue": "Turkish Journal of Electrical Engineering and Computer Sciences",
+      "year": "2023"
+    },
+    {
+      "title": "Psychoacoustic Modelling of AVAS Sounds: Consumer-Centric Semantic Attribute Development for Electric Vehicles",
+      "authors": "B. Kullukçu, M. Engel, S. Atamer, M. E. Altinsoy",
+      "venue": "Forum Acusticum",
+      "year": "2025"
+    },
+    {
+      "title": "Experimental Determination of the Masking Threshold in Electric Trucks",
+      "authors": "B. Kullukçu, O. Zeidler, S. Atamer, M. E. Altinsoy",
+      "venue": "DAGA",
+      "year": "2025"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Electric-Truck AVAS Research",
+      "url": "https://aes2.org/publications/elibrary-page/?id=22813",
+      "dates": "2023 - Present",
+      "bullets": [
+        "User-centered sound design, semantic profiling, listening tests, psychoacoustic metrics, and binaural synthesis.",
+        "Published in JAES and presented across DAGA, INTER-NOISE, Forum Acusticum, and ICSV."
+      ]
+    },
+    {
+      "name": "Bolted-Joint Vibro-Acoustic Diagnostics",
+      "url": "https://opus4.kobv.de/opus4-th-wildau/files/2191/180.pdf",
+      "dates": "2025 - Present",
+      "bullets": [
+        "Experimental characterization of bolted joints under varying tightening torque.",
+        "Frequency-modulated and single-tone excitation for detecting nonlinear behavior and looseness."
+      ]
+    },
+    {
+      "name": "Flexible Piezoelectric Energy Harvesters",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/10584587.2023.2239101",
+      "dates": "2020 - 2022",
+      "bullets": [
+        "PVDF-TrFE/PET energy harvesting for structural-health monitoring.",
+        "Combined analytical modeling, FEM, fabrication, and experimental validation."
+      ]
+    },
+    {
+      "name": "Patented Medical Monitoring Systems",
+      "url": "https://patents.google.com/patent/TR2022001302A1/en?q=(kullukcu)&oq=kullukcu",
+      "dates": "2021 - 2024",
+      "bullets": [
+        "Co-inventor on three Turkish patents/utility models covering infusion-pump detection, invasive devices, and a nasogastric-tube system."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "name": "DAAD Congress Travel Grant - ICSV32",
+      "dates": "2026",
+      "issuer": "German Academic Exchange Service (DAAD)"
+    },
+    {
+      "name": "EAA Travel Grant - Forum Acusticum",
+      "dates": "2025",
+      "issuer": "European Acoustics Association"
+    },
+    {
+      "name": "Graduate Academy Conference Travel Grant - DAGA",
+      "dates": "2025",
+      "issuer": "TU Dresden"
+    },
+    {
+      "name": "TEYDEB 1512 Techno-Startup Funding",
+      "dates": "",
+      "issuer": "TÜBİTAK"
+    },
+    {
+      "name": "BİDEB 2210-C MSc Scholarship",
+      "dates": "",
+      "issuer": "TÜBİTAK"
+    },
+    {
+      "name": "Design Innovation Challenge - First Prize",
+      "dates": "",
+      "issuer": "Garip & Zeycan Foundation"
+    }
+  ],
+  "teaching": [
+    {
+      "title": "Teaching Assistant",
+      "dates": "Oct 2025 - Jan 2026",
+      "institution": "TH Wildau",
+      "courses": [
+        {
+          "code": "IDM",
+          "name": "Interdisciplinary Module",
+          "description": "Teaching support for a senior engineering class."
+        }
+      ]
+    },
+    {
+      "title": "Student Supervision and Laboratory Teaching",
+      "dates": "Sep 2023 - Present",
+      "institution": "TU Dresden",
+      "courses": [
+        {
+          "code": "SD",
+          "name": "Sound Design",
+          "description": "Supervision of senior engineering students in vehicle sound-design projects."
+        },
+        {
+          "code": "AHE",
+          "name": "Acoustic Hands-on Experimenting",
+          "description": "Supervision of household-appliance sound-power measurement projects."
+        },
+        {
+          "code": "THESIS",
+          "name": "Master-level Research Supervision",
+          "description": "Supervised a six-month vehicle-acoustics research internship; final grade 1.0."
+        }
+      ]
+    },
+    {
+      "title": "Teaching Assistant",
+      "dates": "Sep 2020 - Jan 2021",
+      "institution": "Koç University",
+      "courses": [
+        {
+          "code": "MECH401",
+          "name": "Mechanical Engineering Laboratory",
+          "description": "Laboratory tutoring for senior mechanical-engineering students."
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "Acoustics": [
+      "Vehicle Acoustics",
+      "AVAS",
+      "Sound Quality",
+      "Psychoacoustics",
+      "Masking",
+      "Semantic Evaluation",
+      "Binaural Recording"
+    ],
+    "Analysis": [
+      "MATLAB",
+      "Python",
+      "SQL",
+      "Statistics",
+      "Data Science",
+      "Machine Learning",
+      "Signal Processing"
+    ],
+    "Simulation": [
+      "COMSOL FEM",
+      "Patran FEM",
+      "CATIA",
+      "Acoustic Equivalent Circuits"
+    ],
+    "Measurement": [
+      "Free-field Microphones",
+      "Accelerometers",
+      "Squadriga II/III",
+      "Artemis Suite",
+      "LabVIEW",
+      "Listening Tests"
+    ],
+    "Languages": [
+      "English C2",
+      "German C1",
+      "Turkish - Native"
+    ]
+  },
+  "internships": [
+    {
+      "title": "Automotive Engineering Intern - R&D",
+      "company": "Groupe Renault",
+      "dates": "Jun 2019 - Aug 2019",
+      "bullets": [
+        "Developed software exceeding 20,000 lines of code to help R&D engineers manipulate CATIA 3D parts."
+      ]
+    },
+    {
+      "title": "Mechanical Engineering Intern - Safety Management Systems",
+      "company": "Turkish Aerospace",
+      "dates": "Nov 2019 - May 2020",
+      "bullets": [
+        "Supported engineering work in safety management systems."
+      ]
+    },
+    {
+      "title": "Mechanical Engineering Intern - R&D",
+      "company": "Turkish Aerospace",
+      "dates": "Nov 2019 - Jan 2020",
+      "bullets": [
+        "Performed Patran FEM and 3D CAD work for aerospace component design."
+      ]
+    }
+  ]
+}
