@@ -7,11 +7,7 @@
     "copyright": "Berkay Kullukçu"
   },
   "home": {
-<<<<<<< HEAD
-    "greeting": "Hi, I'm Berkay.",
-=======
     "greeting": "Hi, I'm Berkay",
->>>>>>> 9f1c58a172e32f55bf5316a8c28b9accf15212e1
     "subtitle": "Acoustics researcher and mechanical engineer specializing in vehicle sound, psychoacoustics, vibro-acoustic diagnostics, and experimental methods.",
     "highlights": [
       {

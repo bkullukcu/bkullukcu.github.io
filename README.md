@@ -1,10 +1,22 @@
 # Berkay Kullukçu Portfolio Website
 
-This is a static, ready-to-deploy website customized from the supplied template.
+Static bilingual portfolio website for GitHub Pages.
+
+## Languages
+
+English is the default language. Visitors can switch between English and German using the EN/DE control. The selected language is stored in the browser.
+
+## Main content files
+
+- `config.json`: English home, about, projects, timeline, footer, and contact content
+- `config-de.json`: German translation of the website content
+- `resume.json`: English résumé and publication data
+- `resume-de.json`: German résumé and publication data
+- `Berkay_Kullukcu_CV.pdf`: downloadable CV
 
 ## Local preview
 
-Run a local web server from this folder (opening `index.html` directly may block JSON loading):
+Run this command in the website directory:
 
 ```bash
 python -m http.server 8000
@@ -12,24 +24,6 @@ python -m http.server 8000
 
 Then open `http://localhost:8000`.
 
-## Main editable files
+## GitHub Pages
 
-- `config.json`: home, about, projects, timeline, footer, and contact content.
-- `resume.json`: structured resume page content, including all journal articles, conference papers, and the master's thesis.
-- `Berkay_Kullukcu_CV.pdf`: downloadable CV.
-- `projects/` and `timeline/`: portfolio images.
-
-The displayed web pages use only city-level location and omit the phone number and postal code. The downloadable CV is the original supplied PDF and therefore retains its full contact details.
-<<<<<<< HEAD
-
-
-## Publications and links
-
-The Publications section contains all 13 journal articles, conference papers, and the master's thesis listed in the supplied CV. Publication titles and their action chips are clickable. Exact publication URLs embedded in the CV were transferred to `resume.json` and reused on the About and Projects pages. The ICSV32 2026 paper is listed without a link because the supplied CV does not contain a hyperlink for that entry.
-
-
-## Bilingual website
-
-English is the default language. Visitors can switch between English and German using the EN/DE button in the navigation bar. The choice is stored locally in the browser. German content is stored in `config-de.json` and `resume-de.json`; publication URLs remain identical in both language versions.
-=======
->>>>>>> 9f1c58a172e32f55bf5316a8c28b9accf15212e1
+Place `index.html` and all accompanying files directly in the root of the `bkullukcu.github.io` repository.
