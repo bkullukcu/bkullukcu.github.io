@@ -1,0 +1,14 @@
+{
+  "defaultLanguage": "English",
+  "languages": [
+    "English",
+    "German"
+  ],
+  "toggle": "EN/DE button in navigation; preference stored in localStorage",
+  "localizedFiles": [
+    "config-de.json",
+    "resume-de.json"
+  ],
+  "publicationLinksPreserved": true,
+  "publicationTitles": "Kept in original publication language"
+}

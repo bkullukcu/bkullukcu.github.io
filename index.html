@@ -10,20 +10,25 @@
     <link rel="manifest" href="./manifest.json" />
     <title>Loading...</title>
     <script>
-      fetch("./config.json")
-        .then(function(r) { return r.json(); })
-        .then(function(c) {
-          document.title = c.site.title;
-          var desc = document.querySelector('meta[name="description"]');
-          if (desc) desc.setAttribute("content", c.site.description);
-        })
-        .catch(function() {});
+      (function () {
+        var lang = "en";
+        try { lang = localStorage.getItem("portfolioLanguage") === "de" ? "de" : "en"; } catch (e) {}
+        document.documentElement.lang = lang;
+        fetch(lang === "de" ? "./config-de.json" : "./config.json")
+          .then(function(r) { return r.json(); })
+          .then(function(c) {
+            document.title = c.site.title + (lang === "de" ? " | Portfolio" : " | Portfolio");
+            var desc = document.querySelector('meta[name="description"]');
+            if (desc) desc.setAttribute("content", c.site.description);
+          })
+          .catch(function() {});
+      })();
     </script>
-    <script type="module" crossorigin src="./assets/index-D-r7pGMS.js"></script>
+    <script type="module" crossorigin src="./assets/index-bilingual.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/index-CIfVvUo9.css">
   </head>
   <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <noscript>JavaScript is required to use this website. / Für diese Website muss JavaScript aktiviert sein.</noscript>
     <div id="root"></div>
   </body>
 </html>
