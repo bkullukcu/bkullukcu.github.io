@@ -4,7 +4,7 @@
     "email": "berkay.kullukcu@tu-dresden.de",
     "linkedin": "https://www.linkedin.com/in/bkullukcu",
     "github": "https://github.com/bkullukcu",
-    "website": "./Berkay_Kullukcu_CV.pdf"
+    "website": "./Berkay_Kullukcu_CV_EN.pdf"
   },
   "summary": "Acoustics researcher and mechanical engineer with experience in vehicle sound, psychoacoustics, vibro-acoustic condition monitoring, signal processing, experimental design, finite-element simulation, flexible sensors, and product-oriented R&D.",
   "education": [
@@ -97,14 +97,16 @@
     {
       "title": "Perceived Annoyance in Multi-Source Electric Vehicle AVAS Environments",
       "authors": "B. Kullukçu, S. Atamer, J. Krautwurm, M. E. Altinsoy",
-      "venue": "32nd International Conference on Sound and Vibration (ICSV32), Istanbul, Turkey - Accepted",
+      "venue": "32nd International Conference on Sound and Vibration (ICSV32), Istanbul, Turkey",
       "year": "2026",
-      "type": "Conference paper"
+      "type": "Conference paper",
+      "url": "https://arxiv.org/pdf/2607.10368",
+      "linkLabel": "Proceedings paper"
     },
     {
       "title": "Frequency-Modulated and Single-Tone Excitation to Reveal Vibro-Acoustic Nonlinearities in Loosened Bolted Joints",
       "authors": "B. Kullukçu, R. Pianowski, D. Hannebauer",
-      "venue": "Forum Acusticum, Graz, Austria - Accepted",
+      "venue": "Forum Acusticum, Graz, Austria",
       "year": "2026",
       "type": "Conference paper",
       "url": "https://arxiv.org/pdf/2605.29950",
@@ -381,6 +383,48 @@
       "bullets": [
         "Performed Patran FEM and 3D CAD work for aerospace component design."
       ]
+    }
+  ],
+  "patents": [
+    {
+      "title": "Momentum Nasogastric Tube System",
+      "inventors": "B. Kullukçu, G. Umut, B. Ataseven",
+      "identifier": "TR2022001302A1",
+      "date": "Oct. 21, 2024",
+      "url": "https://patents.google.com/patent/TR2022001302A1/en?q=(kullukcu)&oq=kullukcu",
+      "linkLabel": "Patent record"
+    },
+    {
+      "title": "An Invasive Device",
+      "inventors": "B. Kullukçu, G. Umut, B. Ataseven",
+      "identifier": "TR2021015887A1",
+      "date": "May 21, 2024",
+      "url": "https://patents.google.com/patent/TR2021015887A1/en?q=(kullukcu)&oq=kullukcu",
+      "linkLabel": "Patent record"
+    },
+    {
+      "title": "Detecting Device and System for Infusion Pumps",
+      "inventors": "B. Kullukçu, G. Umut, B. Ataseven",
+      "identifier": "Utility Model TR2022007637Y",
+      "date": "Apr. 22, 2024",
+      "url": "https://patents.google.com/patent/TR2022007637Y/en?q=(kullukcu)&oq=kullukcu",
+      "linkLabel": "Patent record"
+    }
+  ],
+  "sessionChairDuties": [
+    {
+      "title": "“Körperschall” (Structure-Borne Sound) Session",
+      "event": "DAGA 2026, Dresden, Germany",
+      "dates": "2026",
+      "url": "https://www.daga2026.de/",
+      "linkLabel": "Conference website"
+    },
+    {
+      "title": "T14 SS03: Sound Quality and Product Design",
+      "event": "32nd International Conference on Sound and Vibration (ICSV32), Istanbul, Turkey",
+      "dates": "2026",
+      "url": "https://icsv32.org/index.php?va=viewpage&vaid=11",
+      "linkLabel": "Session programme"
     }
   ]
 }

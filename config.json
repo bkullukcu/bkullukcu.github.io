@@ -71,13 +71,13 @@
         "title": "Current Research",
         "paragraphs": [
           "I am a scientific employee in the <a href=\"https://www.th-wildau.de/forschung-transfer/forschung/forschungsfelder-schwerpunkte/forschungsfeld-nachhaltige-werteschoepfung/maschinendynamik-und-akustik\" target=\"_blank\" rel=\"noopener\">Department of Machine Dynamics and Acoustics at TH Wildau</a>. My current work investigates acoustic and vibration-based condition monitoring of rail-vehicle components, with emphasis on loose bolted joints and structural defects. Related outputs include the <a href=\"https://arxiv.org/pdf/2605.29950\" target=\"_blank\" rel=\"noopener\">Forum Acusticum preprint</a> and the <a href=\"https://opus4.kobv.de/opus4-th-wildau/files/2191/180.pdf\" target=\"_blank\" rel=\"noopener\">DAGA SIAMIS paper</a>.",
-          "In parallel, I conduct doctoral research at the <a href=\"https://tu-dresden.de/ing/elektrotechnik/ias/aha\" target=\"_blank\" rel=\"noopener\">Chair of Acoustics and Haptics at TU Dresden</a>. My PhD work focuses on acoustic vehicle alerting systems for electric trucks. Key outputs include the <a href=\"https://aes2.org/publications/elibrary-page/?id=22813\" target=\"_blank\" rel=\"noopener\">JAES journal article</a>, the <a href=\"https://pub.dega-akustik.de/DAS-DAGA_2025/files/upload/paper/30.pdf\" target=\"_blank\" rel=\"noopener\">electric-truck masking study</a>, and conference papers on <a href=\"https://dael.euracoustics.org/confs/landing_pages/fa2025/000714.html\" target=\"_blank\" rel=\"noopener\">semantic AVAS modeling</a>, <a href=\"https://www.ingentaconnect.com/contentone/ince/incecp/2024/00000270/00000010/art00002;jsessionid=bfo7l3dbtpl8b.x-ic-live-02\" target=\"_blank\" rel=\"noopener\">warning-sound design</a>, and <a href=\"https://pub.dega-akustik.de/DAGA_2024/files/upload/paper/121.pdf\" target=\"_blank\" rel=\"noopener\">electric-truck AVAS requirements</a>."
+          "In parallel, I conduct doctoral research at the <a href=\"https://tu-dresden.de/ing/elektrotechnik/ias/aha\" target=\"_blank\" rel=\"noopener\">Chair of Acoustics and Haptics at TU Dresden</a>. My PhD work focuses on acoustic vehicle alerting systems for electric trucks. Key outputs include the <a href=\"https://aes2.org/publications/elibrary-page/?id=22813\" target=\"_blank\" rel=\"noopener\">JAES journal article</a>, the <a href=\"https://pub.dega-akustik.de/DAS-DAGA_2025/files/upload/paper/30.pdf\" target=\"_blank\" rel=\"noopener\">electric-truck masking study</a>, and conference papers on <a href=\"https://dael.euracoustics.org/confs/landing_pages/fa2025/000714.html\" target=\"_blank\" rel=\"noopener\">semantic AVAS modeling</a>, <a href=\"https://www.ingentaconnect.com/contentone/ince/incecp/2024/00000270/00000010/art00002;jsessionid=bfo7l3dbtpl8b.x-ic-live-02\" target=\"_blank\" rel=\"noopener\">warning-sound design</a>, and <a href=\"https://pub.dega-akustik.de/DAGA_2024/files/upload/paper/121.pdf\" target=\"_blank\" rel=\"noopener\">electric-truck AVAS requirements</a>. This work also includes the <a href=\"https://arxiv.org/pdf/2607.10368\" target=\"_blank\" rel=\"noopener\">ICSV32 proceedings paper on annoyance in multi-source AVAS environments</a>."
         ]
       },
       {
         "title": "Engineering Background",
         "paragraphs": [
-          "My background bridges research and product-oriented engineering. I have worked on turboshaft and turboprop engine design at GE Aerospace, flexible electronic sensors at Kordsa, hospital-monitoring and IoT systems as a start-up co-founder, and engineering software development in the automotive and aerospace sectors.",
+          "My background bridges research and product-oriented engineering. I have worked on turboshaft and turboprop engine design at GE Aerospace, flexible electronic sensors at Kordsa, hospital-monitoring and IoT systems as a start-up co-founder, and engineering software development in the automotive and aerospace sectors. The medical-device work produced three linked patent records: a <a href=\"https://patents.google.com/patent/TR2022001302A1/en?q=(kullukcu)&oq=kullukcu\" target=\"_blank\" rel=\"noopener\">nasogastric-tube system</a>, an <a href=\"https://patents.google.com/patent/TR2021015887A1/en?q=(kullukcu)&oq=kullukcu\" target=\"_blank\" rel=\"noopener\">invasive device</a>, and an <a href=\"https://patents.google.com/patent/TR2022007637Y/en?q=(kullukcu)&oq=kullukcu\" target=\"_blank\" rel=\"noopener\">infusion-pump detection system</a>.",
           "At the <a href=\"https://microdevices.ku.edu.tr\" target=\"_blank\" rel=\"noopener\">Bio-Integrated Microdevices Laboratory at Koç University</a>, I worked on flexible piezoelectric energy harvesters and ultrasonic transducer modeling. The resulting outputs include an <a href=\"https://www.tandfonline.com/doi/abs/10.1080/10584587.2023.2239101\" target=\"_blank\" rel=\"noopener\">Integrated Ferroelectrics article</a>, a <a href=\"https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=3987&context=elektrik\" target=\"_blank\" rel=\"noopener\">wind-energy harvester article</a>, my <a href=\"https://tudresdende-my.sharepoint.com/:b:/g/personal/beku950f_tu-dresden_de/EWER16YvHqJHlGmLyOz-0tABgOVJwgsC3MRQgTAos7PdEw?e=PqwBAm\" target=\"_blank\" rel=\"noopener\">master's thesis</a>, and an <a href=\"https://ieeexplore.ieee.org/document/9251723\" target=\"_blank\" rel=\"noopener\">IEEE IUS paper</a>."
         ]
       },
@@ -133,6 +133,10 @@
           {
             "url": "https://www.ingentaconnect.com/contentone/ince/incecp/2024/00000270/00000010/art00002;jsessionid=bfo7l3dbtpl8b.x-ic-live-02",
             "label": "INTER-NOISE 2024 Paper"
+          },
+          {
+            "url": "https://arxiv.org/pdf/2607.10368",
+            "label": "ICSV32 2026 Proceedings Paper"
           }
         ],
         "tags": [
@@ -243,6 +247,10 @@
           {
             "url": "https://patents.google.com/patent/TR2022001302A1/en?q=(kullukcu)&oq=kullukcu",
             "label": "Nasogastric Tube Patent"
+          },
+          {
+            "url": "https://patents.google.com/patent/TR2021015887A1/en?q=(kullukcu)&oq=kullukcu",
+            "label": "Invasive Device Patent"
           },
           {
             "url": "https://patents.google.com/patent/TR2022007637Y/en?q=(kullukcu)&oq=kullukcu",
