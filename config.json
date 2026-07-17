@@ -49,6 +49,13 @@
         "path": "/resume"
       },
       {
+        "icon": "SchoolIcon",
+        "title": "Conference Presentations",
+        "description": "Watch recorded talks and explore details of my conference contributions",
+        "buttonText": "View Presentations",
+        "path": "/presentations"
+      },
+      {
         "icon": "PersonIcon",
         "title": "About",
         "description": "Learn about my research profile, methods, and technical background",
@@ -369,6 +376,164 @@
         "url": "https://scholar.google.com/citations?user=1P4pBzQAAAAJ&hl=tr",
         "label": "Google Scholar",
         "description": "Complete publication record and citation profile"
+      }
+    ]
+  },
+  "conferencePresentations": {
+    "title": "Conference Presentations",
+    "subtitle": "Recorded talks and presentation details from my work in acoustics, psychoacoustics, vibration, and sensing.",
+    "intro": "Each entry includes the bibliographic information, conference context, a concise abstract, the associated paper, and a presentation-video area. Videos are provided in English.",
+    "videoLanguageNote": "Presentation videos are in English in both language versions of this website.",
+    "labels": {
+      "authors": "Authors",
+      "conference": "Conference",
+      "date": "Date",
+      "location": "Location",
+      "session": "Session",
+      "status": "Status",
+      "abstract": "Abstract / presentation summary",
+      "video": "Presentation video",
+      "paper": "Paper / proceedings",
+      "videoLanguage": "Video language: English"
+    },
+    "items": [
+      {
+        "id": "icsv32-2026-multisource-avas",
+        "title": "Perceived Annoyance in Multi-Source Electric Vehicle AVAS Environments",
+        "authors": "Berkay Kullukçu, Serkan Atamer, Jonas Krautwurm, and M. Ercan Altinsoy",
+        "conference": "32nd International Congress on Sound and Vibration (ICSV32)",
+        "date": "5–10 July 2026",
+        "location": "Istanbul, Türkiye",
+        "session": "T14 SS03: Sound Quality and Product Design",
+        "status": "Presented",
+        "abstract": "This study extends AVAS evaluation from isolated vehicle sounds to realistic multi-vehicle traffic scenes. Binaurally rendered single- and two-vehicle pass-by scenes were assessed in a listening test using perceived-annoyance ratings. Simultaneous two-vehicle scenes produced a significant increase in short-term annoyance compared with the single-vehicle baseline, showing that AVAS optimisation should consider scene-level interactions in addition to individual-source detectability.",
+        "paperUrl": "https://arxiv.org/pdf/2607.10368",
+        "paperLabel": "Open proceedings paper",
+        "video": {
+          "type": "placeholder",
+          "message": "Presentation video coming soon"
+        }
+      },
+      {
+        "id": "forum-acusticum-2026-bolted-joints",
+        "title": "Frequency-Modulated and Single-Tone Excitation to Reveal Vibro-Acoustic Nonlinearities in Loosened Bolted Joints",
+        "authors": "Berkay Kullukçu, R. Pianowski, and D. Hannebauer",
+        "conference": "Forum Acusticum 2026",
+        "date": "8–12 September 2026",
+        "location": "Graz, Austria",
+        "session": "Programme time to be announced",
+        "status": "Upcoming accepted presentation",
+        "abstract": "Loss of preload changes the stiffness, damping, and nonlinear response of a bolted joint. A laboratory demonstrator was investigated at several preload levels using a triaxial accelerometer and a microphone under single-tone and frequency-modulated excitation. Harmonic content and additional spectral components were evaluated as vibro-acoustic indicators for distinguishing loosened from highly preloaded states.",
+        "paperUrl": "https://arxiv.org/pdf/2605.29950",
+        "paperLabel": "Open preprint",
+        "video": {
+          "type": "placeholder",
+          "message": "Presentation video will be added after the conference"
+        }
+      },
+      {
+        "id": "daga-2026-siamis",
+        "title": "SIAMIS: Experimental Study on the Acoustic Behavior of Bolted Joints Under Varying Tightening Torques",
+        "authors": "Berkay Kullukçu, R. Kamenzky, and D. Hannebauer",
+        "conference": "52nd Annual Meeting for Acoustics (DAGA 2026)",
+        "date": "25 March 2026, 10:20–10:40",
+        "location": "Dresden, Germany",
+        "session": "Körperschall (Structure-borne Sound)",
+        "status": "Presented",
+        "abstract": "Controlled impact tests were used to investigate the airborne and structure-borne acoustic responses of bolted specimens at different tightening torques. Microphone and accelerometer measurements were evaluated through transfer functions, resonance shifts, damping-related quantities, and sound-pressure trends. The study identifies preload-sensitive features that can support acoustic and vibration-based condition monitoring of bolted joints.",
+        "paperUrl": "https://opus4.kobv.de/opus4-th-wildau/files/2191/180.pdf",
+        "paperLabel": "Open conference paper",
+        "video": {
+          "type": "placeholder",
+          "message": "Presentation video coming soon"
+        }
+      },
+      {
+        "id": "forum-acusticum-2025-avas-semantics",
+        "title": "Psychoacoustic Modelling of AVAS Sounds: Consumer-Centric Semantic Attribute Development for Electric Vehicles",
+        "authors": "Berkay Kullukçu, M. Engel, Serkan Atamer, and M. Ercan Altinsoy",
+        "conference": "Forum Acusticum / Euronoise 2025",
+        "date": "24 June 2025, 09:20",
+        "location": "Málaga, Spain",
+        "session": "Sound Quality and Product Sound",
+        "status": "Presented",
+        "abstract": "The work develops consumer-centred semantic descriptors for Acoustic Vehicle Alerting System sounds and connects them to measurable psychoacoustic properties. AVAS samples were evaluated using semantic differential scales, and statistical modelling was used to determine which perceptual attributes distinguish preferred and non-preferred sounds. The resulting vocabulary supports the translation of user expectations into engineering-oriented sound-design targets.",
+        "paperUrl": "https://dael.euracoustics.org/confs/landing_pages/fa2025/000714.html",
+        "paperLabel": "Open conference paper",
+        "video": {
+          "type": "placeholder",
+          "message": "Presentation video coming soon"
+        }
+      },
+      {
+        "id": "das-daga-2025-masking-threshold",
+        "title": "Experimental Determination of the Masking Threshold in Electric Trucks",
+        "authors": "Berkay Kullukçu, Oliver Zeidler, Serkan Atamer, and M. Ercan Altinsoy",
+        "conference": "DAS–DAGA 2025",
+        "date": "19 March 2025, 17:40–18:00",
+        "location": "Copenhagen, Denmark",
+        "session": "Vehicle Acoustics 4",
+        "status": "Presented",
+        "abstract": "This study examines how the interior noise of electric trucks masks tonal auditory cues. Binaural recordings at different driving speeds were reproduced under controlled laboratory conditions, and frequency-dependent detection thresholds were measured in listening tests. The results provide a basis for designing in-cabin warning sounds that remain detectable without becoming unnecessarily intrusive.",
+        "paperUrl": "https://pub.dega-akustik.de/DAS-DAGA_2025/files/upload/paper/30.pdf",
+        "paperLabel": "Open conference paper",
+        "video": {
+          "type": "placeholder",
+          "message": "Presentation video coming soon"
+        }
+      },
+      {
+        "id": "inter-noise-2024-warning-sounds",
+        "title": "Designing Effective Warning Sounds: Psychoacoustical Considerations",
+        "authors": "Berkay Kullukçu, Jin Wook Lee, Serkan Atamer, and M. Ercan Altinsoy",
+        "conference": "INTER-NOISE 2024",
+        "date": "29 August 2024",
+        "location": "Nantes, France",
+        "session": "Warning-sound design and psychoacoustics",
+        "status": "Presented · Video available",
+        "abstract": "Warning sounds must attract attention and communicate urgency while avoiding excessive annoyance. Two listening-test studies examined how psychoacoustic characteristics influence perceived urgency and annoyance. The presentation discusses how temporal and spectral design parameters can be combined to create warning signals that are effective, interpretable, and acceptable to listeners.",
+        "paperUrl": "https://www.ingentaconnect.com/contentone/ince/incecp/2024/00000270/00000010/art00002",
+        "paperLabel": "Open proceedings record",
+        "video": {
+          "type": "local",
+          "url": "./videos/inter-noise-2024-warning-sounds.mp4",
+          "poster": "./videos/inter-noise-2024-warning-sounds-poster.jpg",
+          "message": "Watch the presentation"
+        }
+      },
+      {
+        "id": "daga-2024-electric-truck-avas",
+        "title": "Acoustic Vehicle Alerting Systems (AVAS) for Electric Trucks: Initial Thoughts for the Requirements",
+        "authors": "Berkay Kullukçu, Robert Rosenkranz, and M. Ercan Altinsoy",
+        "conference": "50th Annual Meeting for Acoustics (DAGA 2024)",
+        "date": "20 March 2024, 08:40–09:00",
+        "location": "Hannover, Germany",
+        "session": "Fahrzeugakustik elektrisch (Electric Vehicle Acoustics)",
+        "status": "Presented",
+        "abstract": "A semantic-differential listening study compared internal-combustion and electric cars and trucks, both with and without AVAS. The analysis identified perceptual differences such as truck-likeness, effortlessness, whistling, and howling, and related these attributes to objective psychoacoustic properties. The findings form an initial requirements framework for designing electric-truck AVAS that communicate vehicle size and character without excessive annoyance.",
+        "paperUrl": "https://pub.dega-akustik.de/DAGA_2024/files/upload/paper/121.pdf",
+        "paperLabel": "Open conference paper",
+        "video": {
+          "type": "placeholder",
+          "message": "Presentation video coming soon"
+        }
+      },
+      {
+        "id": "ieee-ius-2020-pmut-modeling",
+        "title": "Modeling Miniaturized Piezoelectric Ultrasound Transducers: Comparison of Lumped and Finite Element Models",
+        "authors": "P. T. Ziarati, Berkay Kullukçu, and Levent Beker",
+        "conference": "2020 IEEE International Ultrasonics Symposium (IUS)",
+        "date": "7–11 September 2020",
+        "location": "Virtual conference",
+        "session": "Piezoelectric micromachined ultrasonic transducers",
+        "status": "Conference contribution",
+        "abstract": "This work compares lumped-element and finite-element modelling approaches for miniaturized piezoelectric ultrasound transducers intended for compact ultrasonic systems. The study evaluates the ability of the two approaches to predict electrical and acoustic behaviour while considering model complexity and computation effort, providing guidance for efficient transducer design and optimisation.",
+        "paperUrl": "https://ieeexplore.ieee.org/document/9251723",
+        "paperLabel": "Open IEEE record",
+        "video": {
+          "type": "placeholder",
+          "message": "Presentation video coming soon"
+        }
       }
     ]
   }

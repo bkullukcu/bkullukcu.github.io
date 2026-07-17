@@ -8,11 +8,14 @@ English is the default language. Visitors can switch between English and German 
 
 ## Main content files
 
-- `config.json`: English home, about, projects, timeline, footer, and contact content
-- `config-de.json`: German translation of the website content
+- `config.json`: English home, about, projects, conference presentations, timeline, footer, and contact content
+- `config-de.json`: German translation of the website content, including the conference-presentations page
 - `resume.json`: English résumé and publication data
 - `resume-de.json`: German résumé and publication data
-- `Berkay_Kullukcu_CV.pdf`: downloadable CV
+- `Berkay_Kullukcu_CV_EN.pdf`: English downloadable CV
+- `Berkay_Kullukcu_CV_DE.pdf`: German downloadable CV
+- `videos/`: conference-presentation recordings and poster images
+- `CONFERENCE_VIDEO_GUIDE.md`: instructions for adding future local or YouTube videos
 
 ## Local preview
 
