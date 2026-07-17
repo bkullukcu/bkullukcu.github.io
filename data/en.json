@@ -11,7 +11,8 @@
     "outputs": "Research Outputs",
     "contact": "Contact",
     "cv": "Download CV",
-    "menu": "Menu"
+    "menu": "Menu",
+    "impact": "Impact"
   },
   "footer": {
     "tagline": "Acoustics, vibration, signal processing, and experimental engineering.",
@@ -65,7 +66,7 @@
         "label": "patents"
       },
       {
-        "number": "C1 / C2",
+        "number": "C1 / C1",
         "label": "German / English"
       }
     ],
@@ -89,7 +90,7 @@
       "approach": "Methods & tools",
       "result": "Result",
       "relevance": "Industrial relevance",
-      "evidence": "Evidence"
+      "evidence": "Related work"
     }
   },
   "experiencePage": {
@@ -99,7 +100,7 @@
     "skillsTitle": "Technical capabilities",
     "additionalTitle": "Additional engineering experience",
     "educationTitle": "Education",
-    "awardsTitle": "Selected recognition",
+    "awardsTitle": "Awards, Scholarships & Competitive Funding",
     "cvTitle": "Full CV",
     "cvText": "Download the complete application document in your preferred language.",
     "outputsLink": "View publications, patents, and academic service"
@@ -107,13 +108,12 @@
   "talksPage": {
     "eyebrow": "Technical communication",
     "title": "Conference Talks",
-    "intro": "One recorded presentation is available now. The remaining talks are shown compactly and will receive video links as recordings become available. All presentation videos are in English.",
+    "intro": "Selected conference presentations and technical talks. All presentation videos are in English.",
     "featured": "Featured recording",
     "other": "Other presentations",
     "watch": "Watch presentation",
     "paper": "Open paper",
     "details": "Presentation summary",
-    "videoPlanned": "Video planned",
     "upcoming": "Upcoming",
     "presented": "Presented"
   },
@@ -220,7 +220,7 @@
       "subtitle": "Turning perception into measurable product requirements",
       "image": "/projects/avas.png",
       "problem": "Electric trucks need warning sounds that are detectable and recognisable without sounding unnecessarily harsh or annoying.",
-      "contribution": "Designed psychoacoustic experiments, synthesised and evaluated vehicle sounds, analysed semantic and annoyance ratings, and translated the results into sound-design guidance.",
+      "contribution": "Designed two psychoacoustic study programmes, synthesised and evaluated vehicle sounds, analysed semantic and annoyance ratings, and translated perceptual responses into sound-design guidance.",
       "approach": [
         "Listening tests",
         "Binaural sound synthesis",
@@ -229,7 +229,7 @@
         "Psychoacoustic metrics",
         "MATLAB"
       ],
-      "result": "Produced a user-centred AVAS framework, a peer-reviewed JAES article, and multiple international conference contributions. Studies included 20–21 participants and up to 35 sound stimuli.",
+      "result": "Delivered two listening-test datasets with 20 and 21 participants, including 24- and 35-stimulus evaluations; produced one peer-reviewed JAES article and four associated international conference contributions.",
       "relevance": "Demonstrates the ability to convert subjective user perception into quantitative requirements for audio, mobility, and warning-system products.",
       "evidence": [
         {
@@ -265,7 +265,7 @@
         "Spectral analysis",
         "Condition monitoring"
       ],
-      "result": "Identified vibro-acoustic indicators associated with tightening torque and loosened states, leading to two 2026 conference contributions.",
+      "result": "Established preload-sensitive acoustic and vibration indicators using microphone and triaxial-accelerometer measurements; converted the work into two accepted/published 2026 conference contributions.",
       "relevance": "Directly applicable to predictive maintenance, structural diagnostics, rail systems, machinery, and hardware reliability.",
       "evidence": [
         {
@@ -293,7 +293,7 @@
         "Threshold estimation",
         "Statistics"
       ],
-      "result": "Generated frequency-specific audibility limits that support engineering decisions for warning and information sounds in electric-truck interiors.",
+      "result": "Measured frequency-dependent audibility limits at six test frequencies (200 Hz to 6.4 kHz) across three electric-truck driving-speed conditions, providing design boundaries for in-cabin warning sounds.",
       "relevance": "Relevant to automotive HMI, alarm design, occupational safety, and any product where sound must remain audible in noise.",
       "evidence": [
         {
@@ -317,7 +317,7 @@
         "Lab testing",
         "Transducer modelling"
       ],
-      "result": "Produced two journal articles, a master’s thesis, and an IEEE conference contribution covering flexible harvesters and miniaturised ultrasonic transducers.",
+      "result": "Delivered two peer-reviewed journal articles, one master’s thesis, and one IEEE conference contribution spanning flexible energy harvesters and miniaturised ultrasonic transducers.",
       "relevance": "Shows cross-domain competence in sensors, transducers, simulation, prototyping, and measurement-driven product development.",
       "evidence": [
         {
@@ -353,7 +353,7 @@
         "Product concepts",
         "Technical entrepreneurship"
       ],
-      "result": "Secured TÜBİTAK techno-start-up funding and co-invented three patented medical-device technologies.",
+      "result": "Co-developed three protected medical-device concepts and secured a USD 25,000 TÜBİTAK techno-start-up grant for product development.",
       "relevance": "Demonstrates product ownership, interdisciplinary development, intellectual property creation, and the ability to translate clinical needs into engineering concepts.",
       "evidence": [
         {
@@ -378,9 +378,9 @@
       "dates": "Oct 2025 – Present",
       "location": "Wildau, Germany",
       "bullets": [
-        "Design and conduct acoustic and vibration experiments for condition monitoring of rail-vehicle components.",
-        "Investigate loosened bolted joints, tightening torque, structural defects, and vibro-acoustic nonlinearities.",
-        "Translated the experimental work into two 2026 international conference contributions."
+        "Design and conduct acoustic and vibration experiments for condition monitoring of rail-vehicle components using microphones, accelerometers, controlled impact tests, and tonal/frequency-modulated excitation.",
+        "Evaluate tightening-torque and looseness effects through transfer functions, resonance shifts, harmonic content, and nonlinear vibro-acoustic indicators.",
+        "Converted the experimental programme into two 2026 international conference contributions, including one DAGA paper and one Forum Acusticum preprint."
       ],
       "tags": [
         "Condition monitoring",
@@ -395,9 +395,9 @@
       "dates": "Apr 2023 – Present",
       "location": "Dresden, Germany",
       "bullets": [
-        "Develop and evaluate AVAS concepts for electric trucks through psychoacoustic tests, semantic evaluation, and binaural sound synthesis.",
-        "Design listening studies addressing sound quality, annoyance, urgency, masking, and perceptual discrimination.",
-        "Apply PCA, MANOVA, logistic regression, non-parametric tests, and psychoacoustic metrics to derive engineering recommendations."
+        "Designed psychoacoustic studies with 20–21 participants and up to 35 vehicle-sound stimuli to evaluate sound quality, annoyance, urgency, masking, and perceptual discrimination.",
+        "Applied PCA, MANOVA, logistic regression, non-parametric tests, and psychoacoustic metrics to convert listener responses into engineering recommendations.",
+        "Produced one peer-reviewed JAES article and five vehicle-acoustics conference contributions between 2024 and 2026."
       ],
       "tags": [
         "Psychoacoustics",
@@ -426,9 +426,9 @@
       "dates": "Jun 2021 – Jan 2023",
       "location": "Istanbul, Türkiye",
       "bullets": [
-        "Developed hospital-digitalisation and IoT monitoring concepts for ventilation and infusion equipment.",
-        "Worked on device communication and integrated-circuit concepts; contributed to three patented medical-device systems.",
-        "The venture received TÜBİTAK TEYDEB 1512 techno-start-up funding."
+        "Co-founded a medical-IoT start-up developing monitoring concepts for ventilation, infusion equipment, and invasive devices.",
+        "Contributed to sensing, device communication, and integrated-circuit concepts that resulted in three patents/utility models.",
+        "Secured USD 25,000 in TÜBİTAK TEYDEB 1512 techno-start-up funding."
       ],
       "tags": [
         "Medical IoT",
@@ -443,8 +443,8 @@
       "dates": "Mar 2022 – Sep 2022",
       "location": "Istanbul, Türkiye",
       "bullets": [
-        "Worked on thin films and flexible electronic sensors in an industrial R&D environment.",
-        "Developed LabVIEW software for experimental testing."
+        "Worked in the Thin Films & Flexible Electronic Sensors department, selected through a 0.35% applicant-acceptance programme.",
+        "Developed LabVIEW software for repeatable experimental testing of flexible electronic sensor systems."
       ],
       "tags": [
         "Flexible electronics",
@@ -459,8 +459,8 @@
       "dates": "Jan 2020 – Sep 2022",
       "location": "Istanbul, Türkiye",
       "bullets": [
-        "Modelled, fabricated, and tested flexible piezoelectric energy harvesters and miniaturised ultrasound transducers.",
-        "Worked with acoustic equivalent circuits, COMSOL FEM, micro/nanofabrication, and wearable sensor concepts."
+        "Modelled, fabricated, and tested flexible piezoelectric energy harvesters and miniaturised ultrasound transducers using COMSOL FEM and acoustic equivalent circuits.",
+        "Converted the research into two journal articles, one master’s thesis, one IEEE conference paper, and wearable-sensor concepts."
       ],
       "tags": [
         "COMSOL",
@@ -507,19 +507,52 @@
   ],
   "awards": [
     {
+      "name": "DAAD Congress Travel Grant – ICSV32",
+      "dates": "2026",
+      "issuer": "German Academic Exchange Service (DAAD)",
+      "group": "Competitive funding"
+    },
+    {
+      "name": "EAA Travel Grant – Forum Acusticum",
+      "dates": "2025",
+      "issuer": "European Acoustics Association",
+      "group": "Competitive funding"
+    },
+    {
+      "name": "Patent Holder Award – V Patent Day",
+      "dates": "2019–2021",
+      "issuer": "Koç University",
+      "group": "Awards"
+    },
+    {
+      "name": "BİDEB 2210-C National MSc Scholarship",
+      "dates": "",
+      "issuer": "TÜBİTAK",
+      "group": "Scholarships"
+    },
+    {
       "name": "TEYDEB 1512 Techno-Startup Funding",
       "dates": "",
-      "issuer": "TÜBİTAK"
+      "issuer": "TÜBİTAK · USD 25,000",
+      "group": "Competitive funding"
     },
     {
-      "name": "Design Innovation Challenge - First Prize",
+      "name": "Design Innovation Challenge – First Prize",
       "dates": "",
-      "issuer": "Garip & Zeycan Foundation"
+      "issuer": "Garip & Zeycan Foundation · Undergraduate & Graduate Scholarship",
+      "group": "Awards"
     },
     {
-      "name": "DAAD Congress Travel Grant - ICSV32",
-      "dates": "2026",
-      "issuer": "German Academic Exchange Service (DAAD)"
+      "name": "Graduate Academy Conference Travel Grant – DAGA Copenhagen",
+      "dates": "2025",
+      "issuer": "TU Dresden",
+      "group": "Competitive funding"
+    },
+    {
+      "name": "Patent Holder Award – VI Patent Day",
+      "dates": "",
+      "issuer": "Koç University",
+      "group": "Awards"
     }
   ],
   "skills": {
@@ -735,8 +768,7 @@
       "paperUrl": "https://arxiv.org/pdf/2607.10368",
       "paperLabel": "Open proceedings paper",
       "video": {
-        "type": "placeholder",
-        "message": "Presentation video coming soon"
+        "type": "placeholder"
       }
     },
     {
@@ -752,8 +784,7 @@
       "paperUrl": "https://arxiv.org/pdf/2605.29950",
       "paperLabel": "Open preprint",
       "video": {
-        "type": "placeholder",
-        "message": "Presentation video will be added after the conference"
+        "type": "placeholder"
       }
     },
     {
@@ -769,8 +800,7 @@
       "paperUrl": "https://opus4.kobv.de/opus4-th-wildau/files/2191/180.pdf",
       "paperLabel": "Open conference paper",
       "video": {
-        "type": "placeholder",
-        "message": "Presentation video coming soon"
+        "type": "placeholder"
       }
     },
     {
@@ -786,8 +816,7 @@
       "paperUrl": "https://dael.euracoustics.org/confs/landing_pages/fa2025/000714.html",
       "paperLabel": "Open conference paper",
       "video": {
-        "type": "placeholder",
-        "message": "Presentation video coming soon"
+        "type": "placeholder"
       }
     },
     {
@@ -803,8 +832,7 @@
       "paperUrl": "https://pub.dega-akustik.de/DAS-DAGA_2025/files/upload/paper/30.pdf",
       "paperLabel": "Open conference paper",
       "video": {
-        "type": "placeholder",
-        "message": "Presentation video coming soon"
+        "type": "placeholder"
       }
     },
     {
@@ -839,25 +867,7 @@
       "paperUrl": "https://pub.dega-akustik.de/DAGA_2024/files/upload/paper/121.pdf",
       "paperLabel": "Open conference paper",
       "video": {
-        "type": "placeholder",
-        "message": "Presentation video coming soon"
-      }
-    },
-    {
-      "id": "ieee-ius-2020-pmut-modeling",
-      "title": "Modeling Miniaturized Piezoelectric Ultrasound Transducers: Comparison of Lumped and Finite Element Models",
-      "authors": "P. T. Ziarati, Berkay Kullukçu, and Levent Beker",
-      "conference": "2020 IEEE International Ultrasonics Symposium (IUS)",
-      "date": "7–11 September 2020",
-      "location": "Virtual conference",
-      "session": "Piezoelectric micromachined ultrasonic transducers",
-      "status": "Conference contribution",
-      "abstract": "This work compares lumped-element and finite-element modelling approaches for miniaturized piezoelectric ultrasound transducers intended for compact ultrasonic systems. The study evaluates the ability of the two approaches to predict electrical and acoustic behaviour while considering model complexity and computation effort, providing guidance for efficient transducer design and optimisation.",
-      "paperUrl": "https://ieeexplore.ieee.org/document/9251723",
-      "paperLabel": "Open IEEE record",
-      "video": {
-        "type": "placeholder",
-        "message": "Presentation video coming soon"
+        "type": "placeholder"
       }
     }
   ],
@@ -866,5 +876,36 @@
     "linkedin": "https://www.linkedin.com/in/bkullukcu",
     "github": "https://github.com/bkullukcu",
     "scholar": "https://scholar.google.com/citations?user=1P4pBzQAAAAJ&hl=en"
+  },
+  "impactPage": {
+    "eyebrow": "External validation",
+    "title": "Impact",
+    "intro": "A compact record of peer-reviewed outputs, patented technologies, competitive funding, international presentations and professional service.",
+    "metrics": [
+      {
+        "number": "4",
+        "label": "peer-reviewed journal articles"
+      },
+      {
+        "number": "8",
+        "label": "conference papers"
+      },
+      {
+        "number": "3",
+        "label": "patents and utility models"
+      },
+      {
+        "number": "8",
+        "label": "awards, scholarships and grants"
+      }
+    ],
+    "recognitionTitle": "Awards, Scholarships & Competitive Funding",
+    "recognitionIntro": "External recognition spanning startup funding, scholarships, conference grants, innovation prizes and patent awards.",
+    "outputsTitle": "Research and intellectual-property outputs",
+    "outputsText": "The complete bibliographic record remains available on the Research Outputs page.",
+    "outputsButton": "View research outputs",
+    "talksTitle": "International communication and professional service",
+    "talksText": "Seven conference presentations, one available presentation recording, and two session-chair assignments at DAGA and ICSV32.",
+    "talksButton": "View conference talks"
   }
 }

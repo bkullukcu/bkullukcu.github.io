@@ -11,7 +11,8 @@
     "outputs": "Publikationen & Patente",
     "contact": "Kontakt",
     "cv": "Lebenslauf",
-    "menu": "Menü"
+    "menu": "Menü",
+    "impact": "Wirkung"
   },
   "footer": {
     "tagline": "Akustik, Schwingungen, Signalverarbeitung und experimentelles Engineering.",
@@ -65,7 +66,7 @@
         "label": "Patente"
       },
       {
-        "number": "C1 / C2",
+        "number": "C1 / C1",
         "label": "Deutsch / Englisch"
       }
     ],
@@ -89,7 +90,7 @@
       "approach": "Methoden & Werkzeuge",
       "result": "Ergebnis",
       "relevance": "Industrielle Relevanz",
-      "evidence": "Nachweise"
+      "evidence": "Verwandte Arbeiten"
     }
   },
   "experiencePage": {
@@ -99,7 +100,7 @@
     "skillsTitle": "Technische Kompetenzen",
     "additionalTitle": "Weitere Engineeringerfahrung",
     "educationTitle": "Ausbildung",
-    "awardsTitle": "Ausgewählte Auszeichnungen",
+    "awardsTitle": "Auszeichnungen, Stipendien & wettbewerbliche Förderung",
     "cvTitle": "Vollständiger Lebenslauf",
     "cvText": "Laden Sie den vollständigen Lebenslauf in der gewünschten Sprache herunter.",
     "outputsLink": "Publikationen, Patente und akademische Aktivitäten"
@@ -107,13 +108,12 @@
   "talksPage": {
     "eyebrow": "Technische Kommunikation",
     "title": "Konferenzvorträge",
-    "intro": "Eine Präsentationsaufzeichnung ist bereits verfügbar. Die übrigen Vorträge werden kompakt dargestellt und später um Videos ergänzt. Alle Präsentationsvideos sind auf Englisch.",
+    "intro": "Ausgewählte Konferenzpräsentationen und technische Vorträge. Alle Präsentationsvideos sind auf Englisch.",
     "featured": "Aufzeichnung",
     "other": "Weitere Vorträge",
     "watch": "Präsentation ansehen",
     "paper": "Beitrag öffnen",
     "details": "Zusammenfassung",
-    "videoPlanned": "Video geplant",
     "upcoming": "Bevorstehend",
     "presented": "Gehalten"
   },
@@ -220,7 +220,7 @@
       "subtitle": "Wahrnehmung in messbare Produktanforderungen überführen",
       "image": "/projects/avas.png",
       "problem": "Elektrische Lkw benötigen Warnsignale, die zuverlässig erkennbar sind, ohne unnötig scharf oder lästig zu wirken.",
-      "contribution": "Konzeption psychoakustischer Versuche, Synthese und Bewertung von Fahrzeuggeräuschen, Analyse semantischer und lästigkeitsbezogener Urteile sowie Ableitung konkreter Sounddesign-Empfehlungen.",
+      "contribution": "Konzeption zweier psychoakustischer Studienprogramme, Synthese und Bewertung von Fahrzeuggeräuschen, Analyse semantischer und lästigkeitsbezogener Bewertungen sowie Überführung der Wahrnehmungsdaten in Sound-Design-Empfehlungen.",
       "approach": [
         "Hörversuche",
         "Binaurale Klangsynthese",
@@ -229,7 +229,7 @@
         "Psychoakustische Kenngrößen",
         "MATLAB"
       ],
-      "result": "Entwicklung eines nutzerzentrierten AVAS-Rahmens mit JAES-Zeitschriftenartikel und mehreren internationalen Konferenzbeiträgen. Die Studien umfassten 20–21 Versuchspersonen und bis zu 35 Klangstimuli.",
+      "result": "Erstellung zweier Hörversuchsdatensätze mit 20 bzw. 21 Versuchspersonen und Bewertungen von 24 bzw. 35 Stimuli; daraus entstanden ein begutachteter JAES-Artikel und vier zugehörige internationale Konferenzbeiträge.",
       "relevance": "Belegt die Fähigkeit, subjektive Nutzerwahrnehmung in quantitative Anforderungen für Audio-, Mobilitäts- und Warnsystemprodukte zu überführen.",
       "evidence": [
         {
@@ -265,7 +265,7 @@
         "Spektralanalyse",
         "Zustandsüberwachung"
       ],
-      "result": "Identifikation vibroakustischer Indikatoren für Anziehdrehmoment und gelockerte Zustände; daraus entstanden zwei Konferenzbeiträge im Jahr 2026.",
+      "result": "Bestimmung vorspannungsabhängiger akustischer und schwingungstechnischer Merkmale mit Mikrofon- und Triaxialbeschleunigungsmessungen; Überführung in zwei angenommene bzw. veröffentlichte Konferenzbeiträge im Jahr 2026.",
       "relevance": "Direkt relevant für Predictive Maintenance, Strukturdiagnostik, Schienensysteme, Maschinen und Hardwarezuverlässigkeit.",
       "evidence": [
         {
@@ -293,7 +293,7 @@
         "Schwellenbestimmung",
         "Statistik"
       ],
-      "result": "Ermittlung frequenzspezifischer Hörbarkeitsgrenzen als Grundlage für technische Entscheidungen zu Warn- und Informationssignalen in elektrischen Lkw.",
+      "result": "Messung frequenzabhängiger Hörschwellen bei sechs Prüffrequenzen von 200 Hz bis 6,4 kHz und drei Fahrgeschwindigkeiten eines elektrischen Lkw; daraus wurden Auslegungsgrenzen für Warnsignale im Fahrerhaus abgeleitet.",
       "relevance": "Relevant für Automotive HMI, Alarmdesign, Arbeitssicherheit und Produkte, deren Signale in Geräuschumgebungen hörbar bleiben müssen.",
       "evidence": [
         {
@@ -317,7 +317,7 @@
         "Laborprüfung",
         "Wandlermodellierung"
       ],
-      "result": "Zwei Zeitschriftenartikel, eine Masterarbeit und ein IEEE-Konferenzbeitrag zu flexiblen Harvestern und miniaturisierten Ultraschallwandlern.",
+      "result": "Erarbeitung von zwei begutachteten Zeitschriftenartikeln, einer Masterarbeit und einem IEEE-Konferenzbeitrag zu flexiblen Energy Harvestern und miniaturisierten Ultraschallwandlern.",
       "relevance": "Zeigt domänenübergreifende Kompetenz in Sensorik, Wandlern, Simulation, Prototyping und messgetriebener Produktentwicklung.",
       "evidence": [
         {
@@ -353,7 +353,7 @@
         "Produktkonzepte",
         "Technisches Unternehmertum"
       ],
-      "result": "Einwerbung einer TÜBİTAK-Techno-Start-up-Förderung und Mitentwicklung von drei patentierten Medizintechniklösungen.",
+      "result": "Mitentwicklung von drei geschützten Medizintechnikkonzepten und Einwerbung einer TÜBİTAK-Techno-Start-up-Förderung in Höhe von 25.000 USD.",
       "relevance": "Belegt Produktverantwortung, interdisziplinäre Entwicklung, Schutzrechtserstellung und die Übersetzung klinischer Anforderungen in technische Konzepte.",
       "evidence": [
         {
@@ -378,9 +378,9 @@
       "dates": "Okt. 2025 – heute",
       "location": "Wildau, Deutschland",
       "bullets": [
-        "Planung und Durchführung akustischer und schwingungstechnischer Versuche zur Zustandsüberwachung von Schienenfahrzeugkomponenten.",
-        "Untersuchung gelockerter Schraubverbindungen, des Anziehdrehmoments, struktureller Defekte und vibroakustischer Nichtlinearitäten.",
-        "Überführung der experimentellen Arbeiten in zwei internationale Konferenzbeiträge im Jahr 2026."
+        "Planung und Durchführung akustischer und schwingungstechnischer Versuche zur Zustandsüberwachung von Schienenfahrzeugkomponenten mit Mikrofonen, Beschleunigungsaufnehmern, Impulsanregung sowie tonaler und frequenzmodulierter Anregung.",
+        "Bewertung von Anziehdrehmoment und Lockerung anhand von Übertragungsfunktionen, Resonanzverschiebungen, harmonischen Anteilen und nichtlinearen vibroakustischen Merkmalen.",
+        "Überführung des Versuchsprogramms in zwei internationale Konferenzbeiträge 2026, darunter ein DAGA-Beitrag und ein Forum-Acusticum-Preprint."
       ],
       "tags": [
         "Zustandsüberwachung",
@@ -395,9 +395,9 @@
       "dates": "Apr. 2023 – heute",
       "location": "Dresden, Deutschland",
       "bullets": [
-        "Entwicklung und Bewertung von AVAS-Konzepten für elektrische Lkw durch psychoakustische Tests, semantische Bewertung und binaurale Klangsynthese.",
-        "Konzeption von Hörstudien zu Klangqualität, Lästigkeit, Dringlichkeit, Maskierung und Wahrnehmungsschwellen.",
-        "Anwendung von PCA, MANOVA, logistischer Regression, nichtparametrischen Tests und psychoakustischen Kenngrößen zur Ableitung technischer Empfehlungen."
+        "Konzeption psychoakustischer Studien mit 20–21 Versuchspersonen und bis zu 35 Fahrzeuggeräusch-Stimuli zu Klangqualität, Lästigkeit, Dringlichkeit, Maskierung und Wahrnehmungsschwellen.",
+        "Anwendung von PCA, MANOVA, logistischer Regression, nichtparametrischen Tests und psychoakustischen Kenngrößen zur Überführung subjektiver Bewertungen in technische Empfehlungen.",
+        "Erarbeitung eines begutachteten JAES-Artikels und fünf fahrzeugakustischer Konferenzbeiträge zwischen 2024 und 2026."
       ],
       "tags": [
         "Psychoakustik",
@@ -426,9 +426,9 @@
       "dates": "Juni 2021 – Jan. 2023",
       "location": "Istanbul, Türkei",
       "bullets": [
-        "Entwicklung von Konzepten zur Krankenhausdigitalisierung und zum IoT-Monitoring von Beatmungs- und Infusionsgeräten.",
-        "Arbeit an Gerätekommunikation und integrierten Schaltungskonzepten; Mitwirkung an drei patentierten Medizintechniksystemen.",
-        "Das Unternehmen erhielt eine TÜBİTAK-TEYDEB-1512-Techno-Start-up-Förderung."
+        "Mitgründung eines Medical-IoT-Start-ups zur Entwicklung von Überwachungskonzepten für Beatmungs-, Infusions- und invasive Geräte.",
+        "Mitwirkung an Sensorik, Gerätekommunikation und integrierten Schaltungskonzepten, aus denen drei Patente bzw. Gebrauchsmuster hervorgingen.",
+        "Einwerbung von 25.000 USD TÜBİTAK-TEYDEB-1512-Techno-Start-up-Förderung."
       ],
       "tags": [
         "Medical IoT",
@@ -443,8 +443,8 @@
       "dates": "März 2022 – Sept. 2022",
       "location": "Istanbul, Türkei",
       "bullets": [
-        "Arbeit an Dünnschichten und flexiblen elektronischen Sensoren in einem industriellen F&E-Umfeld.",
-        "Entwicklung von LabVIEW-Software für experimentelle Prüfungen."
+        "Tätigkeit im Bereich Dünnschichten und flexible elektronische Sensoren in einem Programm mit einer Bewerberannahmequote von 0,35 %.",
+        "Entwicklung von LabVIEW-Software für reproduzierbare experimentelle Prüfungen flexibler Sensorsysteme."
       ],
       "tags": [
         "Flexible Elektronik",
@@ -459,8 +459,8 @@
       "dates": "Jan. 2020 – Sept. 2022",
       "location": "Istanbul, Türkei",
       "bullets": [
-        "Modellierung, Fertigung und Prüfung flexibler piezoelektrischer Energy Harvester und miniaturisierter Ultraschallwandler.",
-        "Arbeit mit akustischen Ersatzschaltbildern, COMSOL FEM, Mikro-/Nanofabrikation und Wearable-Sensorkonzepten."
+        "Modellierung, Fertigung und Prüfung flexibler piezoelektrischer Energy Harvester und miniaturisierter Ultraschallwandler mit COMSOL FEM und akustischen Ersatzschaltbildern.",
+        "Überführung der Arbeiten in zwei Zeitschriftenartikel, eine Masterarbeit, einen IEEE-Konferenzbeitrag und Wearable-Sensorkonzepte."
       ],
       "tags": [
         "COMSOL",
@@ -507,19 +507,52 @@
   ],
   "awards": [
     {
+      "name": "DAAD-Kongressreisestipendium – ICSV32",
+      "dates": "2026",
+      "issuer": "Deutscher Akademischer Austauschdienst (DAAD)",
+      "group": "Wettbewerbliche Förderung"
+    },
+    {
+      "name": "EAA-Reisestipendium – Forum Acusticum",
+      "dates": "2025",
+      "issuer": "European Acoustics Association",
+      "group": "Wettbewerbliche Förderung"
+    },
+    {
+      "name": "Patentinhaber-Auszeichnung – V. Patenttag",
+      "dates": "2019–2021",
+      "issuer": "Koç University",
+      "group": "Auszeichnungen"
+    },
+    {
+      "name": "BİDEB 2210-C Nationales Masterstipendium",
+      "dates": "",
+      "issuer": "TÜBİTAK",
+      "group": "Stipendien"
+    },
+    {
       "name": "TEYDEB 1512 Techno-Startup-Förderung",
       "dates": "",
-      "issuer": "TÜBİTAK"
+      "issuer": "TÜBİTAK · 25.000 USD",
+      "group": "Wettbewerbliche Förderung"
     },
     {
       "name": "Design Innovation Challenge – 1. Preis",
       "dates": "",
-      "issuer": "Garip & Zeycan Foundation"
+      "issuer": "Garip & Zeycan Foundation · Bachelor- und Masterstipendium",
+      "group": "Auszeichnungen"
     },
     {
-      "name": "DAAD-Kongressreisestipendium – ICSV32",
-      "dates": "2026",
-      "issuer": "Deutscher Akademischer Austauschdienst (DAAD)"
+      "name": "Graduate-Academy-Kongressreisestipendium – DAGA Kopenhagen",
+      "dates": "2025",
+      "issuer": "TU Dresden",
+      "group": "Wettbewerbliche Förderung"
+    },
+    {
+      "name": "Patentinhaber-Auszeichnung – VI. Patenttag",
+      "dates": "",
+      "issuer": "Koç University",
+      "group": "Auszeichnungen"
     }
   ],
   "skills": {
@@ -735,8 +768,7 @@
       "paperUrl": "https://arxiv.org/pdf/2607.10368",
       "paperLabel": "Tagungsbeitrag öffnen",
       "video": {
-        "type": "placeholder",
-        "message": "Präsentationsvideo folgt"
+        "type": "placeholder"
       }
     },
     {
@@ -752,8 +784,7 @@
       "paperUrl": "https://arxiv.org/pdf/2605.29950",
       "paperLabel": "Preprint öffnen",
       "video": {
-        "type": "placeholder",
-        "message": "Das Präsentationsvideo wird nach der Konferenz ergänzt"
+        "type": "placeholder"
       }
     },
     {
@@ -769,8 +800,7 @@
       "paperUrl": "https://opus4.kobv.de/opus4-th-wildau/files/2191/180.pdf",
       "paperLabel": "Konferenzbeitrag öffnen",
       "video": {
-        "type": "placeholder",
-        "message": "Präsentationsvideo folgt"
+        "type": "placeholder"
       }
     },
     {
@@ -786,8 +816,7 @@
       "paperUrl": "https://dael.euracoustics.org/confs/landing_pages/fa2025/000714.html",
       "paperLabel": "Konferenzbeitrag öffnen",
       "video": {
-        "type": "placeholder",
-        "message": "Präsentationsvideo folgt"
+        "type": "placeholder"
       }
     },
     {
@@ -803,8 +832,7 @@
       "paperUrl": "https://pub.dega-akustik.de/DAS-DAGA_2025/files/upload/paper/30.pdf",
       "paperLabel": "Konferenzbeitrag öffnen",
       "video": {
-        "type": "placeholder",
-        "message": "Präsentationsvideo folgt"
+        "type": "placeholder"
       }
     },
     {
@@ -839,25 +867,7 @@
       "paperUrl": "https://pub.dega-akustik.de/DAGA_2024/files/upload/paper/121.pdf",
       "paperLabel": "Konferenzbeitrag öffnen",
       "video": {
-        "type": "placeholder",
-        "message": "Präsentationsvideo folgt"
-      }
-    },
-    {
-      "id": "ieee-ius-2020-pmut-modeling",
-      "title": "Modeling Miniaturized Piezoelectric Ultrasound Transducers: Comparison of Lumped and Finite Element Models",
-      "authors": "P. T. Ziarati, Berkay Kullukçu, and Levent Beker",
-      "conference": "2020 IEEE International Ultrasonics Symposium (IUS)",
-      "date": "7.–11. September 2020",
-      "location": "Virtuelle Konferenz",
-      "session": "Piezoelektrische mikromechanische Ultraschallwandler",
-      "status": "Konferenzbeitrag",
-      "abstract": "Diese Arbeit vergleicht konzentrierte Ersatzschaltbildmodelle und Finite-Elemente-Modelle für miniaturisierte piezoelektrische Ultraschallwandler. Bewertet wird, wie gut beide Ansätze das elektrische und akustische Verhalten vorhersagen und wie sich Modellkomplexität und Rechenaufwand unterscheiden. Daraus ergeben sich Hinweise für eine effiziente Auslegung und Optimierung kompakter Ultraschallwandler.",
-      "paperUrl": "https://ieeexplore.ieee.org/document/9251723",
-      "paperLabel": "IEEE-Eintrag öffnen",
-      "video": {
-        "type": "placeholder",
-        "message": "Präsentationsvideo folgt"
+        "type": "placeholder"
       }
     }
   ],
@@ -866,5 +876,36 @@
     "linkedin": "https://www.linkedin.com/in/bkullukcu",
     "github": "https://github.com/bkullukcu",
     "scholar": "https://scholar.google.com/citations?user=1P4pBzQAAAAJ&hl=en"
+  },
+  "impactPage": {
+    "eyebrow": "Externe Anerkennung",
+    "title": "Wirkung",
+    "intro": "Ein kompakter Überblick über begutachtete Veröffentlichungen, patentierte Technologien, wettbewerbliche Förderung, internationale Vorträge und wissenschaftliches Engagement.",
+    "metrics": [
+      {
+        "number": "4",
+        "label": "begutachtete Zeitschriftenartikel"
+      },
+      {
+        "number": "8",
+        "label": "Konferenzbeiträge"
+      },
+      {
+        "number": "3",
+        "label": "Patente und Gebrauchsmuster"
+      },
+      {
+        "number": "8",
+        "label": "Auszeichnungen, Stipendien und Förderungen"
+      }
+    ],
+    "recognitionTitle": "Auszeichnungen, Stipendien & wettbewerbliche Förderung",
+    "recognitionIntro": "Externe Anerkennung durch Startup-Förderung, Stipendien, Kongressreisemittel, Innovationspreise und Patentauszeichnungen.",
+    "outputsTitle": "Forschungs- und Schutzrechtsergebnisse",
+    "outputsText": "Der vollständige bibliografische Nachweis befindet sich auf der Seite Forschungsergebnisse.",
+    "outputsButton": "Forschungsergebnisse ansehen",
+    "talksTitle": "Internationale Kommunikation und wissenschaftliches Engagement",
+    "talksText": "Sieben Konferenzvorträge, eine verfügbare Vortragsaufzeichnung und zwei Sitzungsleitungen bei DAGA und ICSV32.",
+    "talksButton": "Konferenzvorträge ansehen"
   }
 }
