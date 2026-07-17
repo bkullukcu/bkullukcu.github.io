@@ -1,32 +1,24 @@
-# Berkay Kullukçu Portfolio Website
+# Berkay Kullukçu — Industry-focused portfolio
 
-Static bilingual portfolio website for GitHub Pages.
+This version is redesigned for hiring managers and industry applications.
 
-## Languages
+## Primary pages
+- `/` — hiring-focused homepage
+- `/selected-work/` — five engineering case studies
+- `/experience/` — professional experience and technical capabilities
+- `/talks/` — conference presentations, with one embedded recording
+- `/research-outputs/` — complete publications, patents, thesis, and session-chair record
+- `/contact/` — contact and CV links
 
-English is the default language. Visitors can switch between English and German using the EN/DE control. The selected language is stored in the browser.
+## Role-focused application links
+- `/audio/`
+- `/test-validation/`
+- `/signal-processing/`
 
-## Main content files
+English is the default. The EN/DE selection is saved in the visitor’s browser.
 
-- `config.json`: English home, about, projects, conference presentations, timeline, footer, and contact content
-- `config-de.json`: German translation of the website content, including the conference-presentations page
-- `resume.json`: English résumé and publication data
-- `resume-de.json`: German résumé and publication data
-- `Berkay_Kullukcu_CV_EN.pdf`: English downloadable CV
-- `Berkay_Kullukcu_CV_DE.pdf`: German downloadable CV
-- `videos/`: conference-presentation recordings and poster images
-- `CONFERENCE_VIDEO_GUIDE.md`: instructions for adding future local or YouTube videos
+## Conference video
+The current INTER-NOISE recording is stored locally in `videos/`. For multiple future recordings, use unlisted YouTube videos and replace the local video object in `data/en.json` and `data/de.json`.
 
-## Local preview
-
-Run this command in the website directory:
-
-```bash
-python -m http.server 8000
-```
-
-Then open `http://localhost:8000`.
-
-## GitHub Pages
-
-Place `index.html` and all accompanying files directly in the root of the `bkullukcu.github.io` repository.
+## Deploy
+Copy all files to the root of the `bkullukcu.github.io` repository, commit, and push.

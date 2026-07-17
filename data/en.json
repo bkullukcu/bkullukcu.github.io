@@ -1,0 +1,870 @@
+{
+  "meta": {
+    "siteName": "Berkay Kullukçu",
+    "description": "Industry-focused portfolio of Berkay Kullukçu, an acoustics, vibration, signal-processing, and test engineer based in Berlin."
+  },
+  "nav": {
+    "home": "Home",
+    "work": "Selected Work",
+    "experience": "Experience",
+    "talks": "Talks",
+    "outputs": "Research Outputs",
+    "contact": "Contact",
+    "cv": "Download CV",
+    "menu": "Menu"
+  },
+  "footer": {
+    "tagline": "Acoustics, vibration, signal processing, and experimental engineering.",
+    "location": "Berlin, Germany",
+    "copyright": "Berkay Kullukçu"
+  },
+  "home": {
+    "eyebrow": "Berlin-based R&D engineer",
+    "title": "Hi, I’m Berkay.",
+    "headline": "Acoustics, Vibration & Test Engineer",
+    "intro": "I develop measurement, signal-processing, and validation methods for audio, vehicle, rail, and sensor systems.",
+    "tags": [
+      "MATLAB & Python",
+      "Psychoacoustics",
+      "Vibro-acoustic testing",
+      "Condition monitoring",
+      "COMSOL",
+      "Statistical modelling"
+    ],
+    "primary": "View selected work",
+    "secondary": "Download CV",
+    "valueTitle": "Where I create value",
+    "values": [
+      {
+        "icon": "wave",
+        "title": "Audio & acoustic product development",
+        "text": "Psychoacoustic evaluation, sound-quality analysis, listening tests, acoustic measurements, and perceptual modelling."
+      },
+      {
+        "icon": "test",
+        "title": "Test & validation engineering",
+        "text": "Experimental design, measurement systems, prototype testing, statistical evaluation, and root-cause analysis."
+      },
+      {
+        "icon": "signal",
+        "title": "Signal processing & diagnostics",
+        "text": "Acoustic and vibration feature extraction, condition monitoring, MATLAB/Python analysis, and data-driven engineering decisions."
+      }
+    ],
+    "proof": [
+      {
+        "number": "4",
+        "label": "journal articles"
+      },
+      {
+        "number": "8",
+        "label": "conference papers"
+      },
+      {
+        "number": "3",
+        "label": "patents"
+      },
+      {
+        "number": "C1 / C2",
+        "label": "German / English"
+      }
+    ],
+    "selectedTitle": "Selected engineering work",
+    "selectedIntro": "Five projects that show how I move from an engineering question to measurement, analysis, and a defensible result.",
+    "experienceTitle": "Experience snapshot",
+    "experienceIntro": "Research and industrial work across acoustics, rail systems, aerospace, medical IoT, and sensor technology.",
+    "allWork": "View all case studies",
+    "allExperience": "View full experience",
+    "ctaTitle": "Looking for an engineer who combines experimental acoustics, signal processing, and product-oriented testing?",
+    "ctaText": "I am interested in Berlin-based roles in acoustics, audio product development, vibration, test engineering, and signal processing.",
+    "ctaButton": "Contact me"
+  },
+  "work": {
+    "eyebrow": "Case studies",
+    "title": "Selected Work",
+    "intro": "Each case study is structured around the engineering problem, my responsibility, the approach, the result, and its industrial relevance.",
+    "labels": {
+      "problem": "Engineering problem",
+      "contribution": "My contribution",
+      "approach": "Methods & tools",
+      "result": "Result",
+      "relevance": "Industrial relevance",
+      "evidence": "Evidence"
+    }
+  },
+  "experiencePage": {
+    "eyebrow": "Professional background",
+    "title": "Experience",
+    "intro": "A reverse-chronological view of the work most relevant to industrial R&D, test, acoustic, and signal-processing roles.",
+    "skillsTitle": "Technical capabilities",
+    "additionalTitle": "Additional engineering experience",
+    "educationTitle": "Education",
+    "awardsTitle": "Selected recognition",
+    "cvTitle": "Full CV",
+    "cvText": "Download the complete application document in your preferred language.",
+    "outputsLink": "View publications, patents, and academic service"
+  },
+  "talksPage": {
+    "eyebrow": "Technical communication",
+    "title": "Conference Talks",
+    "intro": "One recorded presentation is available now. The remaining talks are shown compactly and will receive video links as recordings become available. All presentation videos are in English.",
+    "featured": "Featured recording",
+    "other": "Other presentations",
+    "watch": "Watch presentation",
+    "paper": "Open paper",
+    "details": "Presentation summary",
+    "videoPlanned": "Video planned",
+    "upcoming": "Upcoming",
+    "presented": "Presented"
+  },
+  "outputsPage": {
+    "eyebrow": "Evidence archive",
+    "title": "Research Outputs",
+    "intro": "The complete record is kept here so case studies and experience pages can stay concise.",
+    "filters": {
+      "all": "All",
+      "journal": "Journal articles",
+      "conference": "Conference papers",
+      "thesis": "Thesis",
+      "patent": "Patents",
+      "service": "Academic service"
+    },
+    "open": "Open record",
+    "authors": "Authors"
+  },
+  "contactPage": {
+    "eyebrow": "Contact",
+    "title": "Let’s discuss the role and the engineering problem.",
+    "intro": "I am interested in Berlin-based opportunities in acoustics, audio product development, vibration, test and validation, signal processing, and sensor-based R&D.",
+    "email": "Email Berkay",
+    "linkedin": "LinkedIn",
+    "location": "Berlin, Germany",
+    "response": "Email is the most direct way to reach me.",
+    "cv": "Download CV"
+  },
+  "roles": {
+    "audio": {
+      "eyebrow": "Role-focused portfolio",
+      "title": "Acoustics & Audio Product Development Engineer",
+      "intro": "I combine psychoacoustic evaluation, acoustic measurements, signal analysis, and mechanical-engineering experience to help teams design audio and mobility products that are measurable, usable, and perceptually effective.",
+      "fit": [
+        "Sound quality and listening-test design",
+        "Binaural and free-field acoustic measurements",
+        "Psychoacoustic metrics and semantic evaluation",
+        "MATLAB/Python analysis and statistical modelling",
+        "COMSOL and transducer-modelling background"
+      ],
+      "projects": [
+        "avas",
+        "masking",
+        "piezo"
+      ],
+      "evidence": [
+        "Peer-reviewed AVAS research in the Journal of the Audio Engineering Society",
+        "International talks on warning-sound design and sound quality",
+        "Hands-on experience with microphones, binaural recording, Artemis SUITE, and Squadriga"
+      ],
+      "cta": "Discuss an audio or acoustics role"
+    },
+    "test-validation": {
+      "eyebrow": "Role-focused portfolio",
+      "title": "Test & Validation Engineer",
+      "intro": "I design controlled experiments, build measurement workflows, analyse multi-sensor data, and convert test results into engineering decisions across rail, automotive, medical-device, and sensor applications.",
+      "fit": [
+        "Acoustic and vibration test planning",
+        "Accelerometers, microphones, DAQ, and LabVIEW",
+        "Statistical evaluation and root-cause analysis",
+        "Condition monitoring and structural diagnostics",
+        "Cross-functional mechanical, electronics, and software experience"
+      ],
+      "projects": [
+        "bolted-joints",
+        "medical-iot",
+        "piezo"
+      ],
+      "evidence": [
+        "Current rail-component condition-monitoring research at TH Wildau",
+        "Patented medical-device systems and industrial sensor work",
+        "Experimental projects spanning prototypes, measurements, statistics, and reporting"
+      ],
+      "cta": "Discuss a test or validation role"
+    },
+    "signal-processing": {
+      "eyebrow": "Role-focused portfolio",
+      "title": "Acoustic Signal Processing Engineer",
+      "intro": "I work with acoustic and vibration data from experiment design through feature extraction, statistical modelling, and interpretation, with a focus on signals that must support product or diagnostic decisions.",
+      "fit": [
+        "MATLAB and Python signal-analysis workflows",
+        "Spectral, psychoacoustic, and multivariate features",
+        "PCA, MANOVA, logistic regression, and hypothesis testing",
+        "Acoustic modelling and experimental datasets",
+        "Condition-monitoring and perception applications"
+      ],
+      "projects": [
+        "avas",
+        "bolted-joints",
+        "masking"
+      ],
+      "evidence": [
+        "Perceptual models connecting signal metrics to semantic attributes",
+        "Vibro-acoustic features for detecting loosened joints",
+        "Analysis of multi-condition listening and measurement datasets"
+      ],
+      "cta": "Discuss a signal-processing role"
+    }
+  },
+  "projects": [
+    {
+      "id": "avas",
+      "title": "Electric-Truck Sound Design & Psychoacoustic Modelling",
+      "subtitle": "Turning perception into measurable product requirements",
+      "image": "/projects/avas.png",
+      "problem": "Electric trucks need warning sounds that are detectable and recognisable without sounding unnecessarily harsh or annoying.",
+      "contribution": "Designed psychoacoustic experiments, synthesised and evaluated vehicle sounds, analysed semantic and annoyance ratings, and translated the results into sound-design guidance.",
+      "approach": [
+        "Listening tests",
+        "Binaural sound synthesis",
+        "PCA & MANOVA",
+        "Logistic regression",
+        "Psychoacoustic metrics",
+        "MATLAB"
+      ],
+      "result": "Produced a user-centred AVAS framework, a peer-reviewed JAES article, and multiple international conference contributions. Studies included 20–21 participants and up to 35 sound stimuli.",
+      "relevance": "Demonstrates the ability to convert subjective user perception into quantitative requirements for audio, mobility, and warning-system products.",
+      "evidence": [
+        {
+          "label": "JAES journal article",
+          "url": "https://aes2.org/publications/elibrary-page/?id=22813"
+        },
+        {
+          "label": "ICSV32 proceedings paper",
+          "url": "https://arxiv.org/pdf/2607.10368"
+        },
+        {
+          "label": "Forum Acusticum paper",
+          "url": "https://dael.euracoustics.org/confs/landing_pages/fa2025/000714.html"
+        },
+        {
+          "label": "DAGA 2024 paper",
+          "url": "https://pub.dega-akustik.de/DAGA_2024/files/upload/paper/121.pdf"
+        }
+      ]
+    },
+    {
+      "id": "bolted-joints",
+      "title": "Vibro-Acoustic Condition Monitoring of Bolted Joints",
+      "subtitle": "Detecting looseness through acoustic and vibration signatures",
+      "image": "/projects/bolted-joint.png",
+      "problem": "Loss of bolt preload can alter stiffness, damping, resonances, and nonlinear response before visible failure occurs.",
+      "contribution": "Designed and executed experiments using microphones and accelerometers, varied tightening conditions, and evaluated preload-sensitive spectral and transfer-function features.",
+      "approach": [
+        "Accelerometers",
+        "Microphones",
+        "Impact testing",
+        "Frequency-modulated excitation",
+        "Spectral analysis",
+        "Condition monitoring"
+      ],
+      "result": "Identified vibro-acoustic indicators associated with tightening torque and loosened states, leading to two 2026 conference contributions.",
+      "relevance": "Directly applicable to predictive maintenance, structural diagnostics, rail systems, machinery, and hardware reliability.",
+      "evidence": [
+        {
+          "label": "Forum Acusticum 2026 preprint",
+          "url": "https://arxiv.org/pdf/2605.29950"
+        },
+        {
+          "label": "DAGA 2026 paper",
+          "url": "https://opus4.kobv.de/opus4-th-wildau/files/2191/180.pdf"
+        }
+      ]
+    },
+    {
+      "id": "masking",
+      "title": "Audibility & Masking in Electric-Truck Cabins",
+      "subtitle": "Designing warning signals for realistic noise environments",
+      "image": "/projects/masking.png",
+      "problem": "In-cabin warnings must remain detectable across operating conditions without becoming intrusive or fatiguing.",
+      "contribution": "Developed an adaptive listening-test procedure using binaural vehicle recordings and measured frequency-dependent masking thresholds under controlled conditions.",
+      "approach": [
+        "3-AFC listening test",
+        "Adaptive psychophysics",
+        "Binaural reproduction",
+        "Experimental design",
+        "Threshold estimation",
+        "Statistics"
+      ],
+      "result": "Generated frequency-specific audibility limits that support engineering decisions for warning and information sounds in electric-truck interiors.",
+      "relevance": "Relevant to automotive HMI, alarm design, occupational safety, and any product where sound must remain audible in noise.",
+      "evidence": [
+        {
+          "label": "DAGA 2025 paper",
+          "url": "https://pub.dega-akustik.de/DAS-DAGA_2025/files/upload/paper/30.pdf"
+        }
+      ]
+    },
+    {
+      "id": "piezo",
+      "title": "Flexible Piezoelectric Sensors & Energy Harvesters",
+      "subtitle": "Modelling, fabrication, and experimental validation",
+      "image": "/projects/piezo.png",
+      "problem": "Flexible sensing and energy-harvesting devices require efficient models and robust experimental validation before integration into structural-health-monitoring systems.",
+      "contribution": "Designed, modelled, fabricated, and tested PVDF-TrFE devices and compared lumped-element and finite-element models for piezoelectric transducers.",
+      "approach": [
+        "COMSOL FEM",
+        "Acoustic equivalent circuits",
+        "Micro/nanofabrication",
+        "PVDF-TrFE",
+        "Lab testing",
+        "Transducer modelling"
+      ],
+      "result": "Produced two journal articles, a master’s thesis, and an IEEE conference contribution covering flexible harvesters and miniaturised ultrasonic transducers.",
+      "relevance": "Shows cross-domain competence in sensors, transducers, simulation, prototyping, and measurement-driven product development.",
+      "evidence": [
+        {
+          "label": "Integrated Ferroelectrics article",
+          "url": "https://www.tandfonline.com/doi/abs/10.1080/10584587.2023.2239101"
+        },
+        {
+          "label": "Wind harvester article",
+          "url": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=3987&context=elektrik"
+        },
+        {
+          "label": "Master’s thesis",
+          "url": "https://tudresdende-my.sharepoint.com/:b:/g/personal/beku950f_tu-dresden_de/EWER16YvHqJHlGmLyOz-0tABgOVJwgsC3MRQgTAos7PdEw?e=PqwBAm"
+        },
+        {
+          "label": "IEEE IUS paper",
+          "url": "https://ieeexplore.ieee.org/document/9251723"
+        }
+      ]
+    },
+    {
+      "id": "medical-iot",
+      "title": "Medical IoT & Patented Monitoring Systems",
+      "subtitle": "Product concepts for safer hospital workflows",
+      "image": "/projects/medical-iot.png",
+      "problem": "Hospital equipment and invasive devices require reliable monitoring and communication concepts to reduce unnoticed failures and workflow risks.",
+      "contribution": "Co-founded a medical-IoT start-up, developed sensing and device-communication concepts, and contributed to electronics and system design.",
+      "approach": [
+        "IoT systems",
+        "Sensors",
+        "Device communication",
+        "Integrated circuits",
+        "Product concepts",
+        "Technical entrepreneurship"
+      ],
+      "result": "Secured TÜBİTAK techno-start-up funding and co-invented three patented medical-device technologies.",
+      "relevance": "Demonstrates product ownership, interdisciplinary development, intellectual property creation, and the ability to translate clinical needs into engineering concepts.",
+      "evidence": [
+        {
+          "label": "Nasogastric-tube patent",
+          "url": "https://patents.google.com/patent/TR2022001302A1/en?q=(kullukcu)&oq=kullukcu"
+        },
+        {
+          "label": "Invasive-device patent",
+          "url": "https://patents.google.com/patent/TR2021015887A1/en?q=(kullukcu)&oq=kullukcu"
+        },
+        {
+          "label": "Infusion-pump utility model",
+          "url": "https://patents.google.com/patent/TR2022007637Y/en?q=(kullukcu)&oq=kullukcu"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Scientific Employee",
+      "company": "Department of Machine Dynamics and Acoustics, TH Wildau",
+      "dates": "Oct 2025 – Present",
+      "location": "Wildau, Germany",
+      "bullets": [
+        "Design and conduct acoustic and vibration experiments for condition monitoring of rail-vehicle components.",
+        "Investigate loosened bolted joints, tightening torque, structural defects, and vibro-acoustic nonlinearities.",
+        "Translated the experimental work into two 2026 international conference contributions."
+      ],
+      "tags": [
+        "Condition monitoring",
+        "Vibration testing",
+        "Acoustic measurements",
+        "Rail systems"
+      ]
+    },
+    {
+      "title": "Doctoral Researcher",
+      "company": "Chair of Acoustics and Haptics, TU Dresden",
+      "dates": "Apr 2023 – Present",
+      "location": "Dresden, Germany",
+      "bullets": [
+        "Develop and evaluate AVAS concepts for electric trucks through psychoacoustic tests, semantic evaluation, and binaural sound synthesis.",
+        "Design listening studies addressing sound quality, annoyance, urgency, masking, and perceptual discrimination.",
+        "Apply PCA, MANOVA, logistic regression, non-parametric tests, and psychoacoustic metrics to derive engineering recommendations."
+      ],
+      "tags": [
+        "Psychoacoustics",
+        "Sound quality",
+        "Experimental design",
+        "MATLAB"
+      ]
+    },
+    {
+      "title": "Design Engineer",
+      "company": "GE Aerospace",
+      "dates": "Nov 2022 – Mar 2023",
+      "location": "Kocaeli, Türkiye",
+      "bullets": [
+        "Supported design-engineering activities for CT7/T700 turboshaft and turboprop engine programmes."
+      ],
+      "tags": [
+        "Aerospace",
+        "Mechanical design",
+        "Turbomachinery"
+      ]
+    },
+    {
+      "title": "Co-Founder",
+      "company": "TEDAVEM Information Systems",
+      "dates": "Jun 2021 – Jan 2023",
+      "location": "Istanbul, Türkiye",
+      "bullets": [
+        "Developed hospital-digitalisation and IoT monitoring concepts for ventilation and infusion equipment.",
+        "Worked on device communication and integrated-circuit concepts; contributed to three patented medical-device systems.",
+        "The venture received TÜBİTAK TEYDEB 1512 techno-start-up funding."
+      ],
+      "tags": [
+        "Medical IoT",
+        "Product development",
+        "Patents",
+        "Entrepreneurship"
+      ]
+    },
+    {
+      "title": "Flexible Electronics Researcher",
+      "company": "Kordsa R&D",
+      "dates": "Mar 2022 – Sep 2022",
+      "location": "Istanbul, Türkiye",
+      "bullets": [
+        "Worked on thin films and flexible electronic sensors in an industrial R&D environment.",
+        "Developed LabVIEW software for experimental testing."
+      ],
+      "tags": [
+        "Flexible electronics",
+        "LabVIEW",
+        "Sensors",
+        "R&D testing"
+      ]
+    },
+    {
+      "title": "Researcher",
+      "company": "Bio-Integrated Microdevices Laboratory, Koç University",
+      "dates": "Jan 2020 – Sep 2022",
+      "location": "Istanbul, Türkiye",
+      "bullets": [
+        "Modelled, fabricated, and tested flexible piezoelectric energy harvesters and miniaturised ultrasound transducers.",
+        "Worked with acoustic equivalent circuits, COMSOL FEM, micro/nanofabrication, and wearable sensor concepts."
+      ],
+      "tags": [
+        "COMSOL",
+        "Piezoelectric transducers",
+        "Microfabrication",
+        "Sensors"
+      ]
+    }
+  ],
+  "additionalExperience": [
+    {
+      "title": "Automotive R&D Intern",
+      "company": "Groupe Renault",
+      "dates": "Jun 2019 – Aug 2019",
+      "detail": "Developed a CATIA automation tool exceeding 20,000 lines of code for 3D-part workflows."
+    },
+    {
+      "title": "Mechanical Engineering Intern",
+      "company": "Turkish Aerospace",
+      "dates": "Nov 2019 – May 2020",
+      "detail": "Supported safety-management engineering and performed PATRAN FEM and 3D-CAD work for aerospace components."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Doctor of Engineering (Dr.-Ing.) in Electrical Engineering",
+      "dates": "2023 - Present",
+      "institution": "Technische Universität Dresden, Chair of Acoustics and Haptics"
+    },
+    {
+      "degree": "MSc in Mechanical Engineering",
+      "dates": "2020 - 2022",
+      "institution": "Koç University, College of Engineering",
+      "thesis": {
+        "title": "Piezoelectric PVDF-TrFE/PET Energy Harvesters for Structural Health Monitoring Applications in Wind Turbines",
+        "url": "https://tudresdende-my.sharepoint.com/:b:/g/personal/beku950f_tu-dresden_de/EWER16YvHqJHlGmLyOz-0tABgOVJwgsC3MRQgTAos7PdEw?e=PqwBAm"
+      }
+    },
+    {
+      "degree": "BSc in Mechanical Engineering",
+      "dates": "2015 - 2020",
+      "institution": "Koç University, College of Engineering"
+    }
+  ],
+  "awards": [
+    {
+      "name": "TEYDEB 1512 Techno-Startup Funding",
+      "dates": "",
+      "issuer": "TÜBİTAK"
+    },
+    {
+      "name": "Design Innovation Challenge - First Prize",
+      "dates": "",
+      "issuer": "Garip & Zeycan Foundation"
+    },
+    {
+      "name": "DAAD Congress Travel Grant - ICSV32",
+      "dates": "2026",
+      "issuer": "German Academic Exchange Service (DAAD)"
+    }
+  ],
+  "skills": {
+    "Acoustic & vibration engineering": [
+      "Vehicle acoustics",
+      "AVAS",
+      "Sound quality",
+      "Psychoacoustics",
+      "Condition monitoring",
+      "Binaural measurement",
+      "Listening-test design"
+    ],
+    "Signal processing & statistics": [
+      "Spectral analysis",
+      "Psychoacoustic metrics",
+      "Feature engineering",
+      "PCA",
+      "MANOVA",
+      "Logistic regression",
+      "Hypothesis testing"
+    ],
+    "Software & simulation": [
+      "MATLAB",
+      "Python",
+      "SQL",
+      "LabVIEW",
+      "COMSOL FEM",
+      "PATRAN",
+      "CATIA",
+      "Artemis SUITE"
+    ],
+    "Measurement systems": [
+      "Free-field microphones",
+      "Accelerometers",
+      "Squadriga II/III",
+      "Binaural recording",
+      "DAQ systems",
+      "Experimental validation"
+    ]
+  },
+  "publications": [
+    {
+      "title": "Investigating perceptual discrimination thresholds for attributes of whole-body vibration",
+      "authors": "B. Kullukçu, J. Krautwurm, S. Merchel, R. Rosenkranz, M. E. Altinsoy",
+      "venue": "Scientific Reports",
+      "year": "2026",
+      "type": "Journal article",
+      "url": "https://www.nature.com/articles/s41598-026-40033-4",
+      "linkLabel": "Article"
+    },
+    {
+      "title": "Perceived Annoyance in Multi-Source Electric Vehicle AVAS Environments",
+      "authors": "B. Kullukçu, S. Atamer, J. Krautwurm, M. E. Altinsoy",
+      "venue": "32nd International Conference on Sound and Vibration (ICSV32), Istanbul, Turkey",
+      "year": "2026",
+      "type": "Conference paper",
+      "url": "https://arxiv.org/pdf/2607.10368",
+      "linkLabel": "Proceedings paper"
+    },
+    {
+      "title": "Frequency-Modulated and Single-Tone Excitation to Reveal Vibro-Acoustic Nonlinearities in Loosened Bolted Joints",
+      "authors": "B. Kullukçu, R. Pianowski, D. Hannebauer",
+      "venue": "Forum Acusticum, Graz, Austria",
+      "year": "2026",
+      "type": "Conference paper",
+      "url": "https://arxiv.org/pdf/2605.29950",
+      "linkLabel": "Preprint"
+    },
+    {
+      "title": "SIAMIS: Experimental Study on the Acoustic Behavior of Bolted Joints Under Varying Tightening Torques",
+      "authors": "B. Kullukçu, R. Kamenzky, D. Hannebauer",
+      "venue": "DAGA, Dresden, Germany",
+      "year": "2026",
+      "type": "Conference paper",
+      "url": "https://opus4.kobv.de/opus4-th-wildau/files/2191/180.pdf",
+      "linkLabel": "Paper"
+    },
+    {
+      "title": "Electric Truck Sound Design: A User-Centered Psychoacoustic Approach to AVAS",
+      "authors": "B. Kullukçu, R. Rosenkranz, M. E. Altinsoy",
+      "venue": "Journal of the Audio Engineering Society",
+      "year": "2025",
+      "type": "Journal article",
+      "url": "https://aes2.org/publications/elibrary-page/?id=22813",
+      "linkLabel": "Article"
+    },
+    {
+      "title": "Psychoacoustic Modelling of AVAS Sounds: Consumer-Centric Semantic Attribute Development for Electric Vehicles",
+      "authors": "B. Kullukçu, M. Engel, S. Atamer, M. E. Altinsoy",
+      "venue": "Forum Acusticum, Málaga, Spain",
+      "year": "2025",
+      "type": "Conference paper",
+      "url": "https://dael.euracoustics.org/confs/landing_pages/fa2025/000714.html",
+      "linkLabel": "Paper"
+    },
+    {
+      "title": "Experimental Determination of the Masking Threshold in Electric Trucks",
+      "authors": "B. Kullukçu, O. Zeidler, S. Atamer, M. E. Altinsoy",
+      "venue": "DAGA, Copenhagen, Denmark",
+      "year": "2025",
+      "type": "Conference paper",
+      "url": "https://pub.dega-akustik.de/DAS-DAGA_2025/files/upload/paper/30.pdf",
+      "linkLabel": "Paper"
+    },
+    {
+      "title": "Designing Effective Warning Sounds: Psychoacoustical Considerations",
+      "authors": "B. Kullukçu, J. W. Lee, S. Atamer, M. E. Altinsoy",
+      "venue": "INTER-NOISE, Nantes, France",
+      "year": "2024",
+      "type": "Conference paper",
+      "url": "https://www.ingentaconnect.com/contentone/ince/incecp/2024/00000270/00000010/art00002;jsessionid=bfo7l3dbtpl8b.x-ic-live-02",
+      "linkLabel": "Paper"
+    },
+    {
+      "title": "Acoustic Vehicle Alerting Systems (AVAS) for Electric Trucks: Initial Thoughts for the Requirements",
+      "authors": "B. Kullukçu, R. Rosenkranz, M. E. Altinsoy",
+      "venue": "DAGA, Hannover, Germany",
+      "year": "2024",
+      "type": "Conference paper",
+      "url": "https://pub.dega-akustik.de/DAGA_2024/files/upload/paper/121.pdf",
+      "linkLabel": "Paper"
+    },
+    {
+      "title": "Piezoelectric PVDF-TrFE/PET Energy Harvesters for Structural Health Monitoring (SHM) Applications",
+      "authors": "B. Kullukçu et al.",
+      "venue": "Integrated Ferroelectrics",
+      "year": "2023",
+      "type": "Journal article",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/10584587.2023.2239101",
+      "linkLabel": "Article"
+    },
+    {
+      "title": "Design and Modeling of a PVDF-TrFE Flexible Wind Energy Harvester",
+      "authors": "B. Kullukçu, L. Beker",
+      "venue": "Turkish Journal of Electrical Engineering & Computer Sciences",
+      "year": "2023",
+      "type": "Journal article",
+      "url": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=3987&context=elektrik",
+      "linkLabel": "Article"
+    },
+    {
+      "title": "Piezoelectric PVDF-TrFE/PET Energy Harvesters for Structural Health Monitoring (SHM) Applications in Wind Turbines",
+      "authors": "B. Kullukçu",
+      "venue": "Master's thesis, Koç University",
+      "year": "2023",
+      "type": "Master's thesis",
+      "url": "https://tudresdende-my.sharepoint.com/:b:/g/personal/beku950f_tu-dresden_de/EWER16YvHqJHlGmLyOz-0tABgOVJwgsC3MRQgTAos7PdEw?e=PqwBAm",
+      "linkLabel": "Thesis"
+    },
+    {
+      "title": "Modeling miniaturized piezoelectric ultrasound transducers: comparison of lumped and finite element models",
+      "authors": "P. T. Ziarati, B. Kullukçu, L. Beker",
+      "venue": "2020 IEEE International Ultrasonics Symposium (IUS), Las Vegas, NV, USA",
+      "year": "2020",
+      "type": "Conference paper",
+      "url": "https://ieeexplore.ieee.org/document/9251723",
+      "linkLabel": "Paper"
+    }
+  ],
+  "patents": [
+    {
+      "title": "Momentum Nasogastric Tube System",
+      "inventors": "B. Kullukçu, G. Umut, B. Ataseven",
+      "identifier": "TR2022001302A1",
+      "date": "Oct. 21, 2024",
+      "url": "https://patents.google.com/patent/TR2022001302A1/en?q=(kullukcu)&oq=kullukcu",
+      "linkLabel": "Patent record"
+    },
+    {
+      "title": "An Invasive Device",
+      "inventors": "B. Kullukçu, G. Umut, B. Ataseven",
+      "identifier": "TR2021015887A1",
+      "date": "May 21, 2024",
+      "url": "https://patents.google.com/patent/TR2021015887A1/en?q=(kullukcu)&oq=kullukcu",
+      "linkLabel": "Patent record"
+    },
+    {
+      "title": "Detecting Device and System for Infusion Pumps",
+      "inventors": "B. Kullukçu, G. Umut, B. Ataseven",
+      "identifier": "Utility Model TR2022007637Y",
+      "date": "Apr. 22, 2024",
+      "url": "https://patents.google.com/patent/TR2022007637Y/en?q=(kullukcu)&oq=kullukcu",
+      "linkLabel": "Patent record"
+    }
+  ],
+  "service": [
+    {
+      "title": "“Körperschall” (Structure-Borne Sound) Session",
+      "event": "DAGA 2026, Dresden, Germany",
+      "dates": "2026",
+      "url": "https://www.daga2026.de/",
+      "linkLabel": "Conference website"
+    },
+    {
+      "title": "T14 SS03: Sound Quality and Product Design",
+      "event": "32nd International Conference on Sound and Vibration (ICSV32), Istanbul, Turkey",
+      "dates": "2026",
+      "url": "https://icsv32.org/index.php?va=viewpage&vaid=11",
+      "linkLabel": "Session programme"
+    }
+  ],
+  "talks": [
+    {
+      "id": "icsv32-2026-multisource-avas",
+      "title": "Perceived Annoyance in Multi-Source Electric Vehicle AVAS Environments",
+      "authors": "Berkay Kullukçu, Serkan Atamer, Jonas Krautwurm, and M. Ercan Altinsoy",
+      "conference": "32nd International Congress on Sound and Vibration (ICSV32)",
+      "date": "5–10 July 2026",
+      "location": "Istanbul, Türkiye",
+      "session": "T14 SS03: Sound Quality and Product Design",
+      "status": "Presented",
+      "abstract": "This study extends AVAS evaluation from isolated vehicle sounds to realistic multi-vehicle traffic scenes. Binaurally rendered single- and two-vehicle pass-by scenes were assessed in a listening test using perceived-annoyance ratings. Simultaneous two-vehicle scenes produced a significant increase in short-term annoyance compared with the single-vehicle baseline, showing that AVAS optimisation should consider scene-level interactions in addition to individual-source detectability.",
+      "paperUrl": "https://arxiv.org/pdf/2607.10368",
+      "paperLabel": "Open proceedings paper",
+      "video": {
+        "type": "placeholder",
+        "message": "Presentation video coming soon"
+      }
+    },
+    {
+      "id": "forum-acusticum-2026-bolted-joints",
+      "title": "Frequency-Modulated and Single-Tone Excitation to Reveal Vibro-Acoustic Nonlinearities in Loosened Bolted Joints",
+      "authors": "Berkay Kullukçu, R. Pianowski, and D. Hannebauer",
+      "conference": "Forum Acusticum 2026",
+      "date": "8–12 September 2026",
+      "location": "Graz, Austria",
+      "session": "Programme time to be announced",
+      "status": "Upcoming accepted presentation",
+      "abstract": "Loss of preload changes the stiffness, damping, and nonlinear response of a bolted joint. A laboratory demonstrator was investigated at several preload levels using a triaxial accelerometer and a microphone under single-tone and frequency-modulated excitation. Harmonic content and additional spectral components were evaluated as vibro-acoustic indicators for distinguishing loosened from highly preloaded states.",
+      "paperUrl": "https://arxiv.org/pdf/2605.29950",
+      "paperLabel": "Open preprint",
+      "video": {
+        "type": "placeholder",
+        "message": "Presentation video will be added after the conference"
+      }
+    },
+    {
+      "id": "daga-2026-siamis",
+      "title": "SIAMIS: Experimental Study on the Acoustic Behavior of Bolted Joints Under Varying Tightening Torques",
+      "authors": "Berkay Kullukçu, R. Kamenzky, and D. Hannebauer",
+      "conference": "52nd Annual Meeting for Acoustics (DAGA 2026)",
+      "date": "25 March 2026, 10:20–10:40",
+      "location": "Dresden, Germany",
+      "session": "Körperschall (Structure-borne Sound)",
+      "status": "Presented",
+      "abstract": "Controlled impact tests were used to investigate the airborne and structure-borne acoustic responses of bolted specimens at different tightening torques. Microphone and accelerometer measurements were evaluated through transfer functions, resonance shifts, damping-related quantities, and sound-pressure trends. The study identifies preload-sensitive features that can support acoustic and vibration-based condition monitoring of bolted joints.",
+      "paperUrl": "https://opus4.kobv.de/opus4-th-wildau/files/2191/180.pdf",
+      "paperLabel": "Open conference paper",
+      "video": {
+        "type": "placeholder",
+        "message": "Presentation video coming soon"
+      }
+    },
+    {
+      "id": "forum-acusticum-2025-avas-semantics",
+      "title": "Psychoacoustic Modelling of AVAS Sounds: Consumer-Centric Semantic Attribute Development for Electric Vehicles",
+      "authors": "Berkay Kullukçu, M. Engel, Serkan Atamer, and M. Ercan Altinsoy",
+      "conference": "Forum Acusticum / Euronoise 2025",
+      "date": "24 June 2025, 09:20",
+      "location": "Málaga, Spain",
+      "session": "Sound Quality and Product Sound",
+      "status": "Presented",
+      "abstract": "The work develops consumer-centred semantic descriptors for Acoustic Vehicle Alerting System sounds and connects them to measurable psychoacoustic properties. AVAS samples were evaluated using semantic differential scales, and statistical modelling was used to determine which perceptual attributes distinguish preferred and non-preferred sounds. The resulting vocabulary supports the translation of user expectations into engineering-oriented sound-design targets.",
+      "paperUrl": "https://dael.euracoustics.org/confs/landing_pages/fa2025/000714.html",
+      "paperLabel": "Open conference paper",
+      "video": {
+        "type": "placeholder",
+        "message": "Presentation video coming soon"
+      }
+    },
+    {
+      "id": "das-daga-2025-masking-threshold",
+      "title": "Experimental Determination of the Masking Threshold in Electric Trucks",
+      "authors": "Berkay Kullukçu, Oliver Zeidler, Serkan Atamer, and M. Ercan Altinsoy",
+      "conference": "DAS–DAGA 2025",
+      "date": "19 March 2025, 17:40–18:00",
+      "location": "Copenhagen, Denmark",
+      "session": "Vehicle Acoustics 4",
+      "status": "Presented",
+      "abstract": "This study examines how the interior noise of electric trucks masks tonal auditory cues. Binaural recordings at different driving speeds were reproduced under controlled laboratory conditions, and frequency-dependent detection thresholds were measured in listening tests. The results provide a basis for designing in-cabin warning sounds that remain detectable without becoming unnecessarily intrusive.",
+      "paperUrl": "https://pub.dega-akustik.de/DAS-DAGA_2025/files/upload/paper/30.pdf",
+      "paperLabel": "Open conference paper",
+      "video": {
+        "type": "placeholder",
+        "message": "Presentation video coming soon"
+      }
+    },
+    {
+      "id": "inter-noise-2024-warning-sounds",
+      "title": "Designing Effective Warning Sounds: Psychoacoustical Considerations",
+      "authors": "Berkay Kullukçu, Jin Wook Lee, Serkan Atamer, and M. Ercan Altinsoy",
+      "conference": "INTER-NOISE 2024",
+      "date": "29 August 2024",
+      "location": "Nantes, France",
+      "session": "Warning-sound design and psychoacoustics",
+      "status": "Presented · Video available",
+      "abstract": "Warning sounds must attract attention and communicate urgency while avoiding excessive annoyance. Two listening-test studies examined how psychoacoustic characteristics influence perceived urgency and annoyance. The presentation discusses how temporal and spectral design parameters can be combined to create warning signals that are effective, interpretable, and acceptable to listeners.",
+      "paperUrl": "https://www.ingentaconnect.com/contentone/ince/incecp/2024/00000270/00000010/art00002",
+      "paperLabel": "Open proceedings record",
+      "video": {
+        "type": "local",
+        "url": "/videos/inter-noise-2024-warning-sounds.mp4",
+        "poster": "/videos/inter-noise-2024-warning-sounds-poster.jpg",
+        "message": "Watch the presentation"
+      }
+    },
+    {
+      "id": "daga-2024-electric-truck-avas",
+      "title": "Acoustic Vehicle Alerting Systems (AVAS) for Electric Trucks: Initial Thoughts for the Requirements",
+      "authors": "Berkay Kullukçu, Robert Rosenkranz, and M. Ercan Altinsoy",
+      "conference": "50th Annual Meeting for Acoustics (DAGA 2024)",
+      "date": "20 March 2024, 08:40–09:00",
+      "location": "Hannover, Germany",
+      "session": "Fahrzeugakustik elektrisch (Electric Vehicle Acoustics)",
+      "status": "Presented",
+      "abstract": "A semantic-differential listening study compared internal-combustion and electric cars and trucks, both with and without AVAS. The analysis identified perceptual differences such as truck-likeness, effortlessness, whistling, and howling, and related these attributes to objective psychoacoustic properties. The findings form an initial requirements framework for designing electric-truck AVAS that communicate vehicle size and character without excessive annoyance.",
+      "paperUrl": "https://pub.dega-akustik.de/DAGA_2024/files/upload/paper/121.pdf",
+      "paperLabel": "Open conference paper",
+      "video": {
+        "type": "placeholder",
+        "message": "Presentation video coming soon"
+      }
+    },
+    {
+      "id": "ieee-ius-2020-pmut-modeling",
+      "title": "Modeling Miniaturized Piezoelectric Ultrasound Transducers: Comparison of Lumped and Finite Element Models",
+      "authors": "P. T. Ziarati, Berkay Kullukçu, and Levent Beker",
+      "conference": "2020 IEEE International Ultrasonics Symposium (IUS)",
+      "date": "7–11 September 2020",
+      "location": "Virtual conference",
+      "session": "Piezoelectric micromachined ultrasonic transducers",
+      "status": "Conference contribution",
+      "abstract": "This work compares lumped-element and finite-element modelling approaches for miniaturized piezoelectric ultrasound transducers intended for compact ultrasonic systems. The study evaluates the ability of the two approaches to predict electrical and acoustic behaviour while considering model complexity and computation effort, providing guidance for efficient transducer design and optimisation.",
+      "paperUrl": "https://ieeexplore.ieee.org/document/9251723",
+      "paperLabel": "Open IEEE record",
+      "video": {
+        "type": "placeholder",
+        "message": "Presentation video coming soon"
+      }
+    }
+  ],
+  "links": {
+    "email": "mailto:berkay.kullukcu@tu-dresden.de",
+    "linkedin": "https://www.linkedin.com/in/bkullukcu",
+    "github": "https://github.com/bkullukcu",
+    "scholar": "https://scholar.google.com/citations?user=1P4pBzQAAAAJ&hl=en"
+  }
+}
