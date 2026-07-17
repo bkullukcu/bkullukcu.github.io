@@ -1,0 +1,8 @@
+1. Copy the patch contents into the repository root and replace existing files.
+2. Delete the removed Impact page folder:
+   rm -rf impact
+3. Commit and push:
+   git add -A
+   git commit -m "Remove redundant impact page"
+   git push origin master
+Use main instead of master if needed.

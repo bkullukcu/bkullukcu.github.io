@@ -11,8 +11,7 @@
     "outputs": "Research Outputs",
     "contact": "Contact",
     "cv": "Download CV",
-    "menu": "Menu",
-    "impact": "Impact"
+    "menu": "Menu"
   },
   "footer": {
     "tagline": "Acoustics, vibration, signal processing, and experimental engineering.",
@@ -876,36 +875,5 @@
     "linkedin": "https://www.linkedin.com/in/bkullukcu",
     "github": "https://github.com/bkullukcu",
     "scholar": "https://scholar.google.com/citations?user=1P4pBzQAAAAJ&hl=en"
-  },
-  "impactPage": {
-    "eyebrow": "External validation",
-    "title": "Impact",
-    "intro": "A compact record of peer-reviewed outputs, patented technologies, competitive funding, international presentations and professional service.",
-    "metrics": [
-      {
-        "number": "4",
-        "label": "peer-reviewed journal articles"
-      },
-      {
-        "number": "8",
-        "label": "conference papers"
-      },
-      {
-        "number": "3",
-        "label": "patents and utility models"
-      },
-      {
-        "number": "8",
-        "label": "awards, scholarships and grants"
-      }
-    ],
-    "recognitionTitle": "Awards, Scholarships & Competitive Funding",
-    "recognitionIntro": "External recognition spanning startup funding, scholarships, conference grants, innovation prizes and patent awards.",
-    "outputsTitle": "Research and intellectual-property outputs",
-    "outputsText": "The complete bibliographic record remains available on the Research Outputs page.",
-    "outputsButton": "View research outputs",
-    "talksTitle": "International communication and professional service",
-    "talksText": "Seven conference presentations, one available presentation recording, and two session-chair assignments at DAGA and ICSV32.",
-    "talksButton": "View conference talks"
   }
 }

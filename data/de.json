@@ -11,8 +11,7 @@
     "outputs": "Publikationen & Patente",
     "contact": "Kontakt",
     "cv": "Lebenslauf",
-    "menu": "Menü",
-    "impact": "Wirkung"
+    "menu": "Menü"
   },
   "footer": {
     "tagline": "Akustik, Schwingungen, Signalverarbeitung und experimentelles Engineering.",
@@ -876,36 +875,5 @@
     "linkedin": "https://www.linkedin.com/in/bkullukcu",
     "github": "https://github.com/bkullukcu",
     "scholar": "https://scholar.google.com/citations?user=1P4pBzQAAAAJ&hl=en"
-  },
-  "impactPage": {
-    "eyebrow": "Externe Anerkennung",
-    "title": "Wirkung",
-    "intro": "Ein kompakter Überblick über begutachtete Veröffentlichungen, patentierte Technologien, wettbewerbliche Förderung, internationale Vorträge und wissenschaftliches Engagement.",
-    "metrics": [
-      {
-        "number": "4",
-        "label": "begutachtete Zeitschriftenartikel"
-      },
-      {
-        "number": "8",
-        "label": "Konferenzbeiträge"
-      },
-      {
-        "number": "3",
-        "label": "Patente und Gebrauchsmuster"
-      },
-      {
-        "number": "8",
-        "label": "Auszeichnungen, Stipendien und Förderungen"
-      }
-    ],
-    "recognitionTitle": "Auszeichnungen, Stipendien & wettbewerbliche Förderung",
-    "recognitionIntro": "Externe Anerkennung durch Startup-Förderung, Stipendien, Kongressreisemittel, Innovationspreise und Patentauszeichnungen.",
-    "outputsTitle": "Forschungs- und Schutzrechtsergebnisse",
-    "outputsText": "Der vollständige bibliografische Nachweis befindet sich auf der Seite Forschungsergebnisse.",
-    "outputsButton": "Forschungsergebnisse ansehen",
-    "talksTitle": "Internationale Kommunikation und wissenschaftliches Engagement",
-    "talksText": "Sieben Konferenzvorträge, eine verfügbare Vortragsaufzeichnung und zwei Sitzungsleitungen bei DAGA und ICSV32.",
-    "talksButton": "Konferenzvorträge ansehen"
   }
 }
