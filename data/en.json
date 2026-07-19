@@ -105,8 +105,7 @@
     "outputsLink": "View publications, patents, and academic service",
     "projectLabel": "Project / focus",
     "responsibilitiesLabel": "Engineering contribution",
-    "impactLabel": "Selected outcomes",
-    "highlightsTitle": "Professional highlights"
+    "impactLabel": "Selected outcomes"
   },
   "talksPage": {
     "eyebrow": "Technical communication",
@@ -939,23 +938,5 @@
     "linkedin": "https://www.linkedin.com/in/bkullukcu",
     "github": "https://github.com/bkullukcu",
     "scholar": "https://scholar.google.com/citations?user=1P4pBzQAAAAJ&hl=en"
-  },
-  "experienceHighlights": [
-    {
-      "number": "22,000+",
-      "label": "lines of CATIA automation code"
-    },
-    {
-      "number": "100+",
-      "label": "3D parts integrated at Renault"
-    },
-    {
-      "number": "3",
-      "label": "patents / utility models"
-    },
-    {
-      "number": "USD 25k",
-      "label": "competitive start-up funding"
-    }
-  ]
+  }
 }

@@ -105,8 +105,7 @@
     "outputsLink": "Publikationen, Patente und akademische Aktivitäten",
     "projectLabel": "Projekt / Schwerpunkt",
     "responsibilitiesLabel": "Engineeringbeitrag",
-    "impactLabel": "Ausgewählte Ergebnisse",
-    "highlightsTitle": "Berufliche Kennzahlen"
+    "impactLabel": "Ausgewählte Ergebnisse"
   },
   "talksPage": {
     "eyebrow": "Technische Kommunikation",
@@ -939,23 +938,5 @@
     "linkedin": "https://www.linkedin.com/in/bkullukcu",
     "github": "https://github.com/bkullukcu",
     "scholar": "https://scholar.google.com/citations?user=1P4pBzQAAAAJ&hl=en"
-  },
-  "experienceHighlights": [
-    {
-      "number": "22.000+",
-      "label": "Codezeilen für CATIA-Automatisierung"
-    },
-    {
-      "number": "100+",
-      "label": "bei Renault integrierte 3D-Bauteile"
-    },
-    {
-      "number": "3",
-      "label": "Patente / Gebrauchsmuster"
-    },
-    {
-      "number": "25.000 USD",
-      "label": "wettbewerbliche Gründungsförderung"
-    }
-  ]
+  }
 }
