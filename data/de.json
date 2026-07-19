@@ -21,7 +21,7 @@
   "home": {
     "eyebrow": "F&E-Ingenieur in Berlin",
     "title": "Hallo, ich bin Berkay.",
-    "headline": "Ingenieur für Akustik, Schwingungen und Versuchstechnik",
+    "headline": "Ingenieur für Akustik, Schwingungen und Signalverarbeitung",
     "intro": "Ich entwickle Mess-, Signalverarbeitungs- und Validierungsmethoden für Audio-, Fahrzeug-, Bahn- und Sensorsysteme.",
     "tags": [
       "MATLAB & Python",
@@ -102,7 +102,11 @@
     "awardsTitle": "Auszeichnungen, Stipendien & wettbewerbliche Förderung",
     "cvTitle": "Vollständiger Lebenslauf",
     "cvText": "Laden Sie den vollständigen Lebenslauf in der gewünschten Sprache herunter.",
-    "outputsLink": "Publikationen, Patente und akademische Aktivitäten"
+    "outputsLink": "Publikationen, Patente und akademische Aktivitäten",
+    "projectLabel": "Projekt / Schwerpunkt",
+    "responsibilitiesLabel": "Engineeringbeitrag",
+    "impactLabel": "Ausgewählte Ergebnisse",
+    "highlightsTitle": "Berufliche Kennzahlen"
   },
   "talksPage": {
     "eyebrow": "Technische Kommunikation",
@@ -376,96 +380,144 @@
       "company": "Fachgebiet Maschinendynamik und Akustik, TH Wildau",
       "dates": "Okt. 2025 – heute",
       "location": "Wildau, Deutschland",
+      "project": "SIAMIS — intelligente und automatisierte mobile Inspektion von Schienenfahrzeugen",
       "bullets": [
-        "Planung und Durchführung akustischer und schwingungstechnischer Versuche zur Zustandsüberwachung von Schienenfahrzeugkomponenten mit Mikrofonen, Beschleunigungsaufnehmern, Impulsanregung sowie tonaler und frequenzmodulierter Anregung.",
-        "Bewertung von Anziehdrehmoment und Lockerung anhand von Übertragungsfunktionen, Resonanzverschiebungen, harmonischen Anteilen und nichtlinearen vibroakustischen Merkmalen.",
-        "Überführung des Versuchsprogramms in zwei internationale Konferenzbeiträge 2026, darunter ein DAGA-Beitrag und ein Forum-Acusticum-Preprint."
+        "Entwicklung akustischer und schwingungsbasierter Zustandsüberwachungsverfahren für gelockerte Schraubverbindungen und strukturelle Defekte an Schienenfahrzeugkomponenten.",
+        "Konzeption KI-gestützter Diagnoseabläufe zur automatischen Fehlererkennung, -lokalisierung und Abschätzung des Schweregrads.",
+        "Leitung der Entwicklung eines Labordemonstrators mit Mikrofonen, Beschleunigungssensoren und Körperschallemissionssensoren für kontrollierte Anregungs- und Validierungsversuche.",
+        "Koordination von Messungen an Schienenfahrzeugen und Zusammenarbeit mit Industrie- und Forschungspartnern zur Überführung der Ergebnisse in skalierbare Instandhaltungslösungen."
+      ],
+      "outcomes": [
+        "Labordemonstrator",
+        "Validierung am Schienenfahrzeug",
+        "2 Konferenzbeiträge 2026",
+        "Industrie–Forschungskooperation"
       ],
       "tags": [
-        "Zustandsüberwachung",
-        "Schwingungsprüfung",
-        "Akustische Messungen",
-        "Schienensysteme"
+        "Python",
+        "MATLAB",
+        "KI-Diagnostik",
+        "Beschleunigungssensoren",
+        "Mikrofone",
+        "Acoustic Emission",
+        "Schienenverkehr"
       ]
     },
     {
-      "title": "Doktorand",
+      "title": "Doktorand / Wissenschaftlicher Mitarbeiter",
       "company": "Professur für Akustik und Haptik, TU Dresden",
-      "dates": "Apr. 2023 – heute",
+      "dates": "Apr. 2023 – Aug. 2025",
       "location": "Dresden, Deutschland",
+      "project": "Wahrnehmungsorientiertes vibroakustisches Engineering für Elektromobilität und Ganzkörperschwingungen",
       "bullets": [
-        "Konzeption psychoakustischer Studien mit 20–21 Versuchspersonen und bis zu 35 Fahrzeuggeräusch-Stimuli zu Klangqualität, Lästigkeit, Dringlichkeit, Maskierung und Wahrnehmungsschwellen.",
-        "Anwendung von PCA, MANOVA, logistischer Regression, nichtparametrischen Tests und psychoakustischen Kenngrößen zur Überführung subjektiver Bewertungen in technische Empfehlungen.",
-        "Erarbeitung eines begutachteten JAES-Artikels und fünf fahrzeugakustischer Konferenzbeiträge zwischen 2024 und 2026."
+        "Durchführung akustischer und schwingungstechnischer Messungen für AVAS-Systeme elektrischer Lkw sowie Entwicklung binauraler Wiedergabeabläufe.",
+        "Konzeption psychoakustischer Hörversuche mit 20–21 Teilnehmenden und bis zu 35 Schallstimuli zur Bewertung von Klangqualität, Lästigkeit, Dringlichkeit, Maskierung und Wahrnehmungsschwellen.",
+        "Entwicklung experimenteller Methoden für Maskierungsschwellen und haptische Wahrnehmung sowie Auswertung mit PCA, MANOVA, logistischer Regression, nichtparametrischen Tests und psychoakustischen Kennwerten.",
+        "Betreuung fortgeschrittener Studierender in Fahrzeugsounddesign und praktischen akustischen Messprojekten."
+      ],
+      "outcomes": [
+        "1 begutachteter JAES-Artikel",
+        "5 Konferenzbeiträge zur Fahrzeugakustik",
+        "20–21 Teilnehmende je Studie",
+        "Bis zu 35 bewertete Schallstimuli"
       ],
       "tags": [
         "Psychoakustik",
-        "Klangqualität",
-        "Versuchsplanung",
-        "MATLAB"
+        "Fahrzeugakustik",
+        "Artemis SUITE",
+        "HEAD Lab O2",
+        "SQuadriga",
+        "Binaurale Messung",
+        "MATLAB",
+        "Statistik"
       ]
     },
     {
-      "title": "Entwicklungsingenieur",
-      "company": "GE Aerospace",
+      "title": "Konstruktionsingenieur",
+      "company": "TEI – TUSAŞ Engine Industries / GE Aviation Engines",
       "dates": "Nov. 2022 – März 2023",
-      "location": "Kocaeli, Türkei",
+      "location": "Gebze, Kocaeli, Türkei",
+      "project": "Unterstützung der mechanischen Konstruktion für GE-Aviation-Triebwerksprogramme am Gebze Technology Centre",
       "bullets": [
-        "Unterstützung von Entwicklungsarbeiten für die Turbowellen- und Turboproptriebwerksprogramme CT7/T700."
+        "Unterstützung von Konstruktionsaufgaben für GE-Aviation-Triebwerksprogramme in einem multidisziplinären Luftfahrtumfeld."
+      ],
+      "outcomes": [
+        "Luftfahrttriebwerksprogramme",
+        "Multidisziplinäres Konstruktionsumfeld"
       ],
       "tags": [
         "Luftfahrt",
         "Mechanische Konstruktion",
+        "Technische Dokumentation",
         "Turbomaschinen"
       ]
     },
     {
       "title": "Mitgründer",
-      "company": "TEDAVEM Information Systems",
-      "dates": "Juni 2021 – Jan. 2023",
+      "company": "TEDAVEM Elektronik- und Informationssysteme",
+      "dates": "Juli 2021 – Feb. 2023",
       "location": "Istanbul, Türkei",
+      "project": "Staatlich geförderte Medical-IoT-Systeme zur Überwachung von Krankenhausgeräten und invasiven Komponenten",
       "bullets": [
-        "Mitgründung eines Medical-IoT-Start-ups zur Entwicklung von Überwachungskonzepten für Beatmungs-, Infusions- und invasive Geräte.",
-        "Mitwirkung an Sensorik, Gerätekommunikation und integrierten Schaltungskonzepten, aus denen drei Patente bzw. Gebrauchsmuster hervorgingen.",
-        "Einwerbung von 25.000 USD TÜBİTAK-TEYDEB-1512-Techno-Start-up-Förderung."
+        "Mitgründung eines Technologie-Start-ups für Überwachungskonzepte von Beatmungs- und Infusionsgeräten, Gefäßzugangsdislokationen und Magensondensystemen.",
+        "Mitwirkung an Sensorik, Gerätekommunikation, elektronischen Systemkonzepten, Prototypenentwicklung und Schutzrechtsvorbereitung."
+      ],
+      "outcomes": [
+        "3 Patente / Gebrauchsmuster",
+        "25.000 USD TÜBİTAK-Gründungsförderung",
+        "Medical-IoT-Produktkonzepte"
       ],
       "tags": [
         "Medical IoT",
         "Produktentwicklung",
+        "Sensorik",
         "Patente",
         "Unternehmertum"
       ]
     },
     {
-      "title": "Forscher für flexible Elektronik",
-      "company": "Kordsa R&D",
+      "title": "Praktikant Flexible Elektronik",
+      "company": "Kordsa F&E",
       "dates": "März 2022 – Sept. 2022",
-      "location": "Istanbul, Türkei",
+      "location": "Türkei",
+      "project": "Dünnschichten und flexible elektronische Sensoren",
       "bullets": [
-        "Tätigkeit im Bereich Dünnschichten und flexible elektronische Sensoren in einem Programm mit einer Bewerberannahmequote von 0,35 %.",
-        "Entwicklung von LabVIEW-Software für reproduzierbare experimentelle Prüfungen flexibler Sensorsysteme."
+        "Unterstützung der experimentellen Entwicklung und Prüfung flexibler elektronischer Sensorsysteme.",
+        "Entwicklung einer LabVIEW-Software für reproduzierbare Labortests."
+      ],
+      "outcomes": [
+        "0,35 % Programmaufnahmequote",
+        "Automatisierter LabVIEW-Testablauf"
       ],
       "tags": [
         "Flexible Elektronik",
         "LabVIEW",
-        "Sensoren",
+        "Sensorik",
         "F&E-Prüfung"
       ]
     },
     {
       "title": "Wissenschaftlicher Mitarbeiter",
       "company": "Bio-Integrated Microdevices Laboratory, Koç University",
-      "dates": "Jan. 2020 – Sept. 2022",
+      "dates": "Juni 2020 – Sept. 2022",
       "location": "Istanbul, Türkei",
+      "project": "Flexible piezoelektrische Energy Harvester, PMUTs und tragbare Sensorsysteme",
       "bullets": [
-        "Modellierung, Fertigung und Prüfung flexibler piezoelektrischer Energy Harvester und miniaturisierter Ultraschallwandler mit COMSOL FEM und akustischen Ersatzschaltbildern.",
-        "Überführung der Arbeiten in zwei Zeitschriftenartikel, eine Masterarbeit, einen IEEE-Konferenzbeitrag und Wearable-Sensorkonzepte."
+        "Modellierung, Fertigung und Prüfung von PVDF-TrFE-Energy-Harvestern und miniaturisierten Ultraschallwandlern mit COMSOL FEM und akustischen Ersatzschaltbildern.",
+        "Fortführung früherer Bachelorforschung zu tragbarer Sensorik für die Erkennung von Gefäßzugangsdislokationen."
+      ],
+      "outcomes": [
+        "2 Fachartikel",
+        "1 Masterarbeit",
+        "1 IEEE-Konferenzbeitrag",
+        "Wearable-Sensor-Konzept"
       ],
       "tags": [
         "COMSOL",
+        "PVDF-TrFE",
         "Piezoelektrische Wandler",
         "Mikrofabrikation",
-        "Sensorik"
+        "Ersatzschaltbilder"
       ]
     }
   ],
@@ -473,14 +525,26 @@
     {
       "title": "Praktikant Automotive F&E",
       "company": "Groupe Renault",
-      "dates": "Juni 2019 – Aug. 2019",
-      "detail": "Entwicklung eines CATIA-Automatisierungstools mit mehr als 20.000 Codezeilen für 3D-Bauteil-Workflows."
+      "dates": "Juli 2019 – Sept. 2019",
+      "detail": "Entwicklung einer Visual-Basic-Anwendung mit 22.000 Codezeilen zur Automatisierung von CATIA-Workflows und Integration von mehr als 100 unterschiedlichen 3D-Bauteilen für F&E-Ingenieure."
     },
     {
       "title": "Praktikant Maschinenbau",
-      "company": "Turkish Aerospace",
+      "company": "Turkish Aerospace Industries",
       "dates": "Nov. 2019 – Mai 2020",
-      "detail": "Unterstützung im Safety Management und PATRAN-FEM- sowie 3D-CAD-Arbeiten für Luftfahrtbauteile."
+      "detail": "Langzeitpraktikum im Bereich Safety Management Systems."
+    },
+    {
+      "title": "Engineering-Praktikant",
+      "company": "Turkish Aerospace, ITU Teknopark",
+      "dates": "Dez. 2018 – Jan. 2019",
+      "detail": "Theoretische FEM-Schulung sowie praktische PATRAN- und CATIA-Aufgaben mit wöchentlichen technischen Berichten."
+    },
+    {
+      "title": "Tutor",
+      "company": "Koç University",
+      "dates": "Okt. 2020 – Jan. 2021",
+      "detail": "Betreuung des fortgeschrittenen Praktikums Mechanical Engineering Laboratory."
     }
   ],
   "education": [
@@ -875,5 +939,23 @@
     "linkedin": "https://www.linkedin.com/in/bkullukcu",
     "github": "https://github.com/bkullukcu",
     "scholar": "https://scholar.google.com/citations?user=1P4pBzQAAAAJ&hl=en"
-  }
+  },
+  "experienceHighlights": [
+    {
+      "number": "22.000+",
+      "label": "Codezeilen für CATIA-Automatisierung"
+    },
+    {
+      "number": "100+",
+      "label": "bei Renault integrierte 3D-Bauteile"
+    },
+    {
+      "number": "3",
+      "label": "Patente / Gebrauchsmuster"
+    },
+    {
+      "number": "25.000 USD",
+      "label": "wettbewerbliche Gründungsförderung"
+    }
+  ]
 }

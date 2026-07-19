@@ -41,3 +41,45 @@ details{border-color:rgba(255,255,255,.12)}
 .impact-metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}.impact-metric{padding:24px;text-align:center}.impact-metric strong{display:block;font-size:2rem;letter-spacing:-.04em}.impact-metric span{display:block;color:var(--muted);font-size:.9rem;margin-top:4px}.recognition-groups{display:grid;gap:34px}.recognition-group>h3{margin:0 0 14px;color:var(--accent-dark);font-size:1rem;text-transform:uppercase;letter-spacing:.09em}.impact-links{display:grid;grid-template-columns:1fr 1fr;gap:18px}.impact-link-card{padding:28px}.impact-link-card h2{margin:0 0 10px}.impact-link-card p{color:var(--muted);margin:0 0 20px}
 @media(max-width:960px){.impact-metrics{grid-template-columns:1fr 1fr}}
 @media(max-width:650px){.impact-metrics,.impact-links{grid-template-columns:1fr}}
+
+/* Selected Work image layout: keep project artwork in a clean 16:9 frame. */
+.case-study{
+  align-items:start;
+}
+.case-media{
+  min-height:0;
+  height:auto;
+  align-self:start;
+  padding:0;
+  overflow:hidden;
+  background:#081621;
+  aspect-ratio:16 / 9;
+}
+.case-media img{
+  width:100%;
+  height:100%;
+  max-height:none;
+  object-fit:cover;
+  object-position:center;
+}
+@media(max-width:960px){
+  .case-media{
+    min-height:0;
+    max-height:none;
+    aspect-ratio:16 / 9;
+  }
+  .case-media img{
+    max-height:none;
+  }
+}
+@media(max-width:650px){
+  .case-media{
+    min-height:0;
+    padding:0;
+  }
+}
+
+/* LinkedIn-informed experience layout */
+.experience-content{min-width:0}.experience-project{display:grid;gap:4px;margin-bottom:18px;padding:14px 16px;border-left:3px solid var(--accent);background:rgba(100,181,246,.07);border-radius:0 10px 10px 0}.experience-project span,.experience-section-label{font-size:.74rem;font-weight:850;letter-spacing:.11em;text-transform:uppercase;color:var(--accent-dark)}.experience-project strong{font-size:1rem;line-height:1.45;color:var(--ink)}.experience-section-label{margin:0 0 7px}.outcomes-label{margin-top:20px}.outcome-grid{display:flex;flex-wrap:wrap;gap:8px}.outcome-item{display:inline-flex;align-items:center;min-height:38px;padding:.45rem .72rem;border:1px solid rgba(100,181,246,.3);border-radius:10px;background:rgba(100,181,246,.08);color:#d8efff;font-size:.82rem;font-weight:750}.experience-highlights{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}.experience-highlight{padding:20px}.experience-highlight strong{display:block;font-size:1.7rem;letter-spacing:-.035em;color:var(--ink)}.experience-highlight span{display:block;margin-top:4px;color:var(--muted);font-size:.87rem}.experience-card .tag-row{margin-top:18px}.experience-card ul{color:var(--ink-2)}
+@media(max-width:960px){.experience-highlights{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:650px){.experience-highlights{grid-template-columns:1fr}.experience-project{margin-top:2px}}

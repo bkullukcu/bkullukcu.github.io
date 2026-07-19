@@ -21,7 +21,7 @@
   "home": {
     "eyebrow": "Berlin-based R&D engineer",
     "title": "Hi, I’m Berkay.",
-    "headline": "Acoustics, Vibration & Test Engineer",
+    "headline": "Acoustics, Vibration & Signal Processing Engineer",
     "intro": "I develop measurement, signal-processing, and validation methods for audio, vehicle, rail, and sensor systems.",
     "tags": [
       "MATLAB & Python",
@@ -102,7 +102,11 @@
     "awardsTitle": "Awards, Scholarships & Competitive Funding",
     "cvTitle": "Full CV",
     "cvText": "Download the complete application document in your preferred language.",
-    "outputsLink": "View publications, patents, and academic service"
+    "outputsLink": "View publications, patents, and academic service",
+    "projectLabel": "Project / focus",
+    "responsibilitiesLabel": "Engineering contribution",
+    "impactLabel": "Selected outcomes",
+    "highlightsTitle": "Professional highlights"
   },
   "talksPage": {
     "eyebrow": "Technical communication",
@@ -372,78 +376,118 @@
   ],
   "experience": [
     {
-      "title": "Scientific Employee",
+      "title": "Researcher",
       "company": "Department of Machine Dynamics and Acoustics, TH Wildau",
       "dates": "Oct 2025 – Present",
       "location": "Wildau, Germany",
+      "project": "SIAMIS — intelligent and automated mobile inspection of rail vehicles",
       "bullets": [
-        "Design and conduct acoustic and vibration experiments for condition monitoring of rail-vehicle components using microphones, accelerometers, controlled impact tests, and tonal/frequency-modulated excitation.",
-        "Evaluate tightening-torque and looseness effects through transfer functions, resonance shifts, harmonic content, and nonlinear vibro-acoustic indicators.",
-        "Converted the experimental programme into two 2026 international conference contributions, including one DAGA paper and one Forum Acusticum preprint."
+        "Develop acoustic- and vibration-based condition-monitoring methods for loose bolted joints and structural defects in rail-vehicle components.",
+        "Design AI-supported diagnostic workflows for automatic fault detection, localisation, and severity estimation.",
+        "Lead development of a laboratory demonstrator integrating microphones, accelerometers, and acoustic-emission sensors for controlled excitation and validation tests.",
+        "Coordinate measurements on rail vehicles and collaborate with industrial and academic partners to transfer research outcomes into scalable maintenance solutions."
+      ],
+      "outcomes": [
+        "Laboratory demonstrator",
+        "Rail-vehicle validation",
+        "2 conference contributions in 2026",
+        "Industry–academia collaboration"
       ],
       "tags": [
-        "Condition monitoring",
-        "Vibration testing",
-        "Acoustic measurements",
+        "Python",
+        "MATLAB",
+        "AI diagnostics",
+        "Accelerometers",
+        "Microphones",
+        "Acoustic emission",
         "Rail systems"
       ]
     },
     {
       "title": "Doctoral Researcher",
       "company": "Chair of Acoustics and Haptics, TU Dresden",
-      "dates": "Apr 2023 – Present",
+      "dates": "Apr 2023 – Aug 2025",
       "location": "Dresden, Germany",
+      "project": "Perception-based vibro-acoustic engineering for electric mobility and whole-body vibration",
       "bullets": [
-        "Designed psychoacoustic studies with 20–21 participants and up to 35 vehicle-sound stimuli to evaluate sound quality, annoyance, urgency, masking, and perceptual discrimination.",
-        "Applied PCA, MANOVA, logistic regression, non-parametric tests, and psychoacoustic metrics to convert listener responses into engineering recommendations.",
-        "Produced one peer-reviewed JAES article and five vehicle-acoustics conference contributions between 2024 and 2026."
+        "Conducted acoustic and vibration measurements for electric-truck Acoustic Vehicle Alerting Systems and developed binaural sound-reproduction workflows.",
+        "Designed psychoacoustic listening studies with 20–21 participants and up to 35 sound stimuli to assess sound quality, annoyance, urgency, masking, and perceptual discrimination.",
+        "Developed experimental methods for masking-threshold estimation and haptic perception, and analysed results using PCA, MANOVA, logistic regression, non-parametric tests, and psychoacoustic metrics.",
+        "Supervised senior engineering students in vehicle sound design and practical acoustic-measurement projects."
+      ],
+      "outcomes": [
+        "1 peer-reviewed JAES article",
+        "5 vehicle-acoustics conference contributions",
+        "20–21 participants per study",
+        "Up to 35 evaluated sound stimuli"
       ],
       "tags": [
         "Psychoacoustics",
-        "Sound quality",
-        "Experimental design",
-        "MATLAB"
+        "Vehicle acoustics",
+        "Artemis SUITE",
+        "HEAD Lab O2",
+        "SQuadriga",
+        "Binaural measurements",
+        "MATLAB",
+        "Statistics"
       ]
     },
     {
       "title": "Design Engineer",
-      "company": "GE Aerospace",
+      "company": "TEI – TUSAŞ Engine Industries / GE Aviation Engines",
       "dates": "Nov 2022 – Mar 2023",
-      "location": "Kocaeli, Türkiye",
+      "location": "Gebze, Kocaeli, Türkiye",
+      "project": "Mechanical design support for GE Aviation engine programmes at the Gebze Technology Centre",
       "bullets": [
-        "Supported design-engineering activities for CT7/T700 turboshaft and turboprop engine programmes."
+        "Supported design-engineering activities for GE Aviation engine programmes within a multidisciplinary aerospace environment."
+      ],
+      "outcomes": [
+        "Aerospace engine programmes",
+        "Multidisciplinary design environment"
       ],
       "tags": [
         "Aerospace",
         "Mechanical design",
+        "Engineering documentation",
         "Turbomachinery"
       ]
     },
     {
       "title": "Co-Founder",
-      "company": "TEDAVEM Information Systems",
-      "dates": "Jun 2021 – Jan 2023",
+      "company": "TEDAVEM Electronics and Information Systems",
+      "dates": "Jul 2021 – Feb 2023",
       "location": "Istanbul, Türkiye",
+      "project": "Government-funded medical-IoT systems for monitoring hospital devices and invasive equipment",
       "bullets": [
-        "Co-founded a medical-IoT start-up developing monitoring concepts for ventilation, infusion equipment, and invasive devices.",
-        "Contributed to sensing, device communication, and integrated-circuit concepts that resulted in three patents/utility models.",
-        "Secured USD 25,000 in TÜBİTAK TEYDEB 1512 techno-start-up funding."
+        "Co-founded a technology start-up developing monitoring concepts for ventilation, infusion equipment, vascular-access dislodgement, and nasogastric-tube systems.",
+        "Contributed to sensing, device communication, electronic-system concepts, prototype development, and intellectual-property preparation."
+      ],
+      "outcomes": [
+        "3 patents / utility models",
+        "USD 25,000 TÜBİTAK start-up funding",
+        "Medical-IoT product concepts"
       ],
       "tags": [
         "Medical IoT",
         "Product development",
+        "Sensors",
         "Patents",
         "Entrepreneurship"
       ]
     },
     {
-      "title": "Flexible Electronics Researcher",
+      "title": "Flexible Electronics Engineer Intern",
       "company": "Kordsa R&D",
       "dates": "Mar 2022 – Sep 2022",
-      "location": "Istanbul, Türkiye",
+      "location": "Türkiye",
+      "project": "Thin films and flexible electronic sensors",
       "bullets": [
-        "Worked in the Thin Films & Flexible Electronic Sensors department, selected through a 0.35% applicant-acceptance programme.",
-        "Developed LabVIEW software for repeatable experimental testing of flexible electronic sensor systems."
+        "Supported experimental development and testing of flexible electronic sensor systems.",
+        "Developed LabVIEW software for repeatable laboratory testing."
+      ],
+      "outcomes": [
+        "0.35% programme acceptance rate",
+        "Automated LabVIEW test workflow"
       ],
       "tags": [
         "Flexible electronics",
@@ -453,19 +497,27 @@
       ]
     },
     {
-      "title": "Researcher",
+      "title": "Graduate Researcher",
       "company": "Bio-Integrated Microdevices Laboratory, Koç University",
-      "dates": "Jan 2020 – Sep 2022",
+      "dates": "Jun 2020 – Sep 2022",
       "location": "Istanbul, Türkiye",
+      "project": "Flexible piezoelectric energy harvesters, PMUTs, and wearable sensing systems",
       "bullets": [
-        "Modelled, fabricated, and tested flexible piezoelectric energy harvesters and miniaturised ultrasound transducers using COMSOL FEM and acoustic equivalent circuits.",
-        "Converted the research into two journal articles, one master’s thesis, one IEEE conference paper, and wearable-sensor concepts."
+        "Modelled, fabricated, and tested PVDF-TrFE energy harvesters and miniaturised ultrasound transducers using COMSOL FEM and acoustic equivalent circuits.",
+        "Extended earlier undergraduate work on wearable sensing for vascular-access dislodgement detection."
+      ],
+      "outcomes": [
+        "2 journal articles",
+        "1 master’s thesis",
+        "1 IEEE conference paper",
+        "Wearable-sensor concept"
       ],
       "tags": [
         "COMSOL",
+        "PVDF-TrFE",
         "Piezoelectric transducers",
         "Microfabrication",
-        "Sensors"
+        "Equivalent circuits"
       ]
     }
   ],
@@ -473,14 +525,26 @@
     {
       "title": "Automotive R&D Intern",
       "company": "Groupe Renault",
-      "dates": "Jun 2019 – Aug 2019",
-      "detail": "Developed a CATIA automation tool exceeding 20,000 lines of code for 3D-part workflows."
+      "dates": "Jul 2019 – Sep 2019",
+      "detail": "Developed a 22,000-line Visual Basic application that automated CATIA workflows and integrated more than 100 distinct 3D parts for R&D engineers."
     },
     {
       "title": "Mechanical Engineering Intern",
-      "company": "Turkish Aerospace",
+      "company": "Turkish Aerospace Industries",
       "dates": "Nov 2019 – May 2020",
-      "detail": "Supported safety-management engineering and performed PATRAN FEM and 3D-CAD work for aerospace components."
+      "detail": "Completed a long-term placement in the Safety Management Systems Department."
+    },
+    {
+      "title": "Engineering Intern",
+      "company": "Turkish Aerospace, ITU Teknopark",
+      "dates": "Dec 2018 – Jan 2019",
+      "detail": "Completed theoretical FEM training and practical PATRAN and CATIA assignments, documenting engineering solutions in weekly technical reports."
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Koç University",
+      "dates": "Oct 2020 – Jan 2021",
+      "detail": "Supported the senior-level Mechanical Engineering Laboratory course."
     }
   ],
   "education": [
@@ -875,5 +939,23 @@
     "linkedin": "https://www.linkedin.com/in/bkullukcu",
     "github": "https://github.com/bkullukcu",
     "scholar": "https://scholar.google.com/citations?user=1P4pBzQAAAAJ&hl=en"
-  }
+  },
+  "experienceHighlights": [
+    {
+      "number": "22,000+",
+      "label": "lines of CATIA automation code"
+    },
+    {
+      "number": "100+",
+      "label": "3D parts integrated at Renault"
+    },
+    {
+      "number": "3",
+      "label": "patents / utility models"
+    },
+    {
+      "number": "USD 25k",
+      "label": "competitive start-up funding"
+    }
+  ]
 }
