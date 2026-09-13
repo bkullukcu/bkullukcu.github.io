@@ -846,7 +846,9 @@
       "paperUrl": "https://arxiv.org/pdf/2605.29950",
       "paperLabel": "Preprint öffnen",
       "video": {
-        "type": "placeholder"
+        "type": "local",
+        "url": "/videos/FA2026.mp4",
+        "message": "Präsentation ansehen"
       }
     },
     {
