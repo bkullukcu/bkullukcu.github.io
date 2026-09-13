@@ -8,6 +8,12 @@ const esc=s=>String(s??'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 const icon=n=>({wave:'∿',test:'✓',signal:'⌁'}[n]||'•');
 const cvPath=()=>lang==='de'?'/Berkay_Kullukcu_CV_DE.pdf':'/Berkay_Kullukcu_CV_EN.pdf';
 const btn=(label,url,cls='')=>`<a class="button ${cls}" href="${url}">${esc(label)}</a>`;
+function talkStatus(t){
+ const raw=String(t?.status||'').toLowerCase();
+ const upcoming=raw.includes('upcoming')||raw.includes('bevorsteh')||raw.includes('accepted')||raw.includes('angenommen');
+ const label=upcoming?data.talksPage.upcoming:data.talksPage.presented;
+ return `<span class="talk-status ${upcoming?'upcoming':'presented'}">${esc(label)}</span>`;
+}
 function navActive(key){if(page==='home'&&key==='home')return'active';if(page==='selected-work'&&key==='work')return'active';if(page==='experience'&&key==='experience')return'active';if(page==='talks'&&key==='talks')return'active';if(page==='research-outputs'&&key==='outputs')return'active';if(page==='contact'&&key==='contact')return'active';return''}
 function renderHeader(){const n=data.nav;document.getElementById('site-header').innerHTML=`<div class="site-header"><div class="container nav-wrap"><a class="brand" href="/"><img src="/logo192.png" alt="BK"><span>Berkay Kullukçu</span></a><nav class="nav" aria-label="Primary"><a class="${navActive('home')}" href="/">${esc(n.home)}</a><a class="${navActive('work')}" href="${paths.work}">${esc(n.work)}</a><a class="${navActive('experience')}" href="${paths.experience}">${esc(n.experience)}</a><a class="${navActive('talks')}" href="${paths.talks}">${esc(n.talks)}</a><a class="${navActive('outputs')}" href="${paths.outputs}">${esc(n.outputs)}</a><a class="${navActive('contact')}" href="${paths.contact}">${esc(n.contact)}</a></nav><div class="nav-actions"><button class="lang-toggle" type="button" aria-label="Change language">${lang==='en'?'DE':'EN'}</button><a class="button primary small cv-button" href="${cvPath()}" target="_blank" rel="noopener">${esc(n.cv)}</a><button class="menu-toggle" aria-label="${esc(n.menu)}" aria-expanded="false">☰</button></div></div></div>`;
  const toggles=[...document.querySelectorAll('.menu-toggle')];const nav=document.querySelector('.nav');toggles.forEach(b=>b.addEventListener('click',()=>{const o=nav.classList.toggle('open');toggles.forEach(x=>x.setAttribute('aria-expanded',o))}));
